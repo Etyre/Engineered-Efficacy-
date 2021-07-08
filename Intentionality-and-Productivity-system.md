@@ -1,4 +1,19 @@
 
-Doing some testing.
+#Outline of Productivity and Intentionality System
 
-## test header
+##Becoming Resourced
+
+###Sleep
+
+###Exercise
+
+###Rest days
+
+###Day-level Energetic Rhythms
+
+###State modulation
+
+
+##Attentional Habits
+
+
