@@ -62,12 +62,11 @@ Cold showers
 
 After sleep, the most important habit / behavior pattern for maintaining high energy is sufficient regular exercise. When I am exercising intensely enough, regularly, I feel more alert and energetic.
 
-Intensity
+####Intensity
 
 How much is “enough”? As a heuristic, I want to exercise hard enough that I break a sweat *or* I am at least a little bit sore the next day. 
 
-
-Regularity
+####Regularity
 
 In practice, it doesn't seem to make that much of a difference if I skip exercise for one day. But, if I go 3 or 4 days without being active, I'll tend to feel slightly slugish or generally unmotivated. And from this state, going to exercise feels more onerous. So I make a point to exercise almost every day, 
 
@@ -81,22 +80,29 @@ Years, ago, I was listening a podcast (the Freakenomics podcast?), in which they
 
 The difference, in health, cognitive, and longevity outcomes, between exercising regularly and not is much larger than the difference between some form of exercise and some theoretically more efficient form of exercise. It is much more effective to find ways to exercise that you actually like than it is try and find the most efficient kind, since you’re more likely to form a habit around the exercise that you actually like.
 
-I prefer a form of exercise that does not demand constant attention / exertion of will power from me over the course of the activity, but rather once I show up and start, the default is to keep going. Strength training is like this for me: once I’ve started I don’t really need to force myself to keep going, there’s a kind of rhythm to it, where as (again) for me, running feels like a continuous slog where I have to keep deciding not to stop.
+I prefer forms of exercise that do not demand constant attention / exertion of will power  over the course of the activity. Practices for which, once I show up and start, the default is to keep going. 
 
-Personally, my main exercise is Barbell training (squats, deadlifts, shoulder presses, bent over rows, bench press), and bodyweight exercises (pullups, chinups). I’ll sometimes supplement that with some light jogging, or jump rope. Lately, I’ve also been playing beatsaber, which is super fun.
+Strength training is like this for me: once I’ve started I don’t really need to force myself to keep going, there’s a kind of rhythm to it, where as (again) for me, running feels like a continuous slog where I have to keep deciding not to stop. Juggling and playing beat-saber are similar.
 
-Lowering activation energy
+Personally, my main exercise is Barbell training (squats, deadlifts, shoulder presses, bent over rows, bench press), and bodyweight exercises (pullups, chinups). I also often play beatsaber, which is super fun, with weights on my arms.
+
+
+
+####Lowering activation energy
 
 Exercise is the most important of the things that I aim to do just about every day. As such it is worth it to debug and clear away any even slight aversion or impediment to going to train.
 
 The following are examples of slight / subtle aversions that turned out to be at root of a disinclination to exercise, and how I debugged them.
 
-“It has been feeling weird and I have some fear that I’m hurting myself” -> I booked a session with a personal trainer to check my form
+“My squat has been feeling weird and I have some fear that I’m hurting myself” -> I booked a session with a personal trainer to check my form
+
 “I’m afraid to push my limit because I don’t have a spotter” -> I purchased spotter arms 
+
 “It’s too hot out” -> I got a fan, and also switched to exercising at night
+
 “It’s cold out” -> I started running and playing beatsaber instead of weight lifting.
 
-Action Chunking
+#####Action Chunking
 
 Sometimes, I will hit my trigger to go out an exercise (what the trigger is might vary day by day, but often it is my first work break), and I just won’t feel like it.
 
@@ -110,7 +116,7 @@ Action chunking is usually sufficient to lower the activation energy to starting
 
 Like everything else, of course, the transition function for exercise is made more reliable by future pacing it. [link]
 
-Pushing past dragginess
+#####Amping up Pushing past dragginess
 
 Sometimes I’ll be particularly tired or draggy, on a day, but I want to exercise anyway. To counteract my disinclination to exert myself, I’ll get into a slightly high-arousal mode. 
 
