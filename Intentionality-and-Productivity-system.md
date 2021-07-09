@@ -31,6 +31,12 @@ In contrast, I usually walk around the block first thing in the morning (while I
 
 #####Timing
 
+Light first thing
+
+Inner wake up call
+
+Spring out of bed
+
 #####Temperature
 
 
@@ -39,6 +45,12 @@ Sauna
 Cold showers
 
 #####Ventilation and CO2
+
+#####Ease of peeing
+
+This sounds kind of silly. I have sometimes find that I sleep badly because I’ll wake up in the middle of the night with a full bladder. I should get up and pee, but because there are a number of steps between me and the bathroom (maybe I need to put on a robe, or navigate around a desk that I can’t see well in the dark), I have an aversion to getting up, and I just stay there in bed and then fall back into (uncomfortable) sleep. 
+
+But I can circumvent this with future pacing. I’ll practice, when I’m awake, the steps that I need to take to go pee, so that when I wake up in the middle of the night, that’s the default action.
 
 #####Mattress?
 
@@ -81,7 +93,7 @@ Personally, my main exercise is Barbell training (squats, deadlifts, shoulder pr
 I find that squats are particularly important for some reason.
 
 
-####Lowering activation energy
+####Lowering activation energy to exercise
 
 Exercise is the most important of the things that I aim to do just about every day. I want the transition to exercise to be a smooth and easy. As such it is worth it to debug and clear away any, even very slight, aversion or impediment to going to train. 
 
@@ -137,6 +149,18 @@ In addition to all of the above, I have a policy that I don’t eat a second mea
 ###Rest days
 
 ###Day-level Energetic Rhythms
+
+####Eating depresses dampens / cuts / saps / blunts energy
+
+kills momentum
+
+
+####Non-Sleep Deep Rest
+
+
+Note: Set up multi-n experiment comparing Yoga-nidra to just lying down with your eyes closed for a similar amount of time.
+
+
 
 ###State modulation
 
