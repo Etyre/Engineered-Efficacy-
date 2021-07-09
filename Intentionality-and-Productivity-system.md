@@ -18,6 +18,14 @@ Two broad mutually supportive struts or parts: Being resourced and Habits for gu
 
 ##Being Resourced
 
+
+
+In earlier versions of this model, I mapped out specific psychological states that were necessary for sustaining high output. But I've mostly decided 
+
+- Energy
+
+- Spaciousness / reflectiveness / the opposite of driveness
+
 ###Sleep
 
 By far the most important behavior for maintaining high energy is sufficient high quality sleep. While I have some tricks for maintaining high focus and momentum even when sleep deprived, the number one most important thing for sustaining high output is to get regular, good sleep. 
@@ -63,7 +71,12 @@ Four things that I'm experimenting with
 
 #####Ventilation and CO2
 
-I'm told that 
+I'm told that CO2 buildup in the air compromises cognition, and that CO2 build up in the room you're sleeping in can lead to grogginess or low energy during the day.
+
+I haven't tested that myself, but I also crack a window in the room that I sleep in.
+
+######Mouthtaping
+
 
 #####Ease of peeing
 
@@ -89,19 +102,25 @@ When I'm not falling asleep this is either because circadian is off or sleep dri
 
 #####Timing
 
-Light first thing
 
 
 
 #####Waking up
 
-Inner wake up call
+######Inner wake up call
 
-Spring out of bed
+######Spring out of bed
+
+######Light first thing
+
 
 #####When I'm restless
 
+######Journal
 
+######Meditate
+
+######Drink Soylent 
 
 ###Exercise
 
@@ -250,42 +269,7 @@ kills momentum
 Note: Set up multi-n experiment comparing Yoga-nidra to just lying down with your eyes closed for a similar amount of time. 
 
 
-###State modulation
 
-####Sleep Deprivation
-
-- Amp up and then move to a high cadence task.
-
-####Slow / tired / draggy
-
-- During a work period: Amp up 
-- In between a work period: Yoga nidra
-
-####Cognitively tired / worn out
-
-- Yoga Nidra
-- Exercise
-
-####Stimulation hunger
-
-- Browsing youtube
-- listening to audiobooks
-
-- Lie down with eyes closed
-
-####Fuzzy-headed
-
-Exercise
-
-####Headache 
-
-Go take electrolytes 
-
-####Agitated
-
-####Compulsive / Impulsive
-
-Feel into the body sensation of the compulsiveness
 
 
 ##Attentional Habits and Modes
@@ -339,6 +323,42 @@ so that next actions are cognitively available.
     - Tools for control dopamine-triggering attention hooks 
     - GTD
 
+###State modulation
+
+####Sleep Deprivation
+
+- Amp up and then move to a high cadence task.
+
+####Slow / tired / draggy
+
+- During a work period: Amp up 
+- In between a work period: Yoga nidra
+
+####Cognitively tired / worn out
+
+- Yoga Nidra
+- Exercise
+
+####Stimulation hunger
+
+- Browsing youtube
+- listening to audiobooks
+
+- Lie down with eyes closed
+
+####Fuzzy-headed
+
+Exercise
+
+####Headache 
+
+Go take electrolytes 
+
+####Agitated
+
+####Compulsive / Impulsive
+
+Feel into the body sensation of the compulsiveness
 
 
 ###Intention awareness
