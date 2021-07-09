@@ -2,10 +2,19 @@
 #Outline of Productivity and Intentionality System
 
 ##Overview
+[I'm going to come back and write the overview last.]
 
-Notes on how to read this document
+###What this document is
 
-I'll try to clearly distinguish between specific techniques or strategies that I find helpful (for which one's metaphorical milage may vary) and general underlying principles, which I expect to be relevant across people.
+###High Level View of this system
+
+Two broad mutually supportive struts or parts: Being resourced and Habits for guiding my attention. 
+
+###Notes on reading this document
+
+- I'll try to clearly distinguish between specific techniques or strategies that I find helpful (for which one's metaphorical milage may vary) and general underlying principles, which I expect to be relevant across people.
+
+- When I cite academic evidence, I'll note if that evidence is a crux for me or not, and I'll note if the academic evidence 
 
 ##Being Resourced
 
@@ -29,14 +38,6 @@ So if I'm on a schedule where my sleep period overlaps with the sun being up, I 
 
 In contrast, I usually walk around the block first thing in the morning (while I brush my teeth), to expose myself to light 
 
-#####Timing
-
-Light first thing
-
-Inner wake up call
-
-Spring out of bed
-
 #####Cold
 
 My current posit is that the principle factor for the depth and quality of sleep is my core body temperature during the night. The colder I am, the better I sleep. 
@@ -45,21 +46,24 @@ My current posit is that the principle factor for the depth and quality of sleep
 
 The most straightforward way to cool down my body at night is to sleep in a very cold room, I guess around 65 to 70 degrees ferinheight. (Note: I could actually check with my sleep data from 2020, in which ambient temperature is one of the things that I randomized.)
 
-However, I currently don't have temperature control over the room that I sleep in. I make up for this with a big fan, right behind my head, that blows in the direction of my feet. (Note: It stands to reason that the sound of the fan is hurting my sleep quality. I might want to check this out. If need be, I guess I could get a several of those pink noise fans.)
+However, I currently don't have temperature control over the room that I sleep in. I make up for this with a big fan, right behind my head, that blows in the direction of my feet. (Note: It stands to reason that the sound of the fan is hurting my sleep quality. I might want to check this out. If need be, I guess I could get a several of those pink noise fans.) This also helps with airflow and ventilation [see the next section.]
 
 I've also used a chilipad a various points, but I didn't notice that much of a benefit from it. (I might want to reassess this.)
 
 ######Physiological hacks
 
-Beyond 
+Beyond simply being in a cold place, I think that you can lower your core night-time body temperature by using your body's homeostatic responses.
 
+Four things that I'm experimenting with
 
-
-Sauna 
-
-Cold showers
+- Taking saunas in the evening
+- Taking warm showers right before bed
+- Taking cold showers right before bed
+- Taking alternating warm-cold showers right before bed. 
 
 #####Ventilation and CO2
+
+I'm told that 
 
 #####Ease of peeing
 
@@ -69,12 +73,31 @@ I can circumvent this via future-pacing and rehearsal. I’ll practice, when I�
 
 #####Mattress?
 
+It stands to reason that I would sleep better with a high quality mattress, but I haven't really investigated that yet.
+
 #####Supplements
+
+I currently take [dose] of melatonin shortly before going to bed.
+
+Gwern’s page says it all. [link]
+
+However, Andrew Huberman suggests [link], that I should instead be taking the following: 
 
 ####Falling asleep
 
 When I'm not falling asleep this is either because circadian is off or sleep drive is off or I have conflicted intentions.
 
+#####Timing
+
+Light first thing
+
+
+
+#####Waking up
+
+Inner wake up call
+
+Spring out of bed
 
 #####When I'm restless
 
@@ -127,7 +150,7 @@ The following are examples of slight / subtle aversions that turned out to be at
 
 “It’s cold out” -> I started running and playing beatsaber instead of weight lifting.
 
-#####Booting up
+#####Booting up from not exercising equilibrium
 
 Occasionally, for one reason or another, I'll have fallen out of my regular rhythm, and I won't have exercised in a week or more. As noted, this is a kind of positive feedback system: when I'm in an equilibrium where I'm not exercising, going to exercise feels particularly onerous, but when I'm exercising regularly, going to exercise will usually feel attractive.
 
@@ -165,6 +188,54 @@ Then, between sets, I’ll pace and take deep moderately-paced nasal breaths, to
 In addition to all of the above, I have a policy that I don’t eat a second meal of the day unless I have done some exercise, even if it is just pullups. 
 
 ###Rest days
+
+I didn't used to take explicit rest days. But I experimented with it, on the advise of Anna Salamon, and the difference in how I felt was noticeable. Remember, we are aiming for effective modes, not effective traits. If you never give yourself explicit time to rest (or don’t give yourself enough time), then you’ll tend to slack off during your work time. You want your work time to be high quality, which means supporting that work time with explicit rest time. These days, I take a rest day at least once a week.
+
+In my parlance, a rest day is a day where I steer mainly by the question “what would be most nourishing right now?” / I don’t do anything that I don’t viscerally feel like doing, from the time I wake up to the time that I go to sleep (modulo taking a little bit of time in the evening to do a daily review and plan my next day).
+
+I don’t exactly avoid using will power, since for instance, I might strength train hard, which does require some amount of will power, but it still feels “soft” or something.
+
+Personally, on rest days I will often:
+
+* Meditate
+* Strength train
+* go on walks
+* Cook my own food
+* Make music
+* Start new side projects
+* Read comic books
+* Watch movies
+
+The day after a rest day, the feeling of refreshedness is palpable. I subjectively feel more alert, and responsive, and energetic, and it is easier to focus.
+
+####Theory
+
+I’m not sure what the “active ingredient” of rest days are. I will sometimes spend much of a rest day doing pretty intense cognitive work on some side project, but nevertheless, I’ll feel notably refreshed the next day. This makes me think that the core thing is something like “dropping my psychological commitments” (in the GTD sense of the word “commitment”). Where usually some part of my mind is tracking all the things that need to happen and that I want to do, on a rest day, anytime a commitment “pings” me, I respond with “that’s not my responsibility today.”
+
+[link to ‘pause your feedback loops’]
+
+It is also possible that the active ingredient is just that I’m doing different things on rest days than on work days, 
+
+[Dig deeper into intrinsic and extrinsic motivation and how it relates to energy levels.]
+
+I haven’t figured out the optimal cadence of rest days yet. Presumably there is some frequency that maximizes my output, and I could find this number by simple binary search.
+
+[link to ‘weekend Wednesdays’]
+
+####Prerestday space clearing
+
+Because I want to turn off my sense of stress and pressure for a day, I need to explicitly process everything and put them all in their places, before the rest day starts. The goal is to deal with everything urgent, and make plans for the next workday, to deal with everything else.
+
+#####Pre Rest day checklist:
+
+1. Preparation (must be day before)
+	1. Process personal email
+	2. Process CFAR email
+	3. Process reminders
+	4. Process distraction notes
+	5. Do a check for dangling threads / open loops. Deal with them, schedule them, or put them in a process.
+	6. Schedule my next rest day.
+
 
 ###Day-level Energetic Rhythms
 
@@ -306,7 +377,7 @@ Attenttional bandwidth?
 
 
 
-Ideal living setup
+###Notes on my ideal living setup
 
 - Three spaces, all in separate buildings within 1 to 3 blocks of each other
 	- Sleeping space
