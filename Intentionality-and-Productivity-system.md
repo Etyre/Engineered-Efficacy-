@@ -224,6 +224,7 @@ Personally, on rest days I will often:
 * Start new side projects
 * Read comic books
 * Watch movies
+* Sauna
 
 The day after a rest day, the feeling of refreshedness is palpable. I subjectively feel more alert, and responsive, and energetic, and it is easier to focus.
 
@@ -279,6 +280,80 @@ Note: Set up multi-n experiment comparing Yoga-nidra to just lying down with you
 ####Deep Work
 
 ####Taut Task Blocks
+
+One of the key modes [link to “modes, not states”] of my whole system is what I’m tetivevely calling “taut” executing intentions time. 
+
+Roughly, this refers to a timebox in which my intentionality doesn’t lapse: every action is consciously selected, and I don’t engage in anything (during that timbox) that would distract or sap my metacognition. This mode is the main way I do individual tasks that that take an hour or less to complete (as opposed to work that requires long uninterrupted blocks / as opposed to deep work [either way, link to deep work].
+
+(I consider this mode a more specific version of the Executing Intentions mindset that we teach at CFAR workshops. In just executing intentions, you’re free to do whatever you want, as long as you consciously choose it. This TEI time is work time for me, and I’m focused on making work progress in particular.)
+
+I call this taut executing intiontions time, because it has a phenomenology of just a slight amount of tension. There’s a sense of something that I’m not allowing to go slack. There’s a persistent sense of slight urgency.
+The key components of taut the executing intations:
+
+* Every action is deliberate and intentional
+* Maintain the metacognitive thread
+* Decouple energy from intentionality
+* Keep arousal high
+* Avoid rabbit holes and wasted motions
+
+Every action is deliberate and intentional
+
+In this mode, I don’t allow myself to lackadaisically do something, and then find something else interesting and shift to something else. The senes of “what I’m doing right now” is crisp. I’m allowed, at any time, or for any reason, to shift what I’m doing, but the decision to do so must be deliberate and explicit.
+
+in support of this, I will usually narrate my steering-decisions out loud to myself: 
+
+Ok, I was looking at my email and I received a newsletter, so I’m now going to switch to reading and taking notes on that.
+
+or 
+
+I just realized that I need to get a new key made before I leave, and the place might be closed tomorrow. I’m going switch to checking that … ok. I’m going to go to the key-maker place now.
+
+This sort of narration is also helpful for dealing with ambiguity. [include this? Say more?]
+
+I also track all of my time with toggl track, which gives the affordance for this kind of explicitness.
+Maintain the metacognitive thread
+I call this taut executing intiontions time, because it has a phenomenology of just a slight amount of tension. There’s a sense of something that I’m not allowing to go slack. There’s a persistent sense of slight urgency.
+
+Basically, at no point in the timebox do I “put down” the meta-intention of being conscious and deliberate about my actions. Even as I’m engaged in a task there’s a part of me that’s keeping track of my meta-intention, and has a sense , so that if I start to go down a rabbit hole, or finish some specific task, I don’t just drift, but rather re-assess and choose.
+
+There’s a kind of consistent metacognitive thread that is alive from the beginning of the timebox to the end of the timebox.
+
+Because of this, there are a few activities that I don’t engage in at all when I’m in this mode.
+No audiobooks or podcasts 
+I’ll sometimes listen to audiobooks while I’m walking places or when I’m doing menial tasks like cleaning my space or while I’m pooping (I do this much less now, since I started taking notes on pretty much everything I read or listen to).
+
+But I don’t do this in an TEI block, because listening to audio sucks me away from my task context, and into the content of the audio. It kicks out the metacognitive thread, and replaces it with a different thread; that of the story or conversation.
+No social media
+Social media is amazingly effective as sucking away my intentionality. Twitter is filled with little hooks that catch my attention and pull me away from whatever I was thinking about or trying to do. So I likewise don’t use social media during TEI blocks.
+No eating food
+Eating food can also be a way to 
+Decouple energy from intentionality
+Oftentimes, I’ve treated feeling tired or low energy as an excuse for slouching off, and and letting the crispness of my intention for what I’m currently doing melt / degrade / leak. 
+
+One of the key pieces of the TEI mindset is that you don’t allow yourself to do this. You should certainly take your energy level into account in deciding what to do, but you do not allow your low energy to be an excuse for keeping intentionality high.
+
+When I feel drained or low energy in a TEI block, I insist on maintaining intentionality anyway, and I move to do something that will recoup my energy (most basically, exercising).
+Keep arousal high
+I speculate that a part of the tautness that is being maintained is slightly heightened physiological arousal. You’re just a little bit activated.
+
+For this reason, I don’t eat anything during TEI blocks, because eating puts me in a rest and digest mode that lowers arousal and mutes my sense of forward momentum. 
+
+One side benefit of not eating: I would sometimes use making or eating food as a coping strategy. There’s something that some part of me wants to avoid, at least a little bit, and going to make food and eat it gives me something to procrastinate with. Having a temporary moratorium of eating, means that I notice when I have the urge to go make food, so that I can double click on it and tease out the aversion.
+Avoid rabbit holes and wasted motions
+In this mode, I want to be particularly on the ball about not wasting time or going down low value rabbit holes. My goal is to get the key things done as quickly as possible.
+
+This part is a little bit new fow me, but my current plan is to train this to just note, in roam, every time I start to go down, or consider going down a rabbit hole. 
+Noticing Aversions
+One advantage of maintaining a state with explicitly high metacognition and deliberateness is that it sharpens my focus of subtle aversions, to tasks (particularly ambiguity aversions). When your intentionality is vague it is harder to notice when you’re avoiding something. But if you’re being explicit about what you intention is at any given point, and you’re crisply deciding what to do next, it stands out more starkly if there’s something you’re shying away from.
+
+From that noticing, I’ll double click on the aversion, and tease out its structure. [link]
+
+Schedule 
+
+These days, I usually do one TEI block on a work day, typically 3 to 5 hours in the first part of my day.
+
+
+I first wrote about this mode [here](https://musingsandroughdrafts.wordpress.com/2020/02/10/modes-not-traits-and-decoupling-cognitive-energy-from-intentionality/).
 
 ####Rest
 
