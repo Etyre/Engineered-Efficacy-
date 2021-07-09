@@ -50,14 +50,6 @@ Cold showers
 
 
 
-
-
-
-
-
-
-
-
 ###Exercise
 
 After sleep, the most important habit / behavior pattern for maintaining high energy is sufficient regular exercise. When I am exercising intensely enough, regularly, I feel more alert and energetic.
@@ -86,11 +78,14 @@ Strength training is like this for me: once I’ve started I don’t really need
 
 Personally, my main exercise is Barbell training (squats, deadlifts, shoulder presses, bent over rows, bench press), and bodyweight exercises (pullups, chinups). I also often play beatsaber, which is super fun, with weights on my arms.
 
+I find that squats are particularly important for some reason.
 
 
 ####Lowering activation energy
 
-Exercise is the most important of the things that I aim to do just about every day. As such it is worth it to debug and clear away any even slight aversion or impediment to going to train.
+Exercise is the most important of the things that I aim to do just about every day. I want the transition to exercise to be a smooth and easy. As such it is worth it to debug and clear away any, even very slight, aversion or impediment to going to train. 
+
+#####Debugging systemic aversions to exercise
 
 The following are examples of slight / subtle aversions that turned out to be at root of a disinclination to exercise, and how I debugged them.
 
@@ -102,11 +97,19 @@ The following are examples of slight / subtle aversions that turned out to be at
 
 “It’s cold out” -> I started running and playing beatsaber instead of weight lifting.
 
+#####Booting up
+
+Occasionally, for one reason or another, I'll have fallen out of my regular rhythm, and I won't have exercised in a week or more. As noted, this is a kind of positive feedback system: when I'm in an equilibrium where I'm not exercising, going to exercise feels particularly onerous, but when I'm exercising regularly, going to exercise will usually feel attractive.
+
+So when I'm attempting to boot up from one equilibrium to another, I'll try to find the easiest and most attractive form of exercise, to lower the required activation energy as much as possible. In practice this usually means playing beatsaber. 
+
 #####Action Chunking
 
 Sometimes, I will hit my trigger to go out an exercise (what the trigger is might vary day by day, but often it is my first work break), and I just won’t feel like it.
 
-In this situation I default to “action chunking”: I’ll ask “what’s the smallest proximal next action that I need to do to go strength train?”, and then visualize that next step in my head. I find that just visualizing the action, over and over, tends to cause me to get up and execute the action 
+In this situation I default to “action chunking”: I’ll ask “what’s the smallest proximal next action that I need to do to go strength train?”, and then visualize that next step in my head. I find that just visualizing the action, over and over, tends to cause me to get up and execute the action. 
+
+[Note: this seems related to unbundling clarification and execution]
 
 For instance, if I’m sitting on the couch in the office, the first step to going to exercise is to stand up and press the button on the elevator. 
 
@@ -118,13 +121,18 @@ Like everything else, of course, the transition function for exercise is made mo
 
 #####Amping up Pushing past dragginess
 
-Sometimes I’ll be particularly tired or draggy, on a day, but I want to exercise anyway. To counteract my disinclination to exert myself, I’ll get into a slightly high-arousal mode. 
+Sometimes I’ll be particularly tired or draggy, on a day, but I want to exercise anyway. To counteract my disinclination to exert myself, I’ll use my activation process to get into a slightly high-arousal mode. 
 
-Between sets, I’ll pace and take deep moderately-paced nasal breaths, to maintain a somewhat heightened level of physiological arousal. 
+	**Activation Process:**
+	
+	1. 40 Pushups
+	2. 3 sets of Bellows Breathing (20 breaths a set) 
+
+Then, between sets, I’ll pace and take deep moderately-paced nasal breaths, to maintain a somewhat heightened level of physiological arousal. 
 
 -------
 
-In addition to all of the above, I have a policy that I don’t eat a second meal of the day unless I have done some exercise, even if it is just pull ups. 
+In addition to all of the above, I have a policy that I don’t eat a second meal of the day unless I have done some exercise, even if it is just pullups. 
 
 ###Rest days
 
@@ -134,9 +142,9 @@ In addition to all of the above, I have a policy that I don’t eat a second mea
 
 Sleep Deprivation
 
-Slow / tired
+Slow / tired / draggy
 
-Cognitively tired
+Cognitively tired / worn out
 
 - Yoga Nidra
 - Exercise
@@ -228,6 +236,26 @@ so that next actions are cognitively available.
 ####Structure TAPs
 
 ####Free TAPs
+
+###Principles and mechanisms
+
+Motivation, Arousal, and Energy 
+Aversions
+Ambiguity aversion
+
+Rehersal
+TAPs
+Action Chunking
+Simulation
+Unbundling clarification and execution
+
+Loading things up / short term memory / Cognitive availability 
+
+Attenttional bandwidth?
+
+
+
+
 
 
 
