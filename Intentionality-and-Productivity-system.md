@@ -37,7 +37,22 @@ Inner wake up call
 
 Spring out of bed
 
-#####Temperature
+#####Cold
+
+My current posit is that the principle factor for the depth and quality of sleep is my core body temperature during the night. The colder I am, the better I sleep. 
+
+######Ambient temperature
+
+The most straightforward way to cool down my body at night is to sleep in a very cold room, I guess around 65 to 70 degrees ferinheight. (Note: I could actually check with my sleep data from 2020, in which ambient temperature is one of the things that I randomized.)
+
+However, I currently don't have temperature control over the room that I sleep in. I make up for this with a big fan, right behind my head, that blows in the direction of my feet. (Note: It stands to reason that the sound of the fan is hurting my sleep quality. I might want to check this out. If need be, I guess I could get a several of those pink noise fans.)
+
+I've also used a chilipad a various points, but I didn't notice that much of a benefit from it. (I might want to reassess this.)
+
+######Physiological hacks
+
+Beyond 
+
 
 
 Sauna 
@@ -48,17 +63,20 @@ Cold showers
 
 #####Ease of peeing
 
-This sounds kind of silly. I have sometimes find that I sleep badly because I’ll wake up in the middle of the night with a full bladder. I should get up and pee, but because there are a number of steps between me and the bathroom (maybe I need to put on a robe, or navigate around a desk that I can’t see well in the dark), I have an aversion to getting up, and I just stay there in bed and then fall back into (uncomfortable) sleep. 
+This sounds kind of silly, but I have sometimes find that I sleep badly because I’ll wake up in the middle of the night with a full bladder. I should get up and pee, but because there are a number of steps between me and the bathroom (maybe I need to put on a robe, or navigate around a desk that I can’t see well in the dark), I have an aversion to getting up, and I just stay there in bed and then fall back into an uncomfortable, restless sleep. 
 
-But I can circumvent this with future pacing. I’ll practice, when I’m awake, the steps that I need to take to go pee, so that when I wake up in the middle of the night, that’s the default action.
+I can circumvent this via future-pacing and rehearsal. I’ll practice, when I’m awake, the steps that I need to take to go pee. Then when I wake up in the middle of the night, that’s the default action.
 
 #####Mattress?
 
 #####Supplements
 
-####Strategies for falling asleep
+####Falling asleep
 
-####When I'm restless
+When I'm not falling asleep this is either because circadian is off or sleep drive is off or I have conflicted intentions.
+
+
+#####When I'm restless
 
 
 
@@ -158,35 +176,45 @@ kills momentum
 ####Non-Sleep Deep Rest
 
 
-Note: Set up multi-n experiment comparing Yoga-nidra to just lying down with your eyes closed for a similar amount of time.
-
+Note: Set up multi-n experiment comparing Yoga-nidra to just lying down with your eyes closed for a similar amount of time. 
 
 
 ###State modulation
 
-Sleep Deprivation
+####Sleep Deprivation
 
-Slow / tired / draggy
+- Amp up and then move to a high cadence task.
 
-Cognitively tired / worn out
+####Slow / tired / draggy
+
+- During a work period: Amp up 
+- In between a work period: Yoga nidra
+
+####Cognitively tired / worn out
 
 - Yoga Nidra
 - Exercise
 
-Draggy
-
-Stimulation hunger
+####Stimulation hunger
 
 - Browsing youtube
 - listening to audiobooks
 
-Fuzzy-headed
+- Lie down with eyes closed
 
-Headache 
+####Fuzzy-headed
 
-Agitated
+Exercise
 
-Compulsive / Impulsive
+####Headache 
+
+Go take electrolytes 
+
+####Agitated
+
+####Compulsive / Impulsive
+
+Feel into the body sensation of the compulsiveness
 
 
 ##Attentional Habits and Modes
@@ -205,9 +233,7 @@ Compulsive / Impulsive
 ####Just start mulling
 ####Using a chess timer
 ####Focusmate
-####Unbundling clarification from execution
-	- Daily planning
-	- Pre-focus days
+
 
 ###Loaded up mental context
 
@@ -271,11 +297,39 @@ Rehersal
 TAPs
 Action Chunking
 Simulation
-Unbundling clarification and execution
+**Unbundling clarification and execution**
 
 Loading things up / short term memory / Cognitive availability 
 
 Attenttional bandwidth?
+
+
+
+
+Ideal living setup
+
+- Three spaces, all in separate buildings within 1 to 3 blocks of each other
+	- Sleeping space
+		- I have a light insulated closet or cubby to sleep in
+			- It has very good ventilation
+			- It has good temperature control, and I can set the temperature low.
+		- I have a shower and a sauna nearby.
+	- Deep work space
+		- Standing desk
+		- Big monitor (that connects wirelessly?)
+		- Kneeling chair
+		- Multiple big whiteboards	
+		- Backjack to sit in
+		- No food in the space
+		- I can be assured of not being disturbed
+		- There's a nap place nearby	
+	- Food and socializing space
+	- Squat rack (can be in or near any of the three space?)
+
+
+####Unbundling clarification from execution
+	- Daily planning
+	- Pre-focus days
 
 
 
