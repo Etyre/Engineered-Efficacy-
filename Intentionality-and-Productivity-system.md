@@ -98,19 +98,17 @@ However, Andrew Huberman suggests [link], that I should instead be taking the fo
 
 ####Falling asleep
 
-If I do have a built up sleep pressure, and it is within my sleep window, and I can't 
 
-
-I find that if it is my bedtime, and I have a typical sleep drive
 
 #####Timing
 
+It's hardly original, but the most important factor for falling asleep is to have a consistent bedtime. 
 
-
+[maybe insert some stuff about circadian mechanisms]
 
 #####Waking up
 
-The thing that helps the most (??) with maintaining a consistent sleep time is having a consistent wakeup time.
+The single thing that helps the most (??) with maintaining a consistent sleep time is having a consistent wakeup time.
 
 ######Inner wake up call
 
@@ -124,7 +122,13 @@ Calibrating: I wear a watch in bed so that when I wake up in the night / morning
 
 ######Spring out of bed
 
+I want to start well
 
+I've trained my self to spring out of bed as soon as I wake up, so that I am standing and moving within a second or two of opening my eyes.
+
+You can do this with offline habit training: just practice (during the day, when you're fully awake), laying down in bed with your eyes closed, and then opening your eyes and jumping out of bed. Do 10 reps of this, being careful to reset after each one, so that you're not practicing *getting back into bed*, each time.
+
+I've sometimes used a mantra in this moment as well, to remind me why I care 
 
 ######Light first thing
 
@@ -134,11 +138,23 @@ Early light exposure like this was recommended by Andrew Huberman here. He claim
 
 #####When I'm restless
 
+Claim: Given that 1) it is my bedtime and 2) I have a normal end of the day sleep drive (eg I didn't take a 3 hour nap late in the day), if I am not falling asleep this is because I am executing conflicting intentions. There is always some part of me that is *resisting* falling asleep. Typically, when I look (actually more like feel) for it, I can find it. 
+
+(As a side note, this is part of why having an unclear sleep schedule is poison...
+
+
+
 ######Journal
 
 ######Meditate
 
 ######Drink Soylent 
+
+Eating actives the parasympathetic and enteric nervous system, and is one way to calm sympathetic activation. That's why stress eating is a thing.
+
+However, eating in the hours before bed harms sleep quality. So it isn't a good idea to eat just before bed.
+
+However-however, my initial experiments suggest that 
 
 ###Exercise
 
@@ -297,7 +313,7 @@ Note: Set up multi-n experiment comparing Yoga-nidra to just lying down with you
 
 ####Deep Work
 
-####Taut Task Blocks
+####Taut Task mode
 
 One of the key modes [link to “modes, not states”] of my whole system is what I’m tetivevely calling “taut” executing intentions time. 
 
@@ -305,7 +321,7 @@ Roughly, this refers to a timebox in which my intentionality doesn’t lapse: ev
 
 (I consider this mode a more specific version of the Executing Intentions mindset that we teach at CFAR workshops. In just executing intentions, you’re free to do whatever you want, as long as you consciously choose it. This TEI time is work time for me, and I’m focused on making work progress in particular.)
 
-I call this taut executing intiontions time, because it has a phenomenology of just a slight amount of tension. There’s a sense of something that I’m not allowing to go slack. There’s a persistent sense of slight urgency.
+I call this taut executing intentions time, because it has a phenomenology of just a slight amount of tension. There’s a sense of something that I’m not allowing to go slack. There’s a persistent sense of slight urgency.
 The key components of taut the executing intations:
 
 * Every action is deliberate and intentional
@@ -314,7 +330,7 @@ The key components of taut the executing intations:
 * Keep arousal high
 * Avoid rabbit holes and wasted motions
 
-Every action is deliberate and intentional
+#####Every action is deliberate and intentional
 
 In this mode, I don’t allow myself to lackadaisically do something, and then find something else interesting and shift to something else. The senes of “what I’m doing right now” is crisp. I’m allowed, at any time, or for any reason, to shift what I’m doing, but the decision to do so must be deliberate and explicit.
 
@@ -329,7 +345,8 @@ I just realized that I need to get a new key made before I leave, and the place 
 This sort of narration is also helpful for dealing with ambiguity. [include this? Say more?]
 
 I also track all of my time with toggl track, which gives the affordance for this kind of explicitness.
-Maintain the metacognitive thread
+
+#####Maintain the metacognitive thread
 I call this taut executing intiontions time, because it has a phenomenology of just a slight amount of tension. There’s a sense of something that I’m not allowing to go slack. There’s a persistent sense of slight urgency.
 
 Basically, at no point in the timebox do I “put down” the meta-intention of being conscious and deliberate about my actions. Even as I’m engaged in a task there’s a part of me that’s keeping track of my meta-intention, and has a sense , so that if I start to go down a rabbit hole, or finish some specific task, I don’t just drift, but rather re-assess and choose.
@@ -337,11 +354,15 @@ Basically, at no point in the timebox do I “put down” the meta-intention of 
 There’s a kind of consistent metacognitive thread that is alive from the beginning of the timebox to the end of the timebox.
 
 Because of this, there are a few activities that I don’t engage in at all when I’m in this mode.
-No audiobooks or podcasts 
+
+#####No audiobooks or podcasts 
+
 I’ll sometimes listen to audiobooks while I’m walking places or when I’m doing menial tasks like cleaning my space or while I’m pooping (I do this much less now, since I started taking notes on pretty much everything I read or listen to).
 
 But I don’t do this in an TEI block, because listening to audio sucks me away from my task context, and into the content of the audio. It kicks out the metacognitive thread, and replaces it with a different thread; that of the story or conversation.
-No social media
+
+#####No social media
+
 Social media is amazingly effective as sucking away my intentionality. Twitter is filled with little hooks that catch my attention and pull me away from whatever I was thinking about or trying to do. So I likewise don’t use social media during TEI blocks.
 No eating food
 Eating food can also be a way to 
@@ -361,15 +382,14 @@ Avoid rabbit holes and wasted motions
 In this mode, I want to be particularly on the ball about not wasting time or going down low value rabbit holes. My goal is to get the key things done as quickly as possible.
 
 This part is a little bit new fow me, but my current plan is to train this to just note, in roam, every time I start to go down, or consider going down a rabbit hole. 
-Noticing Aversions
+
+#####Noticing Aversions
+
 One advantage of maintaining a state with explicitly high metacognition and deliberateness is that it sharpens my focus of subtle aversions, to tasks (particularly ambiguity aversions). When your intentionality is vague it is harder to notice when you’re avoiding something. But if you’re being explicit about what you intention is at any given point, and you’re crisply deciding what to do next, it stands out more starkly if there’s something you’re shying away from.
 
 From that noticing, I’ll double click on the aversion, and tease out its structure. [link]
 
-Schedule 
-
-These days, I usually do one TEI block on a work day, typically 3 to 5 hours in the first part of my day.
-
+-----
 
 I first wrote about this mode [here](https://musingsandroughdrafts.wordpress.com/2020/02/10/modes-not-traits-and-decoupling-cognitive-energy-from-intentionality/).
 
@@ -434,18 +454,23 @@ so that next actions are cognitively available.
 
 ####Stimulation hunger
 
+Triggers
 - Browsing youtube
 - listening to audiobooks
 
-- Lie down with eyes closed
+-> Lie down with eyes closed
 
 ####Fuzzy-headed
 
-Exercise
+	TAP: Feel Fuzzy-headed -> Move toward exercise
 
 ####Headache 
 
-Go take electrolytes 
+	TAP: Notice headache -> Get electrolyte water
+
+As soon as I notice that I have a headache, I'll drink a large glass of electrolyte water.
+
+Dehydration is not always the cause, but it is a good enough bet, that it is worth it hydrate without delay. It's possible I was imagining it, but I've sometimes felt reprieve within about two minutes.
 
 ####Agitated
 
