@@ -98,7 +98,10 @@ However, Andrew Huberman suggests [link], that I should instead be taking the fo
 
 ####Falling asleep
 
-When I'm not falling asleep this is either because circadian is off or sleep drive is off or I have conflicted intentions.
+If I do have a built up sleep pressure, and it is within my sleep window, and I can't 
+
+
+I find that if it is my bedtime, and I have a typical sleep drive
 
 #####Timing
 
@@ -107,12 +110,27 @@ When I'm not falling asleep this is either because circadian is off or sleep dri
 
 #####Waking up
 
+The thing that helps the most (??) with maintaining a consistent sleep time is having a consistent wakeup time.
+
 ######Inner wake up call
+
+In the past, I've used an "inner wakeup call" to wake me up at the time of my choosing in the morning. This is a simple process by which I have my body wake me up at the time that I choose.
+
+As I do it, this involves setting intention to wake up at my chosen time, when I lay down to go to sleep. I'll relax my body and then verbally (out loud) affirm that I'm going to wake up at my chosen time.
+
+It has at least sometimes taken a few days to calibrate, but after that I will wake up automatically, within about a minute of my chosen time.
+
+Calibrating: I wear a watch in bed so that when I wake up in the night / morning, I can check what time it is. Crucially, if it is within an hour of my chosen time, I'll get up, even if that is a bit early or a bit late. Over the course of a few days my mind and body will narrow the interval until I am waking up at my chosen time.
 
 ######Spring out of bed
 
+
+
 ######Light first thing
 
+When I wake up, I go outside to get light exposure, first thing, to firmly signal my wakeup time to my circadian system. I'll put on pants, and then take a walk around my literal block while I brush my teeth.
+
+Early light exposure like this was recommended by Andrew Huberman here. He claims outdoor light exposure is --x more effective than sunlight through a window.
 
 #####When I'm restless
 
@@ -450,6 +468,8 @@ Feel into the body sensation of the compulsiveness
 ###Complete list of TAPs
 
 ####Structure TAPs
+
+Lay down to sleep -> Set Inner Wakeup call
 
 ####Free TAPs
 
