@@ -178,7 +178,7 @@ This way, when I'm restless, I can get up and journal in Roam, typically outlini
 
 ######Meditate
 
-
+Alternatively, I might get up and meditate for a few minutes.
 
 ######Drink Soylent 
 
