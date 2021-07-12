@@ -126,6 +126,8 @@ I want to start well
 
 I've trained my self to spring out of bed as soon as I wake up, so that I am standing and moving within a second or two of opening my eyes.
 
+This is important because my bed is cozy. If I don't get up immediately, I'm apt to snuggle up in there and then fall asleep for another hour or two, pushing back my sleep schedule.
+
 You can do this with offline habit training: just practice (during the day, when you're fully awake), laying down in bed with your eyes closed, and then opening your eyes and jumping out of bed. Do 10 reps of this, being careful to reset after each one, so that you're not practicing *getting back into bed*, each time.
 
 I've sometimes used a mantra in this moment as well, to remind me why I care 
@@ -141,6 +143,10 @@ Early light exposure like this was recommended by Andrew Huberman here. He claim
 Claim: Given that 1) it is my bedtime and 2) I have a normal end of the day sleep drive (eg I didn't take a 3 hour nap late in the day), if I am not falling asleep this is because I am executing conflicting intentions. There is always some part of me that is *resisting* falling asleep. Typically, when I look (actually more like feel) for it, I can find it. 
 
 (As a side note, this is part of why having an unclear sleep schedule is poison...
+
+Once I've isolated 
+
+
 
 
 
@@ -242,7 +248,7 @@ In addition to all of the above, I have a policy that I don’t eat a second mea
 
 ###Rest days
 
-I didn't used to take explicit rest days. But I experimented with it, on the advise of Anna Salamon, and the difference in how I felt was noticeable. Remember, we are aiming for effective modes, not effective traits. If you never give yourself explicit time to rest (or don’t give yourself enough time), then you’ll tend to slack off during your work time. You want your work time to be high quality, which means supporting that work time with explicit rest time. These days, I take a rest day at least once a week.
+I didn't used to take explicit rest days. But I experimented with it, on the advice of Anna Salamon, and the difference in how I felt was noticeable. Remember, we are aiming for effective modes, not effective traits. If you never give yourself explicit time to rest (or don’t give yourself enough time), then you’ll tend to slack off during your work time. You want your work time to be high quality, which means supporting that work time with explicit rest time. These days, I take a rest day at least once a week.
 
 In my parlance, a rest day is a day where I steer mainly by the question “what would be most nourishing right now?” / I don’t do anything that I don’t viscerally feel like doing, from the time I wake up to the time that I go to sleep (modulo taking a little bit of time in the evening to do a daily review and plan my next day).
 
@@ -276,7 +282,7 @@ I haven’t figured out the optimal cadence of rest days yet. Presumably there i
 
 [link to ‘weekend Wednesdays’]
 
-####Prerestday space clearing
+####Pre-restday space clearing
 
 Because I want to turn off my sense of stress and pressure for a day, I need to explicitly process everything and put them all in their places, before the rest day starts. The goal is to deal with everything urgent, and make plans for the next workday, to deal with everything else.
 
@@ -442,6 +448,8 @@ so that next actions are cognitively available.
 
 - Amp up and then move to a high cadence task.
 
+
+
 ####Slow / tired / draggy
 
 - During a work period: Amp up 
@@ -458,7 +466,7 @@ Triggers
 - Browsing youtube
 - listening to audiobooks
 
--> Lie down with eyes closed
+-> Lie down with eyes closed 
 
 ####Fuzzy-headed
 
