@@ -128,9 +128,11 @@ I've trained my self to spring out of bed as soon as I wake up, so that I am sta
 
 This is important because my bed is cozy. If I don't get up immediately, I'm apt to snuggle up in there and then fall asleep for another hour or two, pushing back my sleep schedule.
 
+Furthermore, this allows to to start the day with momentum, which can carry through for hours.
+
 You can do this with offline habit training: just practice (during the day, when you're fully awake), laying down in bed with your eyes closed, and then opening your eyes and jumping out of bed. Do 10 reps of this, being careful to reset after each one, so that you're not practicing *getting back into bed*, each time.
 
-I've sometimes used a mantra in this moment as well, to remind me why I care 
+I've sometimes used a mantra in this moment as well, to remind me of my intention or why I care about getting up. When I was a teenager, I used to wake up at 5:00 AM to get up and meditate and do "energetic exercises" (as part of astral projection training). I used to say, as I got out of bed "this is what it means to be a wizard", particularly in the months when it was cold.
 
 ######Light first thing
 
@@ -138,21 +140,45 @@ When I wake up, I go outside to get light exposure, first thing, to firmly signa
 
 Early light exposure like this was recommended by Andrew Huberman here. He claims outdoor light exposure is --x more effective than sunlight through a window.
 
-#####When I'm restless
+
+#####Engaging with conflicting intentions
 
 Claim: Given that 1) it is my bedtime and 2) I have a normal end of the day sleep drive (eg I didn't take a 3 hour nap late in the day), if I am not falling asleep this is because I am executing conflicting intentions. There is always some part of me that is *resisting* falling asleep. Typically, when I look (actually more like feel) for it, I can find it. 
 
 (As a side note, this is part of why having an unclear sleep schedule is poison...
 
-Once I've isolated 
+Once I've felt that intention to do something other than go to sleep (often, an intention to think about something, or make progress on a problem), I'll decide whether I want to abort that intention or not. Often times, I'll opt to get up and write up notes about what I'm thinking about.
+
+But if I want to drop whatever my other intention is and go to sleep, I'll follow the following protocol. 
 
 
 
+1. Still my body
 
+
+2. Mentally press down on my head and shoulders
+
+
+3. Iteratively lengthen my breath
+
+
+4. Lean into visual imagry
+
+
+
+#####If I'm still restless
+
+This doesn't always work however. If I've been lying in bed for 40 minutes or more, and haven't fallen asleep yet. However, when I get up like this, there are only three activities that I allow myself, so that I don't get hooked by something stimulating and stay up for an extra hour when I could have been asleep.
 
 ######Journal
 
+I have a I have a chromebook that is set up just for journaling. I've blocked that everything except roam, google docs (for my tracking spreadsheets and forms), and toggl. 
+
+This way, when I'm restless, I can get up and journal in Roam, typically outlining my thoughts about whatever I was thinking on, without the temptation of flipping to say, twitter.
+
 ######Meditate
+
+
 
 ######Drink Soylent 
 
@@ -160,7 +186,7 @@ Eating actives the parasympathetic and enteric nervous system, and is one way to
 
 However, eating in the hours before bed harms sleep quality. So it isn't a good idea to eat just before bed.
 
-However-however, my initial experiments suggest that 
+However-however, my initial experiments suggest that liquid food doesn't worsen my sleep, so I'll sometimes have a bottle of soylent or non-dairy milk if I'm restless.
 
 ###Exercise
 
