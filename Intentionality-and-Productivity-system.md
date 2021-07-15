@@ -18,13 +18,11 @@ Two broad mutually supportive struts or parts: Being resourced and Habits for gu
 
 ##Being Resourced
 
-
-
 In earlier versions of this model, I mapped out specific psychological states that were necessary for sustaining high output. But I've mostly decided 
 
 - Energy
 
-- Spaciousness / reflectiveness / the opposite of driveness
+- Spaciousness / reflectiveness / the opposite of driven-ness
 
 ###Sleep
 
@@ -152,9 +150,9 @@ Once I've felt that intention to do something other than go to sleep (often, an 
 But if I want to drop whatever my other intention is and go to sleep, I'll follow the following protocol. 
 
 
+**1. Still my body**
 
-1. Still my body
-
+I find that when I am awake and my mind is churning on some problem, some part of my body will be moving
 
 2. Mentally press down on my head and shoulders
 
@@ -162,7 +160,7 @@ But if I want to drop whatever my other intention is and go to sleep, I'll follo
 3. Iteratively lengthen my breath
 
 
-4. Lean into visual imagry
+4. Lean into visual imagery
 
 
 
@@ -325,9 +323,30 @@ Because I want to turn off my sense of stress and pressure for a day, I need to 
 
 ###Day-level Energetic Rhythms
 
-####Eating depresses dampens / cuts / saps / blunts energy
+In general, I'm aiming to increase amplitude.
 
-kills momentum
+
+####Circadian rhythms
+
+There's a circadian dip around 7 to 8 hours after wakeup time. Durring the dip 
+
+####Eating depresses dampens / blunts energy
+
+Eating food causes my energy to falter, which kills or slows momentum. 
+
+This is probably because eating triggers digestion, which activates the parasympathetic and enteric nervous systems, at the expense of the sympathetic nervous system [link]. Lessened arousal results in lowered subjective energy [link].
+
+In contrast, not eating can increase alertness.
+
+Because of this, eating is not a neutral activity, that you can do casually, whenever. It's more like sleep: something that has a strong impact on your state, and which has its own rhythms to be attuned to. [I feel like I could improve this sentence.] 
+
+Relating to food has a feeling of a sort of "push pull" dynamic too it, as if I'm riding a wave. If I time it right, I benefit from the alertness of being hungry, *and* from the restorative boost in blood sugar. When I time it poorly, I'll eat at semi-random times and it will slow me down to the point of being almost dead in the water. Eating should feel like the sort of thing that has a *rhythm.*
+
+I don't eat during my main work periods. If I feel hungry during my work periods, I'll drink water or chew some gum. 
+
+	TAP: Feel Hungry (during work) -> Chug water
+
+Most days I will eat only one meal, in the middle of the day, at my circadian dip.
 
 
 ####Non-Sleep Deep Rest
@@ -336,6 +355,8 @@ kills momentum
 Note: Set up multi-n experiment comparing Yoga-nidra to just lying down with your eyes closed for a similar amount of time. 
 
 
+
+####Nicotine
 
 
 
@@ -427,12 +448,54 @@ I first wrote about this mode [here](https://musingsandroughdrafts.wordpress.com
 
 ####Rest
 
+
+
 ###Techniques for Starting
 
+There’s a sort of momentum effect, whereby once I get into the flow of work, it feels natural to keep going. Focused execution is an attractor state, as is distracted 
+
+For this reason one the most important things is entering the attractor state in the first place: starting work on whatever it is so that momentum can take over. 
+
+I’ve found that there are a couple of strategies that are helpful for this.
+
+
 ####TAP Chains for starting work
+Each evening, when I outline my daily goals for the next day, I’ll outline and future pace my “morning TAP chain”. That is, I’ll clarify the sequence of actions that I want to move through in the first hour or so after waking up, and step through them in my mind.
+
+Typically, this involves waking up, brushing my teeth, meditating, and possibly exercising, before opening up my laptop to look at my daily goals. 
+
+Sometimes I’ll set a TAP to set a timer as soon as I wake up, and an intention to be working by the time the timer rings.
+
+Note that I am mentally rehearsing this series of actions in advance, and setting TAPs from one to the other, so that the whole chain flows automatically. 
+
+Obviously, lots of people have morning routines, which can accomplish the same effect, with less overhead, but somewhat less flexibility.
+
+I need some similar process for my evening blocks as well, but I’m not sure how to implement that yet.
+
 ####Just start mulling
+
+Sometimes a project will feel really big and daunting, such that I shy away from sitting down and working on it. Or I’ll sit down to write, and the words feel sort of stilted, instead of flowing.
+
+When this happens I’ll start by just mulling over the task or project. Usually, I’ll go for a walk, and start mumbling to myself or thinking to myself about the project. I’m not trying to DO anything, I’m just sort of booting it up.
+
+Eventually I find that it sort of takes hold: I start composing good sentences in my head, or producing avenues of attack on the problem that seem compelling to try. This builds up a kind of pressure, as I want to get back to my computer and start working with those ideas.
+
+####"Getting a taste" for something
+
 ####Using a chess timer
-####Focusmate
+
+####Coworking
+
+Another strategy that is effective for starting the ball on work is sitting down with another person. Having one other person sets social context, and changes the immediate-term incentives so that the default action becomes “work”, instead of “fuck around”
+
+One logistically easy way to setup coworking is focusmate.
+
+I’m currently experimenting with using focusmate to anchor my daily review sessions (because they’re so important that I want to make sure that they happen.
+
+
+#####Focusmate
+
+
 
 
 ###Loaded up mental context
@@ -460,7 +523,68 @@ so that next actions are cognitively available.
 
 
 
+###Attention to boredom
 
+
+
+###Responding to Aversions
+
+In my experience, aversions are by far the dominating factor in my personal productivity. When I don't have any aversions, I can pretty easily get into a state of clipping rapidly through tasks, flowing from one thing to another, for hours at a time. Life feels smooth, and action is efficient. But if I have even one aversion, to something that I think I should do, in the mix, it acts as a sort of speed bump, slowing everything down, as I take (rationalized) actions that divert me from the aversive stimulus, instead of moving getting things done as efficiently and effectively as possible.
+
+Many productivity resources focus extensively on "overcoming procrastination." I claim that any instance of procrastination always has at least one aversion, at least one aversion that is core to its structure. Because of this, a fully reliable mechanism for processing aversions, would preempt all procrastination.
+
+Therefore dealing with aversions, learning to noticing them, and responding to them smoothly, is the highest priority for one's personal productivity system.
+
+By "aversion", I mean any sort of avoidance behavior. In the context of personal productivity, an aversion is any state in which there's something that you want to do, or think you should do, that some part of you is avoiding doing, or thinking about.
+
+####Phenomenology of aversions
+
+There are two main phenomenological flavors of aversion, for me.
+The first is bodily / physiological response / contraction. For me, this almost always comes in the form of a physical clench in my belly, or occasionally, tightness in my chest. This is accompanied by or part of a fear, stress, or anxiety. Over the course of 2016, I learned to notice every time there was a felt-sense / bodily something, so I now have a good habit of reliably what's happening in my belly. This means that I almost never fail to notice and aversion, because I notice the physiological response first.
+
+But sometimes aversions are not evident in the form of a bodily clench. I call this second type of aversion phenomenology "glancing off", or slight resistance. It's much more subtle, characterized by a sort of mental swerve around the task or action. I can notice this phenomenology most specifically, when I have a new task to do, and ask "how about I do it right now?". If there is nothing logistically stopping me from getting it done right now, but I "don't feel like it", this is a glancing off aversion. (There's a sort of tendency with glancing off aversions to spread work out over as much time as is feasible, which often results in performing at a third or a tenth of your full capacity.)
+
+In addition to phenomenological cues, you can use behavioral tells to alert you that you're avoiding something. For me, Watching TV shows, or casually watching youtube videos that the algorithm suggests to me (in contrast to specific videos for specific purposes), is a signal/ flag that some part of my systems are failing. Usually, it's either a sign of something that I'm averse to, or that my mechanisms for maintaining mental energy have broken down.
+
+Common content of aversions:
+
+[this section should probably go after the next section?]
+
+Aversions always have a specific internal structure. There's always a logic to why some part of you is averse to something, as opposed to the aversion being a brute, irreducible fact about the world. That is, aversions can always be interpreted to be or to depend on beliefs about the world. As I'll discus in the next section, processing aversions basically always entails some process of dialogue with the part of you experiencing the aversion, to clarify, specifically what's bad, and then dealing with, or planning around that bad thing.
+The following are some common aversions structures, categories of reasons why a task or thought might be bad. Note that these categories represent clusters, and there may not be clear cut distinctions between them: an aversion might be reasonably considered to be an instance of more than one of these categories.
+
+- **Discomfort**: a very simple kind of an aversion is that caused by an expectation of physical discomfort. For instance, if I don't have a chair (for some reason), and have to sit on the ground, I'm going to be resistant to doing writing work, which will entail sitting in an uncomfortable posture.
+	- For these, you want to adjust your environment to sidestep the discomfort, by getting a chair for instance
+- To big / too ambiguous: Sometimes a task will be "too big to conceptualize", or mentally conceptualized as a single brute object, lacking detail.
+(The thing to do with with such aversions is chunk out to [[next action]] ([[action chunking]]). Usually, if I can visualize the next step concretely, it's easier to flow into that task).
+A scary choice: sometimes I'll be avoiding some task because it involves making some painful tradeoff, or making some large decision about which I am afraid of making a mistake.
+(Here, I would want to "let in reality" [[Letting in reality]], and absorb the fact of the tradeoff, and then do )
+I've already messed up / I'm behind : This is an especially common one. If a person is a little behind on a task, or they know that they should have done it some time ago, they'll get a micro hedonic sting every time they think about the task, and therefore avoid it.
+Again, let in reality.
+Overwhelm: "There are too many things pulling on my attention, or too many things that I need to track"
+Go meta and organize everything you need to track. (I do this by outlining on notecards.)
+I'm going to fail: Another common one. If you think that a project is doomed, you'll be resistant to think about it, and to put effort into it.
+This bad for my goals: This is a really important one. Sometimes a task is bad because it threatens something important to you. It's esspecially critical
+My extended working memory is already full, or I don't have the mental space or the time to load this project up, and make progress on it. (A subset of "I'm unmotivated, because this isn't going to work.")
+Boredom?
+Distraction
+Clearly, sometimes I'm anxious, due to an aversion and this causes me to flinch away into a distraction activity like watching youtube, reading blogs, or masturbating. Sometimes, this seems to diffuse the anxiety.
+I think that watching TV / reading blogs / whatever, works to defuse anxiety to the extent that you actually successfully distract yourself, and become engaged enough in the new activity that you actually manage to drop the initial fear that was being held by your felt sense.
+
+####Dealing with aversions
+
+A system that deals with aversions must have two parts: you have to notice aversions when they arise, and you have to do something productive with them.
+
+Noticing: I've already mentioned the phenomenological cues for recognizing aversions, but you need to learn to notice them. This is not any different than any other kind of [[noticing]].
+Processing: Having noticed an aversion, you have to engage with it. Basically, you'll need to dialogue with the aversion until you have enough context to design a plan that serves the both your explicit, considered goals, and the goals of the aversion.
+The main mechanism for dialogue is [[Gendlin Focusing]].
+However, sometimes it's hard to get clarity on what the aversion is about via purely introspective methods, in that way. In those cases, I'll transition to a [[CoZE]], gently experimenting with the thing that I'm averse to, in carful and time-boxed way. If the aversion is a matter of ambiguity, or is built up of of imagined (not very truth tracking) fears, it may simply disappear. If not, I'll usually get more context on what exactly is bad about the thing.
+There are occasional contexts where it makes senes to simply push through and aversion, but this is not very stable in the even the medium run, and unless the aversion dissolves in contact with reality, you're apt to loose most of your efforts
+Experimental CoZE-ing
+
+Sometimes I'll try doing Focusing on an aversion, and be unable to get a handle (hah!) on what the aversion is about. In that case, one thing that I might do is start the relevant task, not with an attitude of forcing myself to do it, but
+Chunking out
+[[action chunking]]
 
 
 ###Attention environment:
