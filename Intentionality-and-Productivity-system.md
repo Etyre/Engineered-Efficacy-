@@ -354,6 +354,7 @@ Most days I will eat only one meal, in the middle of the day, at my circadian di
 
 Note: Set up multi-n experiment comparing Yoga-nidra to just lying down with your eyes closed for a similar amount of time. 
 
+[Do an larger than n=1 experiment of yoga Nidra versus just lying down with your eyes closed, in terms of how restful or nourishing each is.]
 
 
 ####Nicotine
@@ -479,6 +480,15 @@ Sometimes a project will feel really big and daunting, such that I shy away from
 When this happens I’ll start by just mulling over the task or project. Usually, I’ll go for a walk, and start mumbling to myself or thinking to myself about the project. I’m not trying to DO anything, I’m just sort of booting it up.
 
 Eventually I find that it sort of takes hold: I start composing good sentences in my head, or producing avenues of attack on the problem that seem compelling to try. This builds up a kind of pressure, as I want to get back to my computer and start working with those ideas.
+
+More specific TAP: Feel some avoidance or "too big to fit"ness, about the next thing to do -> take a walk and start musing about it
+
+
+####Wedging in
+
+When I need to go from low momentum to high, I start with the thing that feels easiest, not the thing that is most important.
+
+Do anki review, because that is short enough low effort enough that I always feel willing to do it, and because once I've done it, I've got my foot in the door for doing my daily things.
 
 ####"Getting a taste" for something
 
