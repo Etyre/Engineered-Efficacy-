@@ -16,23 +16,34 @@ Do the right thing
 I have a bunch of behaviors, habits, and processes, which serve each of those goals. 
 
 There’s some overlap between them: intentionality depends on personal energy, so interventions that increase energy tend to increase intentionality too, and it’s often a judgment call whether to frame a behavior as increasing intentionality, or as focusing my attention on a specific task. 
+
 ##Maximize Energy
-
-###Exercise
-
-Exercise is, as near as I can tell, by far the most important thing to optimize for my personal energy. I exercise almost every day as part of my set of “daily things”. 
-
-There are two main things that I do for exercise are barbell training (squats, deadlifts, bench presses, shoulder presses, bent over rows) and beatsaber, with weights on my wrist.
-
-My wellbeing seems to be disproportionately impacted by doing squats.
 
 ###Sleep
 
-Getting a good night’s sleep is crucial.
+Getting a good night’s sleep is the single most important thing for boosting my personal energy.
+
+###Exercise
+
+Second to good sleep, Exercise is, as near as I can tell, the most important thing to optimize for my personal energy. I exercise almost every day as part of my set of “daily things”. 
+
+In general, I follow this rule: the optimal form of exercise is whichever one you will actually do. 
+
+There are two main things that I do for exercise are barbell training (squats, deadlifts, bench presses, shoulder presses, bent over rows) and beatsaber, with weights on my wrist.
+
+My wellbeing seems to be disproportionately impacted by [doing weighted squats](https://efficacyengineering.wordpress.com/2020/11/08/squats-made-a-big-difference/), in particular.
 
 ###Energetic rhythms
 
+Sleep and exercise are, on the scale of days and weeks, general boosters to my personal energy. I do them, and I have higher energy as a result.
 
+Beyond those two however, increasing my personal energy is largely a matter of being attuned too, and working with (instead of against), various physiological / psychological rhythms. For many behaviors, it isn't the behavior in of itself that matters, but the _timing_, of the behavior. 
+
+In general, I am aiming to increase my energetic _[amplitude](https://twitter.com/nickcammarata/status/1389213303331823616?s=20)_, magnifying whichever way my energy is currently trending.
+
+In my life, there are increasing marginal returns to focus, alertness, and engagement. With a few exceptions, if something is worth doing at all, it benefits strongly from my fullest, most resourced effort. For most tasks, a half-focused version is not even worth doing.
+
+So when I’m cognitively drained, or otherwise low energy, instead of continuing to try to eke out some dregs of work, I switch gears and focus on _resting as effectively as possible_. 
 
 ####On the scale of a day
 
@@ -40,7 +51,7 @@ When I’m cognitively drained, or otherwise low energy, instead of continuing t
 
 #####Yoga Nidra
 
-The biggest contributor to this is doing yoga nidra: when I feel tired, I’ll lie down and employ a process to relax both my body and my mind. A good portion of the time (50%?) I’ll fall asleep and take a nap. But regardless, I’ll usually feel alert and energized after 20 to 90 minutes, and I get up and keep moving. This has been a game-changer for me. Instead of wasting hours with random distractions on the internet while I’m too tired to do any substantive work, I can deliberately rest, and come back refreshed, instead.
+The biggest contributor to intentional rest is doing yoga nidra: when I feel tired, I’ll lie down and employ a process to relax both my body and my mind. A good portion of the time (50%?) I’ll fall asleep and take a nap. But regardless, I’ll usually feel alert and energized after 20 to 90 minutes, and I get up and keep moving. This has been a game-changer for me. Instead of wasting hours with random distractions on the internet while I’m too tired to do any substantive work, I can deliberately rest, and come back refreshed, instead.
 
 #####Daily structure
 
@@ -48,9 +59,9 @@ I live on a classic siesta schedule.  Generally, I structure my days to have two
 
 This has the benefit of aligning with my circadian dip, so that my rest time overlaps with (better word?) the part of my day when my energy is lowest due to circadian effects, and I leverage / take advantage of the high energy and alertness due to the alerting signal. (If i’m not drained, these late hours are often my most productive and effective.)
 
-Secondly, this effectively gives me two work days [link to katja’s post], which is helpful for re-setting context. I’ll often do external-value creation work in the morning, and learning projects (ie internal value creation) in the evenings.
+Secondly, this effectively gives me two work days, which is helpful for re-setting context. I’ll often do external-value creation work in the morning, and learning projects (ie internal value creation) in the evenings.
 
-Paul Graham says that he lived on a similar schedule when working on ViaWeb.
+Paul Graham reports that he [lived on a similar schedule](http://www.paulgraham.com/makersschedule.html) when working on ViaWeb.
 
 The timing of my break is flexible: depending on when I finish the first work block and when I feel ready to start the second (though I will often have some TAP chain for booting up into my second workblock), but it usually takes place somewhere in the span from 5 pm to around 9 pm. I’ll nap or do yoga, nidra if need it. This is when I eat my main meal, and I’ll sometimes take social time in here as well. Usually, I’ll hang out and talk with colleagues at the office, or whoever is around Event Horizon (a group house a few blocks from my room). If I had a partner, or someone I was casually dating, I would probably hang out with them around this time.
 
@@ -95,12 +106,15 @@ This sort of work is just too slippery to do only in my head.
 Fastidious Time tracking
 
 
-
-##Meditate
+###Meditate
 
 Currently, I meditate for a minimum of 10 minutes every day. 
 
-In principle, this seems like it should boost a sort of generalized resource of consciousness or reflectiveness or non-reactiveness. 
+In principle, this seems like it should boost a sort of generalized resource of consciousness or reflectiveness or non-reactiveness, though I waffle on how much it actually helps.
+
+My favorite kind of meditation is See, Hear, Feel mediation, where I note, out loud, visual imagery, verbal content, and body sensations, with the words "See", "Hear", "Feel", respectively, while "greeting" and then absorbing myself in each one.
+
+But I'll sometimes mix it up with a simple mediation of returning to my breath, or noting when a sensation as passed away, or noting when my thoughts are of the "future" or the "past".
 
 My goal with meditation is to find my way into the right kind of expansive state, where I am sensitive to everything happening inside of me, but not reacting to it.
 
@@ -108,11 +122,19 @@ My goal with meditation is to find my way into the right kind of expansive state
 
 How I wake up seems to make a big difference for my intentionality. Basically, it is a big boost if I have directed intentionality from the get-go, from the moment I wake up, instead of booting up gradually over the course of an hour or two.
 
+
+
 ###When I feel agitated, feel into my body
 
 When I feel agitated, I note this in my log, and just stay with the sensation. Just staying with it might cause the feeling to decrease, or it might not, and there might be additional steps, like doing Focusing, or going to exercise to vent the energy. But first and foremost, I log it, and stay with the sensation.
 
+###Lying down in response to stimulation hunger
+
+
+
 ##Do the right thing
+
+###Choosing what to do
 
 ###Focus on one thing
 
@@ -127,7 +149,7 @@ And having one goal means that I can put my all into it. I push as hard as I can
 
 This clarity, and singularity of context makes a noticeable difference in how hard I push myself.
 
-####Shortening time to payoff
+####Shortening time to payoff / cycle time
 Additionally, batching like this is sound from an “accounting” perspective. There’s a principle of shortening the time between starting a project and completing it, as much as possible. 
 
 In general, projects require a more-or-less constant contribution of resources, for as long as you are working on them, but you only get the value of the project at the end. 
@@ -146,13 +168,21 @@ Digression:
 
 Generally I think of my work as being of 4 categories. 
 
-Large chunk batchable work and learning
+1. **Large chunk batchable work and learning**
 
-Spaced learning projects - some learning projects really benefit from a spacing effect, or from interleaved sleep, such that 5 minutes of focused learning a day is much more effective than several hours once a week. I usually have one such project running at any given time.)
+2. **Spaced learning projects** 
 
-Tasks - These are batchable, and I do often batch them on task days, which are basically focus days where my single goal is “this 
+Some learning projects, such as trying to learn almost any physical skill, really benefit from a spacing effect, or from interleaved sleep, such that 5 minutes of focused learning a day is much more effective than several hours once a week. I usually have one such project running at any given time.)
 
-Interest-driven reading and writing - I like to keep some slack in my life
+3. **Tasks** 
+
+Processing my email and reminders inbox, making calls, setting appointments, running errands, etc.
+
+These are batchable, and I do often batch them on task days, which are basically focus days where my single goal is “complete this task list", though sometimes the urgency of a task impels me to do it outside of a task day.
+
+4. **Interest-driven reading and writing**
+
+I like to keep some slack in my life, for 
 
 
 Kinds of days
@@ -178,7 +208,7 @@ Turning one kind of work into the other
 Collaborators
 Focus-mate
 
-
+###Using a chess-timer
 
 
 
@@ -268,6 +298,19 @@ There is something quite useful about social media however, which is that it pro
 
 When I find myself flipping to social media or youtube (or in past years, webcomics), I know 
 
+
+
+
+
+##Appendixes
+
+###Complete list of TAPs
+
+####Structure TAPs
+
+Lay down to sleep -> Set Inner Wakeup call
+
+####Free TAPs
 
 
 
