@@ -1,4 +1,286 @@
 
+
+
+
+#Productivity and intentionality outline
+
+[note to myself: just describe what I do. I can go back and include sections on the general theory later.]
+
+
+My productivity and intentionality system has 3 steps: 
+
+Maximize my personal energy
+Increase my intentionality 
+Do the right thing
+
+I have a bunch of behaviors, habits, and processes, which serve each of those goals. 
+
+There’s some overlap between them: intentionality depends on personal energy, so interventions that increase energy tend to increase intentionality too, and it’s often a judgment call whether to frame a behavior as increasing intentionality, or as focusing my attention on a specific task. 
+##Maximize Energy
+###Exercise
+Exercise is, as near as I can tell, by far the most important thing to optimize for my personal energy. I exercise almost every day as part of my set of “daily things”. 
+
+There are two main things that I do for exercise are barbell training (squats, deadlifts, bench presses, shoulder presses, bent over rows) and beatsaber, with weights on my wrist.
+
+My wellbeing seems to be disproportionately impacted by 
+###Sleep
+Getting a good night’s sleep is crucial.
+###Energetic rhythms
+####On the scale of a day
+When I’m cognitively drained, or otherwise low energy, instead of continuing to try to eke out some dregs of work, I switch gears and focus on resting as effectively as possible. 
+#####Yoga Nidra
+The biggest contributor to this is doing yoga nidra: when I feel tired, I’ll lie down and employ a process to relax both my body and my mind. A good portion of the time (50%?) I’ll fall asleep and take a nap. But regardless, I’ll usually feel alert and energized after 20 to 90 minutes, and I get up and keep moving. This has been a game-changer for me. Instead of wasting hours with random distractions on the internet while I’m too tired to do any substantive work, I can deliberately rest, and come back refreshed, instead.
+#####Daily structure
+I live on a classic siesta schedule.  Generally, I structure my days to have two main work blocks, with a long break in between. Instead of having a work day, and then ending the work day and relaxing, I relax in the middle of the day, and then after recouping energy, go back to work.
+
+This has the benefit of aligning with my circadian dip, so that my rest time overlaps with (better word?) the part of my day when my energy is lowest due to circadian effects, and I leverage / take advantage of the high energy and alertness due to the alerting signal. (If i’m not drained, these late hours are often my most productive and effective.)
+
+Secondly, this effectively gives me two work days [link to katja’s post], which is helpful for re-setting context. I’ll often do external-value creation work in the morning, and learning projects (ie internal value creation) in the evenings.
+
+Paul Graham says that he lived on a similar schedule when working on ViaWeb.
+
+The timing of my break is flexible: depending on when I finish the first work block and when I feel ready to start the second (though I will often have some TAP chain for booting up into my second workblock), but it usually takes place somewhere in the span from 5 pm to around 9 pm. I’ll nap or do yoga, nidra if need it. This is when I eat my main meal, and I’ll sometimes take social time in here as well. Usually, I’ll hang out and talk with colleagues at the office, or whoever is around Event Horizon (a group house a few blocks from my room). If I had a partner, or someone I was casually dating, I would probably hang out with them around this time.
+####On the scale of days 
+On the scale of days, I’m aiming to stay attuned to my energetic rhythms. I used to push myself hard until I crashed, and my intentionality collapsed. There’s a bit of an art to noticing when I’m just starting to run on fumes, so that I can take a slower day to refresh myself, without losing my intentionality entirely.
+#####Rest days 
+I also take a rest day at least once a week, in which I do what is most nourishing. Mostly that means slowing down, taking time making food, catching up on meditation and exercise as needed, reading, writing essays, and working on whatever learning projects feels most appealing in (mostly) one hour chunks. On rest days, I use a special computer that has everything blocked except Roam (which is where I take notes on books, and is also my journal), and google sheets/docs/forms which is where most of my personal tracking lives. The idea is to take a break from the compulsive dopamine loops of the internet, while still being able to take notes that will be searchable later.
+##Increase intentionality 
+###Inline logging and written meta-cognition
+I have a section in my daily roam pages called “daily log”, that I come back to many times a day to jot down notes about what’s happening, and, as necessary, figure out what I should do about it.
+
+This typically includes... 
+
+**Phenomenology that I notice**, such as aversions, flinches, agitation, heat in my chest, clenches in my belly. Noticing these, I can turn my attention to them directly, doing Focusing, or otherwise dialoguing with them.
+
+**Bugs** - Things that just went wrong, or points of friction. Sometimes I’ll solve these on the spot, other times I’ll just make a note of what went wrong to solve in a dedicated debugging session later.
+
+Some examples of bugs
+- My nap was interrupted because my phone rang
+- I couldn’t sync my phone, because I didn’t have a USB to USB-C adaptor [buy 3 on the spot]
+- I just said that I would do a thing, which on reflection, I probably don’t want to do.
+
+**Decisions** - I’ll note decisions that I have to make and then work them out in writing, asking what the considerations and the cruxes are. 
+
+Writing things out concretizes things. It helps me to notice fleeting or amorphous feelings and inclinations, so that I can fully engage with them. A vague sense of aversion that I only barely notice, will control my behavior, but once I write out “I’m feeling a slight sense of aversion to X”, I can, then ask the next question of “what’s bad about X?” 
+
+Most often, once I make the shift to attending to it directly, I can just feel the underlying psychological structure directly: I can tell exactly what is bad about X, and figure out how to oriet to that, without needing to play the guess-and-check game of traditional focusing. 
+
+But, this is only if I notice it and respond to the subtle experience consciously. So I want to do everything that I can to make it as low friction as possible to go from “some part of me is partially conscious of something” [can I be more specific about what “something” is] to “I’ve written it down, and thereby have flagged it for myself 
+
+So I want to have a habit of coming back to that log and noting what’s happening frequently.
+
+This is especially important because many of the things that I most want to notice tend to decrease how much consciousness I have available. If I’m agitated or anxious, my attention is likely trying to dissociate or distract myself to flee some pain. And I do not want to brute force stop that disciation or distraction, but I do want to notice it and stay with ti.
+
+This sort of work is just too slippery to do only in my head.
+Fastidious Time tracking
+
+
+
+##Meditate
+Currently, I meditate for a minimum of 10 minutes every day. 
+
+In principle, this seems like it should boost a sort of generalized resource of consciousness or reflectiveness or non-reactiveness. 
+
+My goal with meditation is to find my way into the right kind of expansive state, where I am sensitive to everything happening inside of me, but not reacting to it.
+###Wake up all at once
+How I wake up seems to make a big difference for my intentionality. Basically, it is a big boost if I have directed intentionality from the get-go, from the moment I wake up, instead of booting up gradually over the course of an hour or two.
+###When I feel agitated, feel into my body
+When I feel agitated, I note this in my log, and just stay with the sensation. Just staying with it might cause the feeling to decrease, or it might not, and there might be additional steps, like doing Focusing, or going to exercise to vent the energy. But first and foremost, I log it, and stay with the sensation.
+##Do the right thing
+###Focus on one thing
+I’ve known for years, that context switching was costly, and that the more goals I gave myself to complete in a day, the less likely it is that they will all be be meaningfully loaded up. But nevertheless, I resisted / failed to notice the obvious implication: that I should minimize the number of goals that I take on: focusing on only one thing.
+
+
+I try to structure as much of my work as I can in focus-days, intense spurts in which I’m pushing hard on accomplishing only a single goal.
+
+This simplification means that I don’t need to decide what to do next: there’s a choice of whether to work or to rest, but not a question of what work I should do; that’s already decided. Batching like this saves me switching costs.
+
+And having one goal means that I can put my all into it. I push as hard as I can to complete that one target, without diverting my energies. Places where I decide what to do next are 
+
+This clarity, and singularity of context makes a noticeable difference in how hard I push myself.
+
+
+Additionally, batching like this is sound from an “accounting” perspective. There’s a principle of shortening the time between starting a project and completing it, as much as possible. 
+
+In general, projects require a more-or-less constant contribution of resources, for as long as you are working on them, but you only get the value of the project at the end. 
+
+Let’s say you have 10 projects. If you work on them in sequence, one after the other, you invest your resources in the first one, and then get the payoff of the first one, invest your resources in the second one, and get the payoff from the second project, and so on. While you’re working on the third project, you’ve already reaped the benefits, whatever those may be, of projects 1 and 2
+
+Whereas if you work on those same ten projects in parallel, you are committing resources to all 10 projects, all along, but you aren’t getting the value of those projects for much longer (on average, with some simplifying assumptions 5 times longer). Because you are waiting to realize that value, you can’t use it or reinvest it.
+
+This is true even without accounting for the psychological cost of context switching, or the risk of losing interest and never finishing a project at all.
+So I try to do as much work as I can in chunks of one to three days.
+
+Not all of my work is of the form that it can be batched like this however, and I have to use other approaches for other kinds of work.
+
+
+Digression: 
+
+Generally I think of my work as being of 4 categories. 
+
+Large chunk batchable work and learning
+
+Spaced learning projects - some learning projects really benefit from a spacing effect, or from interleaved sleep, such that 5 minutes of focused learning a day is much more effective than several hours once a week. I usually have one such project running at any given time.)
+
+Tasks - These are batchable, and I do often batch them on task days, which are basically focus days where my single goal is “this 
+
+Interest-driven reading and writing - I like to keep some slack in my life
+
+
+Kinds of days
+
+Focus day
+Rest day
+“normal” day
+Travel day
+Slow day
+
+
+
+
+
+###Work with environmental structure, vs work that depends on internal structure
+running workshops and seeing clinets vs. reading books and doing math 
+
+key distinction: how costly is it to get up and take a break?
+
+Turnning one kind of work into the other
+
+
+Collaborators
+Focus-mate
+
+
+
+
+
+###Preplanning, by the clock
+When I am outlining my main goals, for the next day, I have a rule of spending 3 minutes, by the timer, thinking through what is required for each one, and setting myself up to do it.
+
+That might include 
+pulling up documents and making them accessible, to reduce friction to starting, 
+looking up a phone number that I’ll need
+messaging the person that I’m working with, to confirm our meeting
+Considering what I want to get out of my meeting tomorrow.
+Clarifying a and setting a TAP for starting that task
+If nothing else, I will visualize, in detail what the first steps of the task entail.
+
+This prep work is sometimes helpful in of itself, but that isn’t the main point.
+
+The main point is to “load up” my tasks in short term memory. 
+
+(What I describe here [link to the relevant section of my musings and rough drafts outline post])
+
+Often time, when people put items on a task list, or say that they are going to do something, that is basically epiphenomenal. Words in the mind that are not connected to the levers of action.
+
+But mental rehearsal is not epiphenomenal. Simulating the task makes it more likely to happen, makes it real. 
+
+Doing some a minimum of three minutes of thinking about the task
+
+And furthermore, it becomes “at hand”. I have a background sense of the things that I want to do for the day.  
+
+But, this is not just a one-way, top down process. Preplaning gives me an opportunity to get signals that I don’t actually want to do this task, or if there is something wrong about how I’m framing it.
+
+Notice if I have any aversions to the task, flag them and/or start to process them
+Notice if the task doesn’t actually seems worth doing
+Notice if it feels like I’m trying to cram in more than I can realistically do.
+
+
+
+For years, even though I knew the principle of motivation, I would regularly make a list of things to do the next day, generating what felt like a full task list, and then remember one other thing that I wanted to do, and give in to the temptation to add it to the list. I’m being casual with my futurue self, just throwing enother thing on his plate, as if it is costless.
+
+Especially when I’m rushing at the end of the day, and am drawing up a task list without much attention or deliberation.
+
+This is bane. 
+
+Adding more things to a list than you are (I am_ realistically going to do causes the relevant part of my mind to stop taking the list seriously. It isn’t realistically a list of goals any more, 
+
+Drawing up a task list without deliberation, is generally, an epiphenomenal exercise. For the relevant part of my mind to actually adopt these tasks as goals, I have to do the thinking to decide that they are worth the effort. 
+
+But, by having a firm rule that for every item I add, I spend, at mimum, 3 mintuse up front thingking about, 1) I just can’t draw up fake lists, or add things to the list casually and 2) I 
+
+
+
+Some other ways to load things up include scheduling my day.
+
+
+
+###Social media protections
+
+###My twitter setup
+This is the setup that I use for twitter:
+
+I’ve blocked twitter on my phone, and on all my 
+I’ve blocked the timeline with NewsFeed eradicator
+I’ve set up intention so that I can only visit the twitter site for a total of an hour every day, and so that I have a 30 second wait period, between pre-set chunks.
+I’ve set up Roam JS so that I can post twitter threads from my roam (not my main roam database, though since I find it unnerving that I might accidentally post my private journal entries to twitter). 
+
+With these combined software tools, twitter is almost a write-only platform for me. When I have twitter thread shaped thoughts, I can develop them by writing them out in Roam, and posting them without ever needing to visit the extreme attentional hazard of twitter. 
+
+But every couple of days, I will show up to check my notifications, and respond to comments. Sometimes I’ll go read specific people’s pages (@ESYudkowsky, is the main person who comes to mind).
+
+I really do need these protections. Nothing sucks away hours of my life without my even noticing the time passing the way twitter does. And when some part of this system is turned off for some reason, and I have reason to visit twitter, I almost inevitably spend hours casually browsing.
+
+[Note. This is an insult to my dignity as an agent, and I should probably spend some time explicitly practicing disengaging from twitter. But regardless, it is bad practice to rely on personal will to protect yourself from hazards like this one, and I strongly endorse
+
+I have a similar setup for Youtube
+
+suggested videos are blocked with 
+Intention prevents me from spending more than an hour a day on both twitter and youtube.
+
+I think that I should experiment with having a dedicated laptop for twitter and youtube (and porn?) and blocking them from my main machine entirely. 
+###A the signal of social media
+There is something quite useful about social media however, which is that it provides me a very overt error signal.
+
+When I find myself flipping to social media or youtube (or in past years, web comics), I know 
+
+Every day, use my chess timer or focus-mate 
+
+
+
+Maximize my energy
+Exercise every day, pushing myself to exercise hard every third day at least.
+Waking up on time, every day
+Sauna every night before bed.
+Yoga Nidra as needed
+Increase intentionality
+Meditate for 10 to 30 minutes every day.
+Track my cognitive engagement.
+When I feel agitated, feel into the sensation in my body.
+No sugar
+Do the right thing
+Focus on one thing a day
+Spend 5 minutes by the clock, preparing and setting intention for my one thing each evening
+Social media protections
+Every day, use either my chess timer or focusmate?
+
+
+
+
+
+
+
+Youtube and social media
+Low energy -> Yoga Nidra
+Distraction / pacification  -> feel into body sensation
+Boredom / stimulation hunger -> Lay down with my eyes closed. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Old Version, to be incorporated in:
+
 #Outline of Productivity and Intentionality System
 
 ##Overview
