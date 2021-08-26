@@ -136,6 +136,8 @@ When I feel agitated, I note this in my log, and just stay with the sensation. J
 
 ###Choosing what to do
 
+The most important, and most neglected component of personal productivity is 
+
 ###Focus on one thing
 
 I’ve known for years, that context switching was costly, and that the more goals I gave myself to complete in a day, the less likely it is that they will all be be meaningfully loaded up. But nevertheless, I resisted / failed to notice the obvious implication: that I should minimize the number of goals that I take on: focusing on only one thing.
@@ -203,6 +205,8 @@ running workshops and seeing clients vs. reading books and doing math
 key distinction: how costly is it to get up and take a break?
 
 Turning one kind of work into the other
+
+The environment gives you the default action.
 
 
 Collaborators
