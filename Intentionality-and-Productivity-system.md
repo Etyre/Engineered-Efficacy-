@@ -2,7 +2,7 @@
 
 
 
-#Productivity and intentionality outline
+#Productivity and Intentionality outline
 
 [note to myself: just describe what I do. I can go back and include sections on the general theory later.]
 
@@ -123,8 +123,9 @@ My goal with meditation is to find my way into the right kind of expansive state
 How I wake up seems to make a big difference for my intentionality. Basically, it is a big boost if I have directed intentionality from the get-go, from the moment I wake up, instead of booting up gradually over the course of an hour or two.
 
 
+###Agitation and Aversion
 
-###When I feel agitated, feel into my body
+####When I feel agitated, feel into my body
 
 When I feel agitated, I note this in my log, and just stay with the sensation. Just staying with it might cause the feeling to decrease, or it might not, and there might be additional steps, like doing Focusing, or going to exercise to vent the energy. But first and foremost, I log it, and stay with the sensation.
 
@@ -199,18 +200,53 @@ Slow day
 
 
 
-###Work with environmental structure, vs work that depends on internal structure
-running workshops and seeing clients vs. reading books and doing math 
+###Work with environmental structure vs work that depends on internal structure
 
-key distinction: how costly is it to get up and take a break?
+There's an important dichotomy in kinds of work: whether the structure is internal or external.
 
-Turning one kind of work into the other
+Consider running a workshop: participants show up, and there's a schedule. At some point the bell rings, and it is time to teach the next class.
 
-The environment gives you the default action.
+Compare to studying a math textbook. You might have some sort of study schedule, but to a much greater extent, you have the option, at any given moment, to take a break, or to get up and do something else.
+
+Running a workshop has *external structure*. The environment determines your default next action, and broadly directs your attention. 
+
+Studying a math textbook demands *internal structure*: the forces that direct your attention and intention are internal to you.
+
+In general, environmental structure is less contingent, and less fragile / more robust than relying on internal structure. If, at the moment when I need to go "on", during a workshop, I "don't feel like it", I'm almost certainly going to do it anyway, even if it will take an exertion of will. If I "don't feel like" studying, I'm much more likely to slide into distraction. (For better or for worse. Part of the dynamic here is that doing good mathematical study *is* just more sensitive to my energy than teaching a class is, and so it is more likely to be useless if I "don't feel like it".)
+
+This distinction extends beyond merely choosing to work or not to work however. It's also relevant on the micro-level. 
+
+Collaborating side by side with another person on a project is helpful not just because it forces you to show up, but because in any given moment, you can riff off of each other. The engagement with another mind, somehow gives concrete affordances which question to ask, which approach to try next. When you're stuck, instead of staring blankly, there's a natural gradient towards discussing what's happening, and thereby get more traction. 
+
+(I think this is related to why rubber ducking is helpful, and why most people find Focusing easier when then have a Focusing companion to listen to them. I often stimulate this by talking to a recording device, which micro-incentivizes me to vocalize my thought process, which concretizes my thoughts. Indeed, "talking out loud" is so overpowered, that I decided to get my own room, pretty much entirely for the ability to do this.)
+
+Note: talking to myself is one of those things that I don't do nearly enough.
+
+###Creating external structure
+
+In general, if I can convert work that depends on internal structure into work that has its own environmental structure, this is a straightforward boost.
+
+The biggest way to do this is collaborations. I try to do as much of my work as possible as collaborations with other people. 
+
+As Ray Dalio says, two people who work well together are way more than twice as effective as a result of the collaboration.
+
+Relatedly, I think that I should learn some subjects by setting up a recurring session online session with a tutor, and not worrying about that subject at all between sessions. The tutoring sessions provide environmental structure, I just show up at the time, and I learn new subjects automatically.
+
+There's also Focusmate, which is not as good as working with another person, but does provide 
 
 
-Collaborators
-Focus-mate
+###Getting hooked in
+
+Internal structure is not *always* less reliable than external structure. Sometimes, I'm intrinsically motivated by some task, or there's some puzzle that I'm compulsively trying to make sense of. When I'm in this mode, I'll get up to take a break, and then find myself back at my computer trying a new approach on the problem or writing another paragraph.
+
+The hours fly by, and while the work itself might be draining, there's no exertion involved in keeping my attention on the work.
+
+Generally, 
+
+Being hooked in > relying on external structure > relying on internal structure
+
+So, I try to leverage this by using tricks that help me get hooked in.
+
 
 ###Using a chess-timer
 
@@ -218,37 +254,80 @@ Focus-mate
 
 ###Preplanning, by the clock
 
+Clarifying 
+
+What are the reasons why this is good to do?
+
+- This loads up my goals for the day so that they are at hand.
+- This makes my "committing" / deciding to do the thing real, and not epiphenomenal.
+- This prevents me from unreflectively adding goals to my day
+- This breaks down any ambiguity barriars
+	- General principle: unbundling planning and actin
+- This allows me to notice any aversions
+
 When I am outlining my main goals, for the next day, I have a rule of spending 3 minutes, by the timer, thinking through what is required for each one, and setting myself up to do it.
 
 That might include... 
 
-- pulling up documents and making them accessible, to reduce friction to starting, 
+- pulling up documents and leaving them open on my desktop, to reduce friction to starting, 
 - looking up a phone number that I’ll need
 - messaging the person that I’m working with, to confirm our meeting
 - Considering what I want to get out of my meeting tomorrow.
 - Clarifying a and setting a TAP for starting that task
 
-If nothing else, I will visualize, in detail what the first steps of the task entail.
+If nothing else, I will visualize, in detail, what the first steps of the task entail.
 
-This prep work is sometimes helpful in of itself, but that isn’t the main point.
+There are several interrelated psychological mechanisms that make this so useful. 
 
-The main point is to “load up” my tasks in short term memory. 
+1. It makes my "committing" / deciding to do the thing real, and not epiphenomenal.
+	- prevents me from unreflectively adding goals to my day
+2. It "loads up" my goals for the day
+3. This breaks down any ambiguity barriers
+	- General principle: unbundling planning and actin
+4. This allows me to notice any aversions in advance
+
+
+
+####Actually deciding
+
+
+prevents me from unreflectively adding goals to my day
+
+
+####Loading up goals
+
+
+####breaking down any ambiguity barriers
+
+
+Digression:
+
+General principle: unbundling planning and action
+
+	
+####Making space for aversions
+
+
+
+
+
+
+The main point is to “load up” my tasks, so that they are at hand, and to break down any ambiguity barriers to starting. 
 
 (What I describe here [link to the relevant section of my musings and rough drafts outline post])
 
+
 Often time, when people put items on a task list, or say that they are going to do something, that is basically epiphenomenal. Words in the mind that are not connected to the levers of action.
 
-But mental rehearsal is not epiphenomenal. Simulating the task makes it more likely to happen, makes it real. 
+But mental rehearsal is *not* epiphenomenal. Doing some a minimum of three minutes of thinking about the task  /Simulating the task makes it more likely to happen, makes it real. 
 
-Doing some a minimum of three minutes of thinking about the task
+And furthermore, it becomes “at hand”. I have a background sense of the things that I want to do for the day. When I get to a choice point in my day, 
 
-And furthermore, it becomes “at hand”. I have a background sense of the things that I want to do for the day.  
+Importantly, this is not just a one-way, top down process. Preplanning gives me an opportunity to get signals that I don’t actually want to do this task, or if there is something wrong about how I’m framing it.
 
-But, this is not just a one-way, top down process. Preplanning gives me an opportunity to get signals that I don’t actually want to do this task, or if there is something wrong about how I’m framing it.
-
-Notice if I have any aversions to the task, flag them and/or start to process them
-Notice if the task doesn’t actually seems worth doing
-Notice if it feels like I’m trying to cram in more than I can realistically do.
+- Notice if I have any aversions to the task, flag them and/or start to process them
+- Notice if the task doesn’t actually seems worth doing
+- Notice if it feels like I’m trying to cram in more than I can realistically do.
 
 
 
@@ -258,7 +337,7 @@ Especially when I’m rushing at the end of the day, and am drawing up a task li
 
 This is bane. 
 
-Adding more things to a list than you are (I am_ realistically going to do causes the relevant part of my mind to stop taking the list seriously. It isn’t realistically a list of goals any more, 
+Adding more things to a list than you are (I am realistically going to do causes the relevant part of my mind to stop taking the list seriously. It isn’t realistically a list of goals any more, 
 
 Drawing up a task list without deliberation, is generally, an epiphenomenal exercise. For the relevant part of my mind to actually adopt these tasks as goals, I have to do the thinking to decide that they are worth the effort. 
 
@@ -269,6 +348,9 @@ But, by having a firm rule that for every item I add, I spend, at minimum, 3 min
 Some other ways to load things up include scheduling my day.
 
 
+
+
+I've found this to be absurdly overpowered. Before I started doing this, my records indicate that I would, on average, complete x% of my daily goals. Since I've started doing this, I complete X% of my daily goals on days when I do this, and y% when I don't.
 
 
 ###Social media protections
