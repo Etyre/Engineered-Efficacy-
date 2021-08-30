@@ -107,7 +107,6 @@ This is especially important because many of the things that I most want to noti
 This sort of work is just too slippery to do only in my head.
 Fastidious Time tracking
 
-
 ###Meditate
 
 Currently, I meditate for a minimum of 10 minutes every day. 
@@ -124,10 +123,20 @@ My goal with meditation is to find my way into the right kind of expansive state
 
 How I wake up seems to make a big difference for my intentionality. Basically, it is a big boost if I have directed intentionality from the get-go, from the moment I wake up, instead of booting up gradually over the course of an hour or two.
 
+I've trained my self to spring out of bed as soon as I wake up, so that I am standing and moving within a second or two of opening my eyes.
 
-###Agitation and Aversion
+This allows to to start the day with momentum, which can carry through for hours.
 
-[This feels like a big one that I'll have to untangle.]
+Furthermore, my bed is cozy. If I don't get up immediately, I'm apt to snuggle up in there and then fall asleep for another hour or two, pushing back my sleep schedule.
+
+[rewrite this section to be in the first person?] You can do this with offline habit training: just practice (during the day, when you're fully awake), laying down in bed with your eyes closed, and then opening your eyes and jumping out of bed. Do 10 reps of this, being careful to reset after each one, so that you're not practicing *getting back into bed*, each time.
+
+I've sometimes used a mantra in this moment as well, to remind me of my intention or why I care about getting up. When I was a teenager, I used to wake up at 5:00 AM to get up and meditate and do "energetic exercises" (as part of astral projection training). I used to say, as I got out of bed "this is what it means to be a wizard", particularly in the months when it was cold.
+
+
+###[ ] Agitation and Aversion
+
+<!--[This feels like a big one that I'll have to untangle.]-->
 
 In my experience, aversions are by far the dominating factor in my personal productivity. When I don't have any aversions, I can pretty easily get into a state of clipping rapidly through tasks, flowing from one thing to another, for hours at a time. Life feels smooth, and action is efficient. But if I have even one aversion, to something that I think I should do, in the mix, it acts as a sort of speed bump, slowing everything down, as I take (rationalized) actions that divert me from the aversive stimulus, instead of moving getting things done as efficiently and effectively as possible.
 
@@ -172,25 +181,25 @@ Productivity, is ultimately not about how much you work, or even how much you ge
 It is often much more attractive or compelling to try to find ways to do more, to waste less time, to be more efficient. And certainly, there is value to that. But ultimately that is not the part of the equation that has the most leverage. 
 
 
-
-
-There is a hard limit to how efficient a person can be. At the theoretical maximum they could be working literally every moment of a 24 hour day. 
+<!-- There is a hard limit to how efficient a person can be. At the theoretical maximum they could be working literally every moment of a 24 hour day. If the average person does 
 
 But, in actual fact, some humans are 10x or 100x or 1000x more productive than the average smart person. 
 
 
-Jeff Bezos and [hardworking startup person] can both 
-
+Jeff Bezos and [hardworking startup person] can both-->
 
 It is crucial, more important than anything else here, to work on the right things.
 
+###Choosing projects on the scale of weeks and months
+
+The majority of my work is projects that (hopefully) will increase the probability that humanity will make it through this century. 
 
 
-The majority of my work is projects that (hopefully) will increase the probability that humanity will make it through this century. Every couple of weeks, I sit down and ask myself “what is the thing that I could do now, in [the Summer of 2021], that would most increase our chances of things going well in the endgame?” or “Suppose that all my needs were met, and I was personally responsible for seeing the world to safety, what needs to happen?” or some other variation on the same theme.
+Every couple of weeks, I sit down and ask myself “what is the thing that I could do now, in [the Summer of 2021], that would most increase our chances of things going well in the endgame?” or “Suppose that all my needs were met, and I was personally responsible for seeing the world to safety, what needs to happen?” or some other variation on the same theme.
 
+###Choosing what to do on any given day
 
-
-Some heuristics that I might want to adopt
+####Some heuristics that I might want to adopt
 
 Just make quantitative estimates of what the highest value thing is to do is, and make writeups to go along with it. 
 
@@ -201,8 +210,7 @@ Just make quantitative estimates of what the highest value thing is to do is, an
 
 ###Focus on one thing
 
-I’ve known for years, that context switching was costly, and that the more goals I gave myself to complete in a day, the less likely it is that they will all be be meaningfully loaded up. But nevertheless, I resisted / failed to notice the obvious implication: that I should minimize the number of goals that I take on: focusing on only one thing.
-
+I’ve known for years that context switching was costly, and that the more goals I gave myself to complete in a day, the less likely it is that they will all be be meaningfully loaded up. But nevertheless, I resisted / failed to notice the obvious implication: that I should *minimize* the number of goals that I take on: focusing on only one thing.
 
 I try to structure as much of my work as I can in focus-days, intense spurts in which I’m pushing hard on accomplishing only a single goal.
 
@@ -245,7 +253,9 @@ These are batchable, and I do often batch them on task days, which are basically
 
 4. **Interest-driven reading and writing**
 
-I like to keep some slack in my life, for purely interest-driven reading and writing. 
+I like to keep some slack in my life, for purely interest-driven reading and writing. For most of the things that I work on, I make at least *some* effort to finish what I start, though how much effort depends on the project. But not for these.
+
+
 
 
 
@@ -260,77 +270,6 @@ Travel day
 Slow day
 
 
-
-
-
-###Work with environmental structure vs work that depends on internal structure
-
-There's an important dichotomy in kinds of work: whether the structure is internal or external.
-
-Consider running a workshop: participants show up, and there's a schedule. At some point the bell rings, and it is time to teach the next class.
-
-Compare to studying a math textbook. You might have some sort of study schedule, but to a much greater extent, you have the option, at any given moment, to take a break, or to get up and do something else.
-
-Running a workshop has *external structure*. The environment determines your default next action, and broadly directs your attention. 
-
-Studying a math textbook demands *internal structure*: the forces that direct your attention and intention are internal to you.
-
-In general, environmental structure is less contingent, and less fragile / more robust than relying on internal structure. If, at the moment when I need to go "on", during a workshop, I "don't feel like it", I'm almost certainly going to do it anyway, even if it will take an exertion of will. If I "don't feel like" studying, I'm much more likely to slide into distraction. (For better or for worse. Part of the dynamic here is that doing good mathematical study *is* just more sensitive to my energy than teaching a class is, and so it is more likely to be useless if I "don't feel like it".)
-
-This distinction extends beyond merely choosing to work or not to work however. It's also relevant on the micro-level. 
-
-Collaborating side by side with another person on a project is helpful not just because it forces you to show up, but because in any given moment, you can riff off of each other. The engagement with another mind, somehow gives concrete affordances which question to ask, which approach to try next. When you're stuck, instead of staring blankly, there's a natural gradient towards discussing what's happening, and thereby get more traction. 
-
-(I think this is related to why rubber ducking is helpful, and why most people find Focusing easier when then have a Focusing companion to listen to them. I often stimulate this by talking to a recording device, which micro-incentivizes me to vocalize my thought process, which concretizes my thoughts. Indeed, "talking out loud" is so overpowered, that I decided to get my own room, pretty much entirely for the ability to do this.)
-
-Note: talking to myself is one of those things that I don't do nearly enough.
-
-###Creating external structure
-
-In general, if I can convert work that depends on internal structure into work that has its own environmental structure, this is a straightforward boost.
-
-The biggest way to do this is collaborations. I try to do as much of my work as possible as collaborations with other people. 
-
-As Ray Dalio says, two people who work well together are way more than twice as effective as a result of the collaboration.
-
-Relatedly, I think that I should learn some subjects by setting up a recurring session online session with a tutor, and not worrying about that subject at all between sessions. The tutoring sessions provide environmental structure, I just show up at the time, and I learn new subjects automatically.
-
-There's also Focusmate, which is not as good as working with another person, but does provide some environmental structure.
-
-###Getting hooked in
-
-Internal structure is not *always* less reliable than external structure. Sometimes, I'm intrinsically motivated by some task, or there's some puzzle that I'm compulsively trying to make sense of. When I'm in this mode, I'll get up to take a break, and then find myself back at my computer trying a new approach on the problem or writing another paragraph.
-
-The hours fly by, and while the work itself might be draining, there's no exertion involved in keeping my attention on the work.
-
-Generally, 
-
-Being hooked in > relying on external structure > relying on internal structure
-
-So, I try to leverage this by using tricks that help me get hooked in.
-
-
-###Using a chess-timer
-
-One strategy that I've found to be very helpful is using a chess timer to structure my days. 
-
-I have a simple software app that replicates a chess timer: it has two timers, side by side, each counting down to 0. Only one timer counts down at a time, while the other is paused. Pressing a button switches which is paused and which is running.
-
-One timer counts down my work time, for the day (or a part of the day) while the other timer counts down my break time. Anything that is listed as part of my main goals for the day counts as work, and anything else (including doing my daily things and spaced deliberate practice sessions, unless those are part of my daily goals).
-
-When I pause work to do something else, I switch the timers, and when I come back to work, I switch them back.
-
-I have full flexibility to take a break whenever I want to, however, I don't let my "break" timer run out before my "work" timer.
-
-The only time when I pause *both* timers is when I go to nap, or do yoga nidra. Naps don't count towards the hours of my day.
-
-Generally, I'll allocate 5 hours of work and five hours of break.  
-
-I've found this to be extremely helpful. This practice makes me much more aware of the scarcity of my time and how I am choosing to spend it. It highlights the tradeoffs that are entailed in choosing to distract myself for a bit, or take some time to read an article. 
-
-When I'm not using my chess timer, I might spend 2 hours browsing the internet, or whatever, in a way that *doesn't feel like a cost*. My chess timer is a tool that helps me grock, in the moment, the scarcity of time in the day.
-
-[I'm not that satisfied with the way this section is written up]
 
 
 ###Preplanning, by the clock
@@ -433,6 +372,75 @@ Some other ways to load things up include scheduling my day.
 
 I've found this to be absurdly overpowered. Before I started doing this, my records indicate that I would, on average, complete x% of my daily goals. Since I've started doing this, I complete X% of my daily goals on days when I do this, and y% when I don't.
 
+###Work with environmental structure vs work that depends on internal structure
+
+There's an important dichotomy in kinds of work: whether the structure is internal or external.
+
+Consider running a workshop: participants show up, and there's a schedule. At some point the bell rings, and it is time to teach the next class.
+
+Compare to studying a math textbook. You might have some sort of study schedule, but to a much greater extent, you have the option, at any given moment, to take a break, or to get up and do something else.
+
+Running a workshop has *external structure*. The environment determines your default next action, and broadly directs your attention. 
+
+Studying a math textbook demands *internal structure*: the forces that direct your attention and intention are internal to you.
+
+In general, environmental structure is less contingent, and less fragile / more robust than relying on internal structure. If, at the moment when I need to go "on", during a workshop, I "don't feel like it", I'm almost certainly going to do it anyway, even if it will take an exertion of will. If I "don't feel like" studying, I'm much more likely to slide into distraction. (For better or for worse. Part of the dynamic here is that doing good mathematical study *is* just more sensitive to my energy than teaching a class is, and so it is more likely to be useless if I "don't feel like it".)
+
+This distinction extends beyond merely choosing to work or not to work however. It's also relevant on the micro-level. 
+
+Collaborating side by side with another person on a project is helpful not just because it forces you to show up, but because in any given moment, you can riff off of each other. The engagement with another mind, somehow gives concrete affordances which question to ask, which approach to try next. When you're stuck, instead of staring blankly, there's a natural gradient towards discussing what's happening, and thereby get more traction. 
+
+(I think this is related to why rubber ducking is helpful, and why most people find Focusing easier when then have a Focusing companion to listen to them. I often stimulate this by talking to a recording device, which micro-incentivizes me to vocalize my thought process, which concretizes my thoughts. Indeed, "talking out loud" is so overpowered, that I decided to get my own room, pretty much entirely for the ability to do this.)
+
+Note: talking to myself is one of those things that I don't do nearly enough.
+
+####Creating external structure
+
+In general, if I can convert work that depends on internal structure into work that has its own environmental structure, this is a straightforward boost.
+
+The biggest way to do this is collaborations. I try to do as much of my work as possible as collaborations with other people. 
+
+As Ray Dalio says, two people who work well together are way more than twice as effective as a result of the collaboration.
+
+Relatedly, I think that I should learn some subjects by setting up a recurring session online session with a tutor, and not worrying about that subject at all between sessions. The tutoring sessions provide environmental structure, I just show up at the time, and I learn new subjects automatically.
+
+There's also Focusmate, which is not as good as working with another person, but does provide some environmental structure.
+
+####Getting hooked in
+
+Internal structure is not *always* less reliable than external structure. Sometimes, I'm intrinsically motivated by some task, or there's some puzzle that I'm compulsively trying to make sense of. When I'm in this mode, I'll get up to take a break, and then find myself back at my computer trying a new approach on the problem or writing another paragraph.
+
+The hours fly by, and while the work itself might be draining, there's no exertion involved in keeping my attention on the work.
+
+Generally, 
+
+Being hooked in > relying on external structure > relying on internal structure
+
+So, I try to leverage this by using tricks that help me get hooked in.
+
+
+#####Using a chess-timer
+
+One strategy that I've found to be very helpful is using a chess timer to structure my days. 
+
+I have a simple software app that replicates a chess timer: it has two timers, side by side, each counting down to 0. Only one timer counts down at a time, while the other is paused. Pressing a button switches which is paused and which is running.
+
+One timer counts down my work time, for the day (or a part of the day) while the other timer counts down my break time. Anything that is listed as part of my main goals for the day counts as work, and anything else (including doing my daily things and spaced deliberate practice sessions, unless those are part of my daily goals).
+
+When I pause work to do something else, I switch the timers, and when I come back to work, I switch them back.
+
+I have full flexibility to take a break whenever I want to, however, I don't let my "break" timer run out before my "work" timer.
+
+The only time when I pause *both* timers is when I go to nap, or do yoga nidra. Naps don't count towards the hours of my day.
+
+Generally, I'll allocate 5 hours of work and five hours of break.  
+
+I've found this to be extremely helpful. This practice makes me much more aware of the scarcity of my time and how I am choosing to spend it. It highlights the tradeoffs that are entailed in choosing to distract myself for a bit, or take some time to read an article. 
+
+When I'm not using my chess timer, I might spend 2 hours browsing the internet, or whatever, in a way that *doesn't feel like a cost*. My chess timer is a tool that helps me grock, in the moment, the scarcity of time in the day.
+
+[I'm not that satisfied with the way this section is written up]
+
 
 ###Social media protections
 
@@ -463,8 +471,33 @@ I think that I should experiment with having a dedicated laptop for twitter and 
 
 There is something quite useful about social media however, which is that it provides me a very overt error signal.
 
-When I find myself flipping to social media or youtube (or in past years, webcomics), I know 
+When I find myself flipping to social media or youtube (or in past years, webcomics) with the vague intention of "just seeing what's there", I know that *something* somewhere in this system, has gone wrong.
 
+Noticing this, I immediately flag it in my Daily log, and then proceed to feel into what's happening for me in that moment. 
+
+In general, the urge to browse social media is the result of one of a few possibilities, which are delineated elsewhere in this document. 
+
+**I'm tired or my energy is low**
+
+If I'm too tired to really focus on anything, I'll default to the low-effort, intermittent reward schedule of social media.
+
+When I notice this, the thing to do is lie down to do yoga nidra.
+
+Low energy -> Yoga Nidra
+
+**I'm distracting myself**
+
+It might be that I'm using social media as a strategy for dissociating or distracting myself, an escape hatch from the painful agitation of whatever's happening in me at the moment.
+
+In this case, the thing to do is usually to first take a breath to clear space, and then gently feel into the sensation in my body. 
+
+This is easier said than done, however, 
+
+Distraction / pacification  -> feel into body sensation
+
+
+
+Boredom / stimulation hunger -> Lay down with my eyes closed. 
 
 
 
@@ -482,7 +515,7 @@ Lay down to sleep -> Set Inner Wakeup call
 
 
 
-Every day, use my chess timer or focus-mate 
+<!-- Every day, use my chess timer or focus-mate 
 
 
 
@@ -1240,6 +1273,9 @@ Attenttional bandwidth?
 	- Daily planning
 	- Pre-focus days
 
+
+
+-->
 
 
 
