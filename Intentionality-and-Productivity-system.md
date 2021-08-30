@@ -491,15 +491,19 @@ It might be that I'm using social media as a strategy for dissociating or distra
 
 In this case, the thing to do is usually to first take a breath to clear space, and then gently feel into the sensation in my body. 
 
-This is easier said than done, however, 
+This is easier said than done, however. When I'm in an agitated state where I'm fleeing some sensation, I have the least consciousness, and staying with it feels slippery. 
+
+(Note: I think that what I want to do is something like realization that I document here: I want to reach for my sense of who I want to be, and also feel the urge of what's happening in the moment.]
 
 Distraction / pacification  -> feel into body sensation
 
+**Boredom**
 
+Sometimes I'm just bored, and I'm flipping to social media out of stimulation hunger.
+
+In this case, I will lay down with my eyes closed, until something seems motivating enough to get up and do. The important thing is that the motivation wells up from *me*, and is evaluated on an an even playing field, instead of having my attention yanked around my forces outside of me.
 
 Boredom / stimulation hunger -> Lay down with my eyes closed. 
-
-
 
 
 ##Appendixes
