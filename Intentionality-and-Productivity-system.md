@@ -43,6 +43,8 @@ In general, I am aiming to increase my energetic _[amplitude](https://twitter.co
 
 In my life, there are increasing marginal returns to focus, alertness, and engagement. With a few exceptions, if something is worth doing at all, it benefits strongly from my fullest, most resourced effort. For most tasks, a half-focused version is not even worth doing.
 
+For instance, when I'm too tired to work, I might slide into reading articles that I've saved up. But for any given article, it's either worth giving it full attention: good posture, taking notes, putting my notes into a review system, or it isn't. But if it isn't worth actually paying attention to, so that I have new thoughts or remember the content, then it isn't worth reading at all.
+
 So when I’m cognitively drained, or otherwise low energy, instead of continuing to try to eke out some dregs of work, I switch gears and focus on _resting as effectively as possible_. 
 
 ####On the scale of a day
@@ -125,6 +127,26 @@ How I wake up seems to make a big difference for my intentionality. Basically, i
 
 ###Agitation and Aversion
 
+[This feels like a big one that I'll have to untangle.]
+
+In my experience, aversions are by far the dominating factor in my personal productivity. When I don't have any aversions, I can pretty easily get into a state of clipping rapidly through tasks, flowing from one thing to another, for hours at a time. Life feels smooth, and action is efficient. But if I have even one aversion, to something that I think I should do, in the mix, it acts as a sort of speed bump, slowing everything down, as I take (rationalized) actions that divert me from the aversive stimulus, instead of moving getting things done as efficiently and effectively as possible.
+
+An aversion is any
+
+But aversion itself is a broad category. There are a number of phenomena that result in aversion-behvior, each of which have distinct structure and underlying mechanisms.
+
+
+
+
+
+- Motivational knots
+- Raw hedonics
+- Ambiguity aversion
+- Raw agitation
+
+
+
+
 ####When I feel agitated, feel into my body
 
 When I feel agitated, I note this in my log, and just stay with the sensation. Just staying with it might cause the feeling to decrease, or it might not, and there might be additional steps, like doing Focusing, or going to exercise to vent the energy. But first and foremost, I log it, and stay with the sensation.
@@ -132,12 +154,50 @@ When I feel agitated, I note this in my log, and just stay with the sensation. J
 ###Lying down in response to stimulation hunger
 
 
+[I think that this one maybe goes somewhere else.]
+
+
+
 
 ##Do the right thing
 
 ###Choosing what to do
 
-The most important, and most neglected component of personal productivity is 
+The most important, and most neglected component of personal productivity is choosing what to work on.
+
+Productivity, is ultimately not about how much you work, or even how much you get done, but how much *value* you create.
+
+	Productivity = Time spent working * efficiency of work * Value of work
+
+It is often much more attractive or compelling to try to find ways to do more, to waste less time, to be more efficient. And certainly, there is value to that. But ultimately that is not the part of the equation that has the most leverage. 
+
+
+
+
+There is a hard limit to how efficient a person can be. At the theoretical maximum they could be working literally every moment of a 24 hour day. 
+
+But, in actual fact, some humans are 10x or 100x or 1000x more productive than the average smart person. 
+
+
+Jeff Bezos and [hardworking startup person] can both 
+
+
+It is crucial, more important than anything else here, to work on the right things.
+
+
+
+The majority of my work is projects that (hopefully) will increase the probability that humanity will make it through this century. Every couple of weeks, I sit down and ask myself “what is the thing that I could do now, in [the Summer of 2021], that would most increase our chances of things going well in the endgame?” or “Suppose that all my needs were met, and I was personally responsible for seeing the world to safety, what needs to happen?” or some other variation on the same theme.
+
+
+
+Some heuristics that I might want to adopt
+
+Just make quantitative estimates of what the highest value thing is to do is, and make writeups to go along with it. 
+
+- Discomfort razor
+	- https://twitter.com/george__mack/status/1350513176878735363?s=20
+
+- What might I be able to finish *today*?
 
 ###Focus on one thing
 
@@ -185,7 +245,10 @@ These are batchable, and I do often batch them on task days, which are basically
 
 4. **Interest-driven reading and writing**
 
-I like to keep some slack in my life, for 
+I like to keep some slack in my life, for purely interest-driven reading and writing. 
+
+
+
 
 
 Kinds of days
@@ -232,8 +295,7 @@ As Ray Dalio says, two people who work well together are way more than twice as 
 
 Relatedly, I think that I should learn some subjects by setting up a recurring session online session with a tutor, and not worrying about that subject at all between sessions. The tutoring sessions provide environmental structure, I just show up at the time, and I learn new subjects automatically.
 
-There's also Focusmate, which is not as good as working with another person, but does provide 
-
+There's also Focusmate, which is not as good as working with another person, but does provide some environmental structure.
 
 ###Getting hooked in
 
@@ -250,6 +312,25 @@ So, I try to leverage this by using tricks that help me get hooked in.
 
 ###Using a chess-timer
 
+One strategy that I've found to be very helpful is using a chess timer to structure my days. 
+
+I have a simple software app that replicates a chess timer: it has two timers, side by side, each counting down to 0. Only one timer counts down at a time, while the other is paused. Pressing a button switches which is paused and which is running.
+
+One timer counts down my work time, for the day (or a part of the day) while the other timer counts down my break time. Anything that is listed as part of my main goals for the day counts as work, and anything else (including doing my daily things and spaced deliberate practice sessions, unless those are part of my daily goals).
+
+When I pause work to do something else, I switch the timers, and when I come back to work, I switch them back.
+
+I have full flexibility to take a break whenever I want to, however, I don't let my "break" timer run out before my "work" timer.
+
+The only time when I pause *both* timers is when I go to nap, or do yoga nidra. Naps don't count towards the hours of my day.
+
+Generally, I'll allocate 5 hours of work and five hours of break.  
+
+I've found this to be extremely helpful. This practice makes me much more aware of the scarcity of my time and how I am choosing to spend it. It highlights the tradeoffs that are entailed in choosing to distract myself for a bit, or take some time to read an article. 
+
+When I'm not using my chess timer, I might spend 2 hours browsing the internet, or whatever, in a way that *doesn't feel like a cost*. My chess timer is a tool that helps me grock, in the moment, the scarcity of time in the day.
+
+[I'm not that satisfied with the way this section is written up]
 
 
 ###Preplanning, by the clock
