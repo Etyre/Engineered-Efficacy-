@@ -169,6 +169,7 @@ When I feel agitated, I note this in my log, and just stay with the sensation. J
 
 
 ##Do the right thing
+[This section should maybe be called "make it easy to to the right thing"]
 
 ###Choosing what to do
 
@@ -337,7 +338,7 @@ In a delightfully silly way, my task-list making self has some skin in the game.
 ####Loading up goals
 
 
-####breaking down any ambiguity barriers
+####Breaking down any ambiguity barriers
 
 
 
@@ -482,11 +483,11 @@ When I'm not using my chess timer, I might spend 2 hours browsing the internet, 
 [I'm not that satisfied with the way this section is written up]
 
 
-##something about input goals vs. output goals (not sure where this goes)
+###something about input goals vs. output goals (not sure where this goes)
 
 ###Social media protections
 
-###My twitter setup
+####My twitter setup
 This is the setup that I use for twitter:
 
 I’ve blocked twitter on my phone, and on all my 
@@ -509,7 +510,7 @@ Intention prevents me from spending more than an hour a day on both twitter and 
 
 I think that I should experiment with having a dedicated laptop for twitter and youtube (and porn?) and blocking them from my main machine entirely. 
 
-###A the signal of social media
+####A the signal of social media
 
 There is something quite useful about social media however, which is that it provides me a very overt error signal.
 
