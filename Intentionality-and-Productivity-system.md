@@ -274,18 +274,18 @@ Slow day
 
 ###Preplanning, by the clock
 
-Clarifying 
+<!--Clarifying 
 
 What are the reasons why this is good to do?
 
-- This loads up my goals for the day so that they are at hand.
+- This loads up my goals for the day so that they are at han
 - This makes my "committing" / deciding to do the thing real, and not epiphenomenal.
 - This prevents me from unreflectively adding goals to my day
 - This breaks down any ambiguity barriars
 	- General principle: unbundling planning and actin
-- This allows me to notice any aversions
+- This allows me to notice any aversions-->
 
-When I am outlining my main goals, for the next day, I have a rule of spending 3 minutes, by the timer, thinking through what is required for each one, and setting myself up to do it.
+When I am outlining my main goals, for the next day, I have a rule of spending 3 minutes, by a timer, thinking through what is required for each one, and setting myself up to do it.
 
 That might include... 
 
@@ -299,7 +299,7 @@ If nothing else, I will visualize, in detail, what the first steps of the task e
 
 There are several interrelated psychological mechanisms that make this so useful. 
 
-1. It makes my "committing" / deciding to do the thing real, and not epiphenomenal.
+1. It makes my "committing" / deciding to do the thing real, and not epiphenomenal
 	- prevents me from unreflectively adding goals to my day
 2. It "loads up" my goals for the day
 3. This breaks down any ambiguity barriers
@@ -307,12 +307,27 @@ There are several interrelated psychological mechanisms that make this so useful
 4. This allows me to notice any aversions in advance
 
 
-
 ####Actually deciding
 
 
-prevents me from unreflectively adding goals to my day
 
+
+
+#####Prevents unreflectively adding goals
+
+For years, even though I knew the principle of motivation, I would regularly make a list of things to do the next day, generating what felt like a full day's worth of tasks, only to remember one other thing that I wanted to do, and give in to the temptation to add it to the list. I was being casual with my future self, just throwing another thing on his plate, as if this was costless.
+
+I would do this especially when I was pressed for time at the end of the day, and am drawing up a task list for the next day without much attention or deliberation.
+
+This is poisoinn. 
+
+Adding more things to a list than I am realistically able to complete causes the relevant part of my mind to stop taking the list seriously. It isn’t a realistic target that I'm striving to hit, any more.  
+
+But, by keeping to a rule, that for every task I add, I spend a minimum of 3 minutes preplanning, I *can't* unreflectively add goals. 
+
+This is in part because the process itself instills reflection. But also because of the seemingly-sillier reason that the 3 minutes of planning is an upfront cost. If I'm too rushed to spend the time to preprocess those goals, then I am too rushed make a task list for myself.
+
+In a delightfully silly way, my task-list making self has some skin in the game. My task-list making self has to pay some (tiny!) fraction of the cost that he might otherwise carelessly impose on my task-list executing self. And this is a constraint that keeps my daily goals within realistic bounds.
 
 ####Loading up goals
 
@@ -320,12 +335,45 @@ prevents me from unreflectively adding goals to my day
 ####breaking down any ambiguity barriers
 
 
+
+
 Digression:
 
 General principle: unbundling planning and action
 
 	
-####Making space for aversions
+####Making space for aversions, objections, ect.
+
+Importantly, this is not just a one-way, top down process. Preplanning gives me an opportunity to get signals that I don’t actually want to do this task, or if there is something wrong about how I’m framing it.
+
+<!--I think people often experience making a todo list in far mode, without empathy for the version of themselves that is supposed to execute on the todo list. They'll happily assign their future self all kinds of work that they wouldn't choose for themselves if they had to do the task the moment that they were assigning it, and low and behold, they still don't want to do when they are supposed to execute on it.
+
+Thus, people will go through the motions of creating epiphenomenal todo lists for their future self.
+
+Preplanning in this way helps me to step into doing the task, just a little, when I'm 
+
+-->
+
+This gives me an an opportunity to notice...
+
+**Aversions and conflicting impulses**,
+
+Noticing aversions allows me to flag them explicitly, and/or begin to engage with them directly.
+
+If a task is aversive, I might still keep it, but I'll approach it differently: instead of my main goal being to do the task, my main goal is to orient to different goal threads of the task.
+
+And I wouldn't 
+
+**Low enthusiasm/ Lost purposes**
+
+If a task doesn't feel alive, or feels like a schlep, this gives me an opportunity to asses if it actually worth doing, or goal factor for a modified version that better cleave so my goals. 
+
+**Over-scheduling / craming**
+
+If I notice that I'm trying to cram more into a day than I can sim myself actually completing, I'll fall back to take stock of what things I care about, and choose which ones are *most* important to do the next day.
+
+
+O
 
 
 
@@ -343,21 +391,11 @@ But mental rehearsal is *not* epiphenomenal. Doing some a minimum of three minut
 
 And furthermore, it becomes “at hand”. I have a background sense of the things that I want to do for the day. When I get to a choice point in my day, 
 
-Importantly, this is not just a one-way, top down process. Preplanning gives me an opportunity to get signals that I don’t actually want to do this task, or if there is something wrong about how I’m framing it.
-
-- Notice if I have any aversions to the task, flag them and/or start to process them
-- Notice if the task doesn’t actually seems worth doing
-- Notice if it feels like I’m trying to cram in more than I can realistically do.
 
 
 
-For years, even though I knew the principle of motivation, I would regularly make a list of things to do the next day, generating what felt like a full task list, and then remember one other thing that I wanted to do, and give in to the temptation to add it to the list. I’m being casual with my future self, just throwing another thing on his plate, as if it is costless.
 
-Especially when I’m rushing at the end of the day, and am drawing up a task list without much attention or deliberation.
 
-This is bane. 
-
-Adding more things to a list than you are (I am realistically going to do causes the relevant part of my mind to stop taking the list seriously. It isn’t realistically a list of goals any more, 
 
 Drawing up a task list without deliberation, is generally, an epiphenomenal exercise. For the relevant part of my mind to actually adopt these tasks as goals, I have to do the thinking to decide that they are worth the effort. 
 
@@ -442,6 +480,8 @@ When I'm not using my chess timer, I might spend 2 hours browsing the internet, 
 [I'm not that satisfied with the way this section is written up]
 
 
+##something about input goals vs. output goals (not sure where this goes)
+
 ###Social media protections
 
 ###My twitter setup
@@ -504,6 +544,15 @@ Sometimes I'm just bored, and I'm flipping to social media out of stimulation hu
 In this case, I will lay down with my eyes closed, until something seems motivating enough to get up and do. The important thing is that the motivation wells up from *me*, and is evaluated on an an even playing field, instead of having my attention yanked around my forces outside of me.
 
 Boredom / stimulation hunger -> Lay down with my eyes closed. 
+
+
+###"Solid work" vs. "fluid work"
+
+Some work needs to be done in chunks, where other work and be done in small increments, filling the gap between other things.
+
+Writing projects where I have to load up the full context in my head, and once it is there I will feel pressure to get it down so that I don't loose it. 
+
+I'll feel resistance to starting such projects unless I feel sure that I have enough time and space (and sometimes even then, because there's something inherently scary about opening up that [can of worms doesn't seem like quite the right metaphor]. Once I've started, all the threads will be open. 
 
 
 ##Appendixes
