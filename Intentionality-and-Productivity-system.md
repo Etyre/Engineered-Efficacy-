@@ -309,6 +309,11 @@ There are several interrelated psychological mechanisms that make this so useful
 
 ####Actually deciding
 
+Often time, when people put items on a task list, or say that they are going to do something, that is basically epiphenomenal. Words in the mind that are not connected to the levers of action.
+
+
+
+But mental rehearsal is *not* epiphenomenal. Doing some a minimum of three minutes of thinking about the task  /Simulating the task makes it more likely to happen, makes it real. 
 
 
 
@@ -385,9 +390,6 @@ The main point is to “load up” my tasks, so that they are at hand, and to br
 (What I describe here [link to the relevant section of my musings and rough drafts outline post])
 
 
-Often time, when people put items on a task list, or say that they are going to do something, that is basically epiphenomenal. Words in the mind that are not connected to the levers of action.
-
-But mental rehearsal is *not* epiphenomenal. Doing some a minimum of three minutes of thinking about the task  /Simulating the task makes it more likely to happen, makes it real. 
 
 And furthermore, it becomes “at hand”. I have a background sense of the things that I want to do for the day. When I get to a choice point in my day, 
 
