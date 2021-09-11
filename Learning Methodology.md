@@ -7,11 +7,37 @@
 
 ####First do it right, then do it smooth, then do it quiet, then do it fast
 
+Epistemic status:
+
+
+
 ####Finding Control Systems
+
+Epistemic status:
 
 Examples:
 
 - Touch typing - 
+- Juggling -
+
+####Identify earlier and more subtle gradients / feedback mechanisms; make smaller earlier corrections
+
+Epistemic status:
+
+
+- Juggling: noticing it landing on my palm
+
+####Do a smaller thing, with greater ease-ness
+
+If the exercise that I've selected for myself feels frustrating, then it isn't the right exercise yet.
+
+
+####What you can't control, just predict
+
+
+
+
+
 
 ####Use a more sensitive instrument
 
@@ -23,7 +49,7 @@ Examples:
 
 - Juggling - Use lighter balls, which are harder to control, because they will deviate more from their trajectories from minute discrepancies in their throws.
 
-
+####Find proprioceptive one-ness
 
 ####Stair-stepping
 Epistemic status:
