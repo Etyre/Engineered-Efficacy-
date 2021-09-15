@@ -9,7 +9,18 @@
 
 Epistemic status:
 
+####What gets measured gets managed
 
+Maintaining an a focused intention is easier said than done. All to often I'll set out to practice some specific sub-skill or to focus on some specific aspect of a practice, only to implicitly be motivated to focus on something else, or to slide into mindless repetition.
+
+(Link to my thing about inner intention and outer intention?)
+
+The simplest way that I know of to address this is to simply track and record your performance at the specific metric at which I want to improve. Somehow, doing this incentives the part of me that directs my inner intention.
+
+Examples:
+
+* Touch Typing: I was "focusing on accuracy" for (weeks? months?) with my touch typing, but inevitably I would feel some pressure / temptation to go fast. This is unsurprising, since I was recording my speeds for each trial. Even if I was wanting to slow down and focus on accuracy, I was hedonically rewarded for fast trial times. Only after I started recording my accuracy scores in the spreadsheet, did that become my actual in-the-moment target, and did my accuracy improve. (link)
+* Juggling: I was plateauing with juggling for more than a month. I did a session in which I logged how long, in minutes, I was able to hold the juggling pattern for. In that session, I broke 60 seconds (for the first time) multiple times, and my best time was 50% than my record-to-date. (link)
 
 ####Finding Control Systems
 
@@ -61,7 +72,7 @@ Examples:
 - Juggling - Alternate between juggling with easier, heavier balls, and harder, lighter balls
 
 
-###Study Huristics and Strategies
+###Study Heuristics and Strategies
 
 The point of reading is *to have new thoughts*.
 
@@ -79,16 +90,12 @@ The point of reading is *to have new thoughts*.
 
 ####Incremental reading
 
-
 Always always change _something_. I don't allow myself to move on from a block until I have added something new, either a question, or a compression, or at least a note. If I have nothing whatsoever to change, then I remove the "#IR" tag.
 
 
 
 
 #####Posing open ended questions
-
-
-
 
 The answers can then be trimmed down to be the answers to anki cards.
 
