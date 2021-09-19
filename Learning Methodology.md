@@ -48,15 +48,15 @@ Epistemic status:
 
 Examples:
 
-- Touch typing - 
-- Juggling -
+- **Touch typing** - In learning touch typing at speed, I learned to [notice when I was rushing](https://efficacyengineering.wordpress.com/2020/07/26/my-current-phenomenological-model-of-my-typing-skill/), and slow down to focus on precision, and to notice when things felt smooth, so that [I could push more oomph into it](`https://efficacyengineering.wordpress.com/2020/07/26/my-current-phenomenological-model-of-my-typing-skill/`). Combined, these created a kind of control system of keeping the "intensity" in line with my structure, without getting ahead of myself, or rushing. [note that that isn't exactly what the first link describes, though it does match my memory]
+- **Juggling** - Noticing the balls deviating somewhat from that pattern, and focusing on making "adjustments" that to bring the pattern back in line. 
 
 ####Identify earlier and more subtle gradients / feedback mechanisms; make smaller earlier corrections
 
 Epistemic status:
 
 
-- Juggling: I could tell when I missed a catch or dropped a ball, but by that point it was already too late to do a correction, and the pattern would collapse. But I noticed that I would catch the ball with different parts of my hand, sometimes between my fingers, sometimes on the ridge between my thumb and forefinger, sometimes on my palm. When I caught the ball with my fingers, I would typically loose control of the pattern a few steps latter. But, this was early enough that I could do the correction. 
+- Juggling: I could tell when I missed a catch or dropped a ball, but by that point it was already too late to do a correction, and the pattern would collapse. But I noticed that I would catch the ball with different parts of my hand, sometimes between my fingers, sometimes on the ridge between my thumb and forefinger, sometimes on my palm. When I caught the ball with my fingers, I would typically loose control of the pattern a few steps latter. But, this was early enough that I could do the correction: making sure to catch with my palm on the next iteration. 
 
 ####Do a smaller thing, with greater ease-ness
 
