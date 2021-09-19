@@ -154,6 +154,20 @@ But aversion itself is a broad category. There are a number of phenomena that re
 - Raw agitation
 
 
+####Pressure
+
+Sometimes I'll experience what feels like a kind of "pressure" often accompanied by a heat in my chest, or more rarely, in my belly.
+
+Usually this is because there's something that feels important to some part of me, and I feel pressed to do it in time. 
+
+Examples:
+
+* I'm on twitter, I will feel my social media cutoff approaching, and I will feel some pressure to read all of some set of things, or to respond to some conversation, before I'm cut off.
+* I'm working with someone on some project and I feel like I ought to make some amount of progress before I meet with them.
+ 
+This state is stressful and subliminally painful, and inclines me to flinch off into distraction / pacification. 
+
+
 
 
 ####When I feel agitated, feel into my body
@@ -412,6 +426,10 @@ Some other ways to load things up include scheduling my day.
 
 
 I've found this to be absurdly overpowered. Before I started doing this, my records indicate that I would, on average, complete x% of my daily goals. Since I've started doing this, I complete X% of my daily goals on days when I do this, and y% when I don't.
+
+
+
+Note: This only really works when I have energy at the time of doing the pre-planning.
 
 ###Work with environmental structure vs work that depends on internal structure
 
