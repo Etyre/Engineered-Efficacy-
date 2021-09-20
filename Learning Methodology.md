@@ -9,11 +9,17 @@
 - Fix your errors
 - Feedback
 
-
-
 ####Focus
 
-I my juggling times are noticeably weaker when I'm distracted by other things on my mind, such as an essay that I'm writing in my head, or additions that I want to make to this document.
+My juggling times are noticeably weaker when I'm distracted by other things on my mind, such as an essay that I'm writing in my head, or additions that I want to make to this document.
+
+####Deliberate practice is about 50% sitting down with paper / thinky work / theoretical work
+
+
+* Describing your model of what's happening
+* Describing your model of the learning process
+* Delineating what's going wrong
+* brainstorming interventions to try
 
 
 ####First do it right, then do it smooth, then do it quiet, then do it fast
@@ -92,6 +98,9 @@ Examples:
 - Juggling - Alternate between juggling with easier, heavier balls, and harder, lighter balls.
 
 
+####Do it again
+
+
 ####Intense focus without tension
 
 
@@ -103,7 +112,13 @@ Examples:
 
 The point of reading is *to have new thoughts*.
 
+####Rereading and overpowered
 
+An idea from Winifred (h/t Rafe):
+
+* Read the texbook on day 1
+* Put the theroms into Anki on day 2
+* Read the textbook in depth on day 3
 
 ####Visual/ Kinesthetic Metaphors
 
