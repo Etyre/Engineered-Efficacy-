@@ -20,6 +20,18 @@ There’s some overlap between them: intentionality depends on personal energy, 
 
 Note: a design requirement of this overall system is that I should maintain high efficacy and high intentionality, even when I don't feel particularly inspired or excited about it.
 
+
+
+
+
+
+
+
+
+
+
+
+
 ##Maximize Energy
 
 ###Sleep
@@ -188,6 +200,23 @@ When I feel agitated, I note this in my log, and just stay with the sensation. J
 ##Do the right thing
 [This section should maybe be called "make it easy to to the right thing"]
 
+
+This section should maybe be divided into:
+
+* Choosing what to do / prioritizing
+* The structure of work
+	* the kinds of work
+	* work with internal / external structure
+* Methods for building in structure [rename this]
+	* Focus days / focus on one thing
+		* Chess timer
+	* Working with other people
+		* Focusmate
+	* TAP-chains
+	* Preplanning and priming 
+
+
+
 ###Choosing what to do
 
 The most important, and most neglected component of personal productivity is choosing what to work on.
@@ -225,6 +254,9 @@ Just make quantitative estimates of what the highest value thing is to do is, an
 	- https://twitter.com/george__mack/status/1350513176878735363?s=20
 
 - What might I be able to finish *today*?
+
+
+
 
 ###Focus on one thing
 
@@ -287,6 +319,25 @@ Rest day
 Travel day
 Slow day
 
+
+###The structure of work [stub]
+
+Kind of work and their time-span / cognitive context requirements
+* Meetings - one hour to two hour blocks
+* Creative projects - Dedicated Focus days
+* One off tasks - Batched in focus days
+* Study projects - Blocks of 1 to 3 hours spaced out over multiple (consecutive or non-consecutive) days over the course of a month or more
+* Deliberate practice projects - Blocks of 10 minutes to an hour most days, over the course of a month or more
+* Maintenance things (exercise, spaced repetition review, etc.) - Seize the "normal" days for doing these things.
+
+
+Bolstering structure
+
+All of these are strategies for that?
+
+- Focus days 
+- Chess-timer / focusmate 
+- Morning structure
 
 
 
