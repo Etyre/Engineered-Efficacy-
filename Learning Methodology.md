@@ -75,6 +75,8 @@ If the exercise that I've selected for myself feels frustrating, then it isn't t
 
 Juggling - If I'm trying to throw a ball up in the air and hit a target (or my foot, since then I have immediate feedback without needing to look), and I'm finding that this is really hard, I can start by throwing the ball at the target, and trying to predict, after it leaves my hand, but before it lands, if the ball will hit the target. Oftentimes I will be able to feel that a throw was "good" or "off", which attunes me to that feedback mechanism. And sometimes, I'll be *surprised*, I expect a throw to land, and it doesn't, or vis versa, which allows me to refine my feeling of what "good" feels like.
 
+####Slow down / rushing doesn't pay
+
 
 ####Use a more sensitive instrument
 
@@ -120,6 +122,17 @@ An idea from Winifred (h/t Rafe):
 * Put the theroms into Anki on day 2
 * Read the textbook in depth on day 3
 
+
+###Active Learning 
+
+
+####Paraphrasing / summarizing
+
+- To my self
+- To a partner
+- To a tutor
+
+
 ####Visual/ Kinesthetic Metaphors
 
 
@@ -129,6 +142,9 @@ An idea from Winifred (h/t Rafe):
 - "How could I practice this?"
 - "How would I use this?"
 - "What's an example of this in my own life?"
+
+
+###Do it again
 
 ####Incremental reading
 
@@ -140,6 +156,9 @@ Always always change _something_. I don't allow myself to move on from a block u
 #####Posing open ended questions
 
 The answers can then be trimmed down to be the answers to anki cards.
+
+
+####Visual anki cards
 
 
 

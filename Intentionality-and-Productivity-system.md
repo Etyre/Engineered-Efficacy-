@@ -17,6 +17,9 @@ I have a bunch of behaviors, habits, and processes, which serve each of those go
 
 There’s some overlap between them: intentionality depends on personal energy, so interventions that increase energy tend to increase intentionality too, and it’s often a judgment call whether to frame a behavior as increasing intentionality, or as focusing my attention on a specific task. 
 
+
+Note: a design requirement of this overall system is that I should maintain high efficacy and high intentionality, even when I don't feel particularly inspired or excited about it.
+
 ##Maximize Energy
 
 ###Sleep
