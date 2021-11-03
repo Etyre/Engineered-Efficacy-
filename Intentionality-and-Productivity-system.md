@@ -7,6 +7,77 @@
 [note to myself: just describe what I do. I can go back and include sections on the general theory later.]
 
 
+[note
+
+Some factorings:
+
+Energy, Intentionality, Making it easy to do the right thing / design
+
+Be resourced, do the thing
+
+
+* Energy 
+* Intentionality
+* Affordance
+* Momentum
+* Aversion
+* Distraction
+
+
+
+Expanded:
+
+* Energy 
+	* Sleep
+	* Exercise
+	* Day-level rhythms
+* Intentionality
+	* Meditation
+	* In-line logging
+	* Time-tracking 
+	* Chess-timer
+	* Aversions and and the internal impetus to distraction
+		* Shifting state?
+* Affordance
+	* Preplanning
+	* Focus on one thing
+	* Chess-timer
+	* Focusmate	
+	* Well fit structure and scheduling
+	* External Distractions
+* Momentum
+	* Wake up all at once
+	* Morning TAP-chains into work
+
+	
+
+Similar, but not identical:
+
+* Energy 
+	* Sleep
+	* Exercise
+	* Day-level rhythms
+* Intentionality
+	* Meditation
+	* In-line logging
+	* Time-tracking 
+	* Chess-timer
+	* Aversions and and the internal impetus to distraction
+		* Shifting state?
+* Affordance
+	* Well fit structure and scheduling
+	* Clarity
+		* Preplanning
+		* Focus on one thing
+	* Activation energy
+		* Momentum
+			* Wake up all at once
+			* Morning TAP-chains into work
+		* Chess-timer
+		* Focusmate	
+	* Removing External Distractions
+
+
 My productivity and intentionality system has 3 steps: 
 
 Maximize my personal energy
@@ -200,6 +271,8 @@ When I feel agitated, I note this in my log, and just stay with the sensation. J
 ##Do the right thing
 [This section should maybe be called "make it easy to to the right thing"]
 
+[This whole section feels like a mess to me. Which I guess is not surprising, since it doesn't have much of a thesis, and is incomplete.]
+
 
 This section should maybe be divided into:
 
@@ -214,6 +287,28 @@ This section should maybe be divided into:
 		* Focusmate
 	* TAP-chains
 	* Preplanning and priming 
+
+	
+	
+Just outlining what I think this section should be now on 2021-11-03:
+
+
+* The cognitive constraints and affordances of work
+	* Kinds of work
+* Making it easy
+	* Clarity (avoiding intention leakage)
+		* Preplanning / Priming
+		* Focus on one thing 
+	* Attentional Scaffolding 
+		* Collaborators 
+		* Focusmate
+	* Momentum
+		* Starting
+			* Morning TAP chains into work
+			* TAP to clarify intention when I leave for the office [This is really intentionality?]
+			* Chess timer	
+
+Using a chess timer is actually a matter of intentionality?
 
 
 
@@ -241,7 +336,6 @@ It is crucial, more important than anything else here, to work on the right thin
 
 The majority of my work is projects that (hopefully) will increase the probability that humanity will make it through this century. 
 
-
 Every couple of weeks, I sit down and ask myself “what is the thing that I could do now, in [the Summer of 2021], that would most increase our chances of things going well in the endgame?” or “Suppose that all my needs were met, and I was personally responsible for seeing the world to safety, what needs to happen?” or some other variation on the same theme.
 
 ###Choosing what to do on any given day
@@ -254,6 +348,8 @@ Just make quantitative estimates of what the highest value thing is to do is, an
 	- https://twitter.com/george__mack/status/1350513176878735363?s=20
 
 - What might I be able to finish *today*?
+
+- What would expose me to surprises.
 
 
 
@@ -323,6 +419,7 @@ Slow day
 ###The structure of work [stub]
 
 Kind of work and their time-span / cognitive context requirements
+
 * Meetings - one hour to two hour blocks
 * Creative projects - Dedicated Focus days
 * One off tasks - Batched in focus days
