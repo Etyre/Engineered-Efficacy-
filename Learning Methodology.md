@@ -57,6 +57,19 @@ Examples:
 - **Touch typing** - In learning touch typing at speed, I learned to [notice when I was rushing](https://efficacyengineering.wordpress.com/2020/07/26/my-current-phenomenological-model-of-my-typing-skill/), and slow down to focus on precision, and to notice when things felt smooth, so that [I could push more oomph into it](`https://efficacyengineering.wordpress.com/2020/07/26/my-current-phenomenological-model-of-my-typing-skill/`). Combined, these created a kind of control system of keeping the "intensity" in line with my structure, without getting ahead of myself, or rushing. [note that that isn't exactly what the first link describes, though it does match my memory]
 - **Juggling** - Noticing the balls deviating somewhat from that pattern, and focusing on making "adjustments" that to bring the pattern back in line. 
 
+####Rapid alteration
+
+Epistemic status
+
+If there are two patterns that you tend to get mixed up, practice with a training regime where you rapidly alternate between them, semi-randomly.
+
+Go as slowly as you need to in order to notice, and concretely decide 
+
+Examples:
+
+* **Spelling** - If I tend to mess up which words are spelled with an "ie" and which words are spelled with an "ei", (ie "pieces" and "recieve"), I'll do a typing / spelling practice session, in which only or mostly includes words with those two patterns, so that I have to pay attention to which is needed for each word, and build the more neuanced skill of typing the right pattern in the right context, instead of building the habit of always typing ie, and then overiding that habit with always typing ei, and generally getting muddled. 
+
+
 ####Identify earlier and more subtle gradients / feedback mechanisms; make smaller earlier corrections
 
 Epistemic status:
@@ -159,6 +172,41 @@ The answers can then be trimmed down to be the answers to anki cards.
 
 
 ####Visual anki cards
+
+
+
+-----------------
+
+**An outline of core skills**
+
+- Learning
+    - Embracing embarrassment
+    - Not rushing
+    - How to be engaged
+    - Chunking to size 
+        - (is this the same core idea as deliberate practice?)
+    - Active learning / rephrasing / restatement / making guesses
+    - Deliberate practice and training regime design
+    - Tutoring
+    - Mnemonic principles
+    - Spaced Repetition
+
+
+Chunking to size
+    
+If something feels to hard or ownerous, such that I'm bouncing off of it, that means that I'm trying to take too big a chunk at once, and I need to break it down into simpler components. 
+
+In general, the proximal next step should always feel tractable. If it isn't, I'm trying to do too big of a chunk at once.
+
+
+
+
+
+* Alegebra - I'm trying to deeply understand how and why the quadratic formula works. This depends on completing the square. So I don't feel solid about what "completing the square" is or why it works, I'll back up, leaving the quadratic formula for now, and make my new goal just understand completing the square deeply. (Conceretely, I'll make a math chunk roam page for "completing the square" and put it in spaced repetition.) After solidifying my understanding of completing the square, by playing with the idea and probably doing some cycles of khan accademy exercises in spaced repetetion, do I go back to the quadratic formula.
+
+
+As I learn math, I'm traversing up and down a tree of simpler and more complicated componenents: I start with something that I want to learn, and then as I feel overwhelmend, I pull out simpler chunks that don't feel solid to me, and focus on those. I do this recursively, until I get down to some layer where each component piece is simple enough and I understand it well enough, that I can combine them into something new that fits together in a gearsy way, that I actually have understanding of why this has to be the case, instead of a flailing feeling of making guesses or memorizing arbitrary symbol strings. Then I build back up 
+
 
 
 
