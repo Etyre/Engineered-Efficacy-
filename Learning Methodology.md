@@ -212,3 +212,13 @@ As I learn math, I'm traversing up and down a tree of simpler and more complicat
 
 
 
+###How I learn math
+
+
+* If a card ever feels onerous or [ughy](https://www.lesswrong.com/posts/EFQ3F6kmt4WHXRqik/ugh-fields), that's a sign that it is two large, and I need to break it down into smaller, more manageable / trackable feeling chunks. (This is important, because otherwise, I'm apt to churn through all of the cards that I feel the affordance to make progress on, and then be left with a deck filled with cards that feel annoying and frustrating, and then I will develop an ugh field around doing a learning chunk review at all.)
+* Or get tutoring
+
+
+* Prioritize which material has good explainations.
+
+* I made it low friction to schedule tutoring
