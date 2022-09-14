@@ -222,3 +222,22 @@ As I learn math, I'm traversing up and down a tree of simpler and more complicat
 * Prioritize which material has good explainations.
 
 * I made it low friction to schedule tutoring
+
+
+* Short, high level summaries
+
+
+###How I learn programming and software engineering
+
+My approach is pretty goal oriented / project first. Instead of doing tutorials etc, I'll always dive right in to building some particular application that seems useful or appealing to me.
+
+I keep a running list of programming projects and things to automate. So if I'm wanting to learn a particular skillset (say web development), I'll pick a project from that list. (I'll bias towards smaller, easier projects and build up from there.)
+
+Then I'll just start building it. Often when I'm just starting out with a technology or a framework, I'll have close to no idea how to start. But instead of reading through documentation, I'll just book some sessions with a tutor: I'll tell them what I'm trying to do, and they tell me how to implement each step. I'll take notes in parellel while we're programing, noting noting important details about the technology, including the syntax for performing different operations. After each session, I'll compress those notes into anki cards.
+
+Usually, a few sessions is enough to get me up and running and I can start tinkering with the application on my own. But I have a low bar for scheduling additional tutoring sessions, when I'm stuck. I'll show up with some code that isn't doing what I'm wanting, and ask what's going wrong. I'm looking to learn what conceptual error I was making: what my abstraction of my code was vs what my code was actually doing, and will rehearse / reify the new, correct abstractions. Again, I'm taking notes that I'll convert into anki cards.
+
+After I have an application working, I'll sit down with a friend to look over it and see if there are ways to clean up my code to make it more readable or more efficient. (I'm sitting down with a friend, instead of a tutor, because for this task I want to be learning from really excelent programers, with good taste. For the earlier stages I'm just trying to get down the basics, and so anyone who knows the basics will do. For this, I'm trying to absorb good taste, and (some of) my friends are excelent programers.) Again, I'll rehearse / reify my new abstractions.
+
+Then I'll repeat with a new project.
+
