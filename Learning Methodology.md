@@ -1,4 +1,4 @@
-#Learning Methodology
+#Learning Methodology / How I learn
 
 
 
