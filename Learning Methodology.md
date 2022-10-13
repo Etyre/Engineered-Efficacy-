@@ -120,7 +120,20 @@ Examples:
 
 
 
+- The 10 laws of shaping from Don't shoot the dog:
+    - 1. Raise criteria in increments small enough that the subject always has a realistic chance for reinforcement.
+    - 2. Train one aspect of any particular behavior at a time; don't try to shape for two criteria simultaneously.
+    - 3. During shaping, put the current level of response onto a variable schedule of reinforcement before adding or raising the criteria.
+    - 4. When introducing a new criterion, or aspect of the behavioral skill, temporarily relax the old ones.
+    - 5. Stay ahead of your subject: Plan your shaping program completely so that if the subject makes sudden progress, you are aware of what to reinforce next.
+    - 6. Don't change trainers in midstream; you can have several trainers per trainee, but stick to one shaper per behavior.
+    - 7. If one shaping procedure is not eliciting progress, find another; there are as many ways to get behavior as there are trainers to think them up.
+    - 8. Don't interrupt a training session gratuitously; that constitutes a punishment.
+    - 9. If behavior deteriorates, "go back to kindergarten"; quickly review the whole shaping process with a series of easily earned reinforcers.
+    - 10. End each session on a high note, if possible, but in any case quit while you're ahead.
 
+
+Bordem is a signal of not making fast enough progress which means not frequent enough feedback
 
 
 ###Study Heuristics and Strategies
@@ -175,6 +188,20 @@ The answers can then be trimmed down to be the answers to anki cards.
 
 
 
+
+###anki tips
+
+Flashcards
+
+
+* Minimize sylables
+	* Simplify wording as you go.
+* Put the cloze a the end of them statement
+* Have multiple clozes on the same card
+* Use image occlusion
+* Use AnkifyRoam
+* 
+
 -----------------
 
 **An outline of core skills**
@@ -208,8 +235,15 @@ In general, the proximal next step should always feel tractable. If it isn't, I'
 As I learn math, I'm traversing up and down a tree of simpler and more complicated componenents: I start with something that I want to learn, and then as I feel overwhelmend, I pull out simpler chunks that don't feel solid to me, and focus on those. I do this recursively, until I get down to some layer where each component piece is simple enough and I understand it well enough, that I can combine them into something new that fits together in a gearsy way, that I actually have understanding of why this has to be the case, instead of a flailing feeling of making guesses or memorizing arbitrary symbol strings. Then I build back up 
 
 
+###On Flash card reviews
+
+I miss some detail of an Anki card but otherwise have it right, I make a new card specifically for that detail.
 
 
+###How I learn spelling
+
+
+When I get tripped up on some specific letter combination, I'll come up with a mnemonic to 
 
 
 ###How I learn math
