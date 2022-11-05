@@ -115,6 +115,24 @@ Examples:
 
 ####Do it again
 
+In many domains understanding and learning material is at least a two step process: first struggling to find a solution that works, and then compressing and consolidating that solution into something that can actually fit in my mind and rehearsing the patern. 
+
+In domains that involve problem solving, I'll solve a puzzle twice; after I struggle through finding a solution at all, I'll imeadiately do it again to consolidate the concepts and rehease the mental moves.
+
+
+Examples: 
+
+Math
+
+After I've just finished struggling through a proof, my brain is tried and I'm probably sick of what I'm thinking about. And I feel like I've finally gotten it, and can be done for now.
+
+But this is wrong. To get the majority (70%?) of the value of doing the proof in the first place, I need to consolidate my learning. I have a bunch of churned up conceptual pieces, formulated in an ad hoc sort of way: the connections between steps in the proof are tenuous and strained, barely fitting into my working memory. I need to compress all that into clean, compact representations that feel natural and intuitive, to really understand the proof in a way that will stick, to be able to chunk, if not the whole proof, then the components of the proof.
+
+So the thing to do, even though it's far from the thing to do is to do the proof again, immediately, from the top. I have the outline and the context loaded up in short term memory, so it is much easier to do, and this allows me to consolidate the content: to streamline the reasoning and remove extraneous pieces (that are not clearly extraneous on the first pass, because I'm still running a search process). 
+
+Programming
+
+Snakebird
 
 ####Intense focus without tension
 
