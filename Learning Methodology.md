@@ -1,4 +1,4 @@
-#Learning Methodology / How I learn
+#Learning Methods / How I learn
 
 
 
@@ -91,6 +91,13 @@ Juggling - If I'm trying to throw a ball up in the air and hit a target (or my f
 ####Slow down / rushing doesn't pay
 
 
+####Your implements matter
+
+Switching to a better keyboard made a huge difference for my ability to type
+
+Which kind of balls I use make a huge difference for my typing ability.
+
+
 ####Use a more sensitive instrument
 
 Epistemic status: 
@@ -135,6 +142,8 @@ Programming
 Snakebird
 
 ####Intense focus without tension
+
+
 
 
 
