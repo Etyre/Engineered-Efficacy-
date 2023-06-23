@@ -58,7 +58,7 @@ Examples:
 - **Touch typing** - In learning touch typing at speed, I learned to [notice when I was rushing](https://efficacyengineering.wordpress.com/2020/07/26/my-current-phenomenological-model-of-my-typing-skill/), and slow down to focus on precision, and to notice when things felt smooth, so that [I could push more oomph into it](`https://efficacyengineering.wordpress.com/2020/07/26/my-current-phenomenological-model-of-my-typing-skill/`). Combined, these created a kind of control system of keeping the "intensity" in line with my structure, without getting ahead of myself, or rushing. [note that that isn't exactly what the first link describes, though it does match my memory]
 - **Juggling** - Noticing the balls deviating somewhat from that pattern, and focusing on making "adjustments" that to bring the pattern back in line. 
 
-####Rapid alteration
+###Rapid alteration
 
 Epistemic status:
 
@@ -78,6 +78,15 @@ Epistemic status:
 
 - Juggling: I could tell when I missed a catch or dropped a ball, but by that point it was already too late to do a correction, and the pattern would collapse. But I noticed that I would catch the ball with different parts of my hand, sometimes between my fingers, sometimes on the ridge between my thumb and forefinger, sometimes on my palm. When I caught the ball with my fingers, I would typically loose control of the pattern a few steps latter. But, this was early enough that I could do the correction: making sure to catch with my palm on the next iteration. 
 
+
+###Start with a stripped down scenario / start with the endgame / work backwards
+
+Stolen from Josh Waitzkin (Chapter and 11 of the Art of Learning)
+
+Examples:
+
+* When learning Jujitsu, start by practicing maintaining a single pin, and getting out of that pin, and learning the principles that govern that situation, and gradually work backwards to the throws that, when executed correctly, put you in that position.
+
 ###Do a smaller thing, with greater ease-ness
 
 If the exercise that I've selected for myself feels frustrating, then it isn't the right exercise yet.
@@ -95,6 +104,27 @@ Juggling - If I'm trying to throw a ball up in the air and hit a target (or my f
 
 
 
+###The ADEPT method
+
+From: https://betterexplained.com/articles/adept-method/
+
+1. Analogy
+2. Diagram
+3. Example
+3. Plain english
+
+
+###If there's progress, I should be able to feel it.
+I think that it should be a flag when I can't seem improvement __over the course of a session__. That that suggests that I've bitten off to large a chunk, and I need to back up and do a smaller or simpler or less complex exercise.
+
+###Iterative paraphrasing
+
+Learning that involves carving out an ontology is done by iteratively paraphrasing. Just keep working over my current understanding in my mind, correcting my mistakes, until I can express it cleanly and correctly.
+
+This needs to be done with feedback. Which means having a tutor.
+
+
+
 
 ###Chunking to size
     
@@ -106,12 +136,13 @@ In general, the proximal next step should always feel tractable. If it isn't, I'
 
 
 
-* Alegebra - I'm trying to deeply understand how and why the quadratic formula works. This depends on completing the square. So I don't feel solid about what "completing the square" is or why it works, I'll back up, leaving the quadratic formula for now, and make my new goal just understand completing the square deeply. (Conceretely, I'll make a math chunk roam page for "completing the square" and put it in spaced repetition.) After solidifying my understanding of completing the square, by playing with the idea and probably doing some cycles of khan accademy exercises in spaced repetetion, do I go back to the quadratic formula.
+* Algebra - I'm trying to deeply understand how and why the quadratic formula works. This depends on completing the square. So I don't feel solid about what "completing the square" is or why it works, I'll back up, leaving the quadratic formula for now, and make my new goal just understand completing the square deeply. (Concretely, I'll make a math chunk roam page for "completing the square" and put it in spaced repetition.) After solidifying my understanding of completing the square, by playing with the idea and probably doing some cycles of khan academy exercises in spaced repetition, do I go back to the quadratic formula.
 
 
-As I learn math, I'm traversing up and down a tree of simpler and more complicated componenents: I start with something that I want to learn, and then as I feel overwhelmend, I pull out simpler chunks that don't feel solid to me, and focus on those. I do this recursively, until I get down to some layer where each component piece is simple enough and I understand it well enough, that I can combine them into something new that fits together in a gearsy way, that I actually have understanding of why this has to be the case, instead of a flailing feeling of making guesses or memorizing arbitrary symbol strings. Then I build back up 
+As I learn math, I'm traversing up and down a tree of simpler and more complicated components: I start with something that I want to learn, and then as I feel overwhelmed, I pull out simpler chunks that don't feel solid to me, and focus on those. I do this recursively, until I get down to some layer where each component piece is simple enough and I understand it well enough, that I can combine them into something new that fits together in a gearsy way, that I actually have understanding of why this has to be the case, instead of a flailing feeling of making guesses or memorizing arbitrary symbol strings. Then I build back up 
 
 
+###Investing in Loss, and being willing to fail
 
 ###Your implements matter
 
@@ -142,6 +173,10 @@ Alternate between a harder version and an easier version of the same exercise
 Examples:
 
 - Juggling - Alternate between juggling with easier, heavier balls, and harder, lighter balls.
+
+###If I'm not making visible / measurable progress for three consecutive training sessions, mix up the training regime.
+
+Most likely, slow down or find an even smaller chunk
 
 
 ###Do it again
@@ -221,6 +256,18 @@ An idea from Winifred (h/t Rafe):
 ###Layering
 
 
+
+##Diagnosis
+
+- Sometimes it feels like it's "not working" -> find a smaller chunk.
+- 	like juggning
+
+
+- Sometimes it feels like like it's going through a sieve, like only a tiny trickle of info is getting in -> I should hire a tutor.
+- 	like struggling to parse the einops documentation
+
+
+
 #Apendixes
 
 ##How I use Anki
@@ -252,13 +299,13 @@ Flashcards
 
 ####Textbook chapters deck
 
-####Sources deck
+####Sources deck 
 
 
 
 -----------------
 
-
+##Apendices
 
 
 
