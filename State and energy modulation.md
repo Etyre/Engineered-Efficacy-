@@ -20,7 +20,7 @@ The downtime block is 2 or 3 hours long, from 3:00 PM to about 5:30 PM, on my la
 
 The ideal is that I’ll nap, and fall asleep, in this block. But that’s not *necessary*. I might just lie down with my eyes closed for 20 minutes or so.
 
-See my napping protocol.
+See my napping protocol, for the process that I go through.
 
 Typically, I’ll eat my meal for the day in this block, and then lay down to nap immediately afterwards, while my body is transitioning into parasympathetic activation. (And depending on what I just ate, my blood sugar spikes, crashing my subjective energy).
 
@@ -39,6 +39,8 @@ Motivation comes from momentum. My goal is to build momentum every day.
 #####Amping up:
 
 At the start of a taut block, or if at any point I my energy is flagging, I’ll use one of a few techniques to raise my energy, and more importantly, my tempo. Low energy can be compensated for by heightened arousal or momentum.
+
+[note: possibly I should just always do RFB instead?]
 
 Namely...
 
@@ -63,7 +65,7 @@ I have a mantra “breaks are not for stimulation.”
 
 I do need to rest my mind in between bouts of intense work, I’m aiming to *rest*, not to be entertained.
 
-So if I feel like I need to take a break I'll lie down with my eyes closed, and do Resonance Frequency Breathing.
+So if I feel like I need to take a break, I'll lie down with my eyes closed, and do Resonance Frequency Breathing.
 
 #####Food
 
