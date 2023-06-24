@@ -20,13 +20,15 @@ The downtime block is 2 or 3 hours long, from 3:00 PM to about 5:30 PM, on my la
 
 The ideal is that I’ll nap, and fall asleep, in this block. But that’s not *necessary*. I might just lie down with my eyes closed for 20 minutes or so.
 
+See my napping protocol.
+
 Typically, I’ll eat my meal for the day in this block, and then lay down to nap immediately afterwards, while my body is transitioning into parasympathetic activation. (And depending on what I just ate, my blood sugar spikes, crashing my subjective energy).
 
 ####Up time / go blocks
 
 For each work block I'll set a timer (usually between 2 to 4 hours) of alert, energized "taut" time. For the length of the timer, I don't let my intentionality go lax. I'm maintaining an "executing intensions" mindset, I might switch what I'm doing in this block, but whatever I'm doing, I deliberately choose to switch my intention. 
 
-In support of that, I track my time with toggl, and also frequently explicate my second-to-second thought process in a metacognition log
+In support of that, I track my time with toggl, and also frequently explicate my second-to-second thought process in a metacognition log. In particular, whenever I finish a task, or decide to take a break, I'll flip to my metcognition log to take stock and then deliberately decide what to do next.
 
 Generally, I’ll do tasks / meetings / work that is accelerated by a high APM in the morning block, and then do deep work (writing, programming, studying), in the evening block. But those are general trends, and I could schedule any kind of work that I need to for each block.
 
