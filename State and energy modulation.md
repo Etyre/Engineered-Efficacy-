@@ -1,6 +1,6 @@
 #State and energy modulation 
 
-##Rhythms
+##Energetic Rhythms
 
 ###Core principle: Increase amplitude 
 
@@ -31,12 +31,14 @@ In support of that, I track my time with toggl, and also frequently explicate my
 Generally, I’ll do tasks / meetings / work that is accelerated by a high APM in the morning block, and then do deep work (writing, programming, studying), in the evening block. But those are general trends, and I could schedule any kind of work that I need to for each block.
 
 There’s a smaller structure within these blocks of time, where I’m either pushing myself to go as hard as I can, or explicitly resting by lying down with my eyes closed. Basically, at any given point, if I feel tired or sluggish or out of it, I have a choice: I either amp up, or explicitly cool down and relax.
+
+Motivation comes from momentum. My goal is to build momentum every day.
  
 #####Amping up:
 
 At the start of a taut block, or if at any point I my energy is flagging, I’ll use one of a few techniques to raise my energy, and more importantly, my tempo. Low energy can be compensated for by heightened arousal or momentum.
 
-Namely
+Namely...
 
 * Breath of fire / bellows breathing
 * "Energizing" breathing (hyperventilating for through my nose for 20 breaths followed by a 20 second breath hold at the end of an exhale)
@@ -46,14 +48,14 @@ Namely
 
 Relatedly, I've trained myself to wakeup from sleep and naps instantly, and then immediately move into momentum.
 
-#####“Breaks are not for stimulation”
+#####Intentional rest: “Breaks are not for stimulation”
 
 It is tempting, when I’m attention is flagging and my brain is tried, to watch some snippets of TV, or to read web comics. These are stimulating, or interesting.
 
 But just because they’re appealing doesn’t mean that they’re effective rest activities. They’re typically less re-energizing than non-stimulating activities.
 And more importantly, they’re attentional hooks. Especially when I’m drained, I’m apt to get absorbed in the short term feedback loops of that kind of stimulation and drop my intentionality.
 
-**TAP**: Flip to a video site -> Flip to my metacognition log to note it.
+**TAP**: Flip to a video site -> Flip to my metacognition log and note it.
 
 I have a mantra “breaks are not for stimulation.”
 
@@ -65,11 +67,11 @@ So if I feel like I need to take a break I'll lie down with my eyes closed, and 
 
 I don't eat at all during up times, with the exception of a liquid meal / protein shake following a workout. Eating drops my blood sugar and lowers my energy.
 
-If I have the feeling of interest in eating, 
+If I'm hungry or have a generic, non-hunger, interest in eating, I'll drink a container of water or a cup of tea, instead.
 
 #####Physical Speed
 
-In uptime, I make a point to, physically, move fast. If I need go somewhere that is more than a 15 minute walk away, I'll take an uber. If the location is closer than that, I'll run there, never walk.
+In uptime, I make a point to physically move fast. If I need go somewhere that is more than a 15 minute walk away, I'll take an uber. If the location is closer than that, I'll run there, never walk.
 
 <!--#####Structure:
 
@@ -111,7 +113,7 @@ See my Stimulant policy.
                 
 ##Resourcing
 
-There are a bunch of things that support my health and energy, 
+There are a bunch of basic health and fitness things that support my energy, and I've built systems to make sure that those are well attended to as a matter of course.
 
 ###Sleep
 
@@ -119,7 +121,7 @@ The single most important thing for maintaining my energy and intentionality is 
 
 I typically sleep 8 to 9 hours a night. 
 
-
+I have a timer that rings at 10:00 PM every night, reminding me to take a melatonin and brush my teeth. Then I go to sleep when I feel tired.
 
 ####Napping
 
@@ -131,23 +133,23 @@ See my nap protocol.
 
 I keep a box of containers of water next to my desk at home and next to my desk in my office. When I take my supplements first thing in the morning, I'll also drink a full bottle of water.
 
+**TAP**: Feel the taste of lemon-flavored spray in my mouth -> Reach for a bottle of water.
+
 **TAP**: See that my pee is dark yellow -> ask, out loud, where's the easiest place to get water.
 
 ###Exercise
 
 I strength train most days. If I exercised yesterday, I'll only do one exercise. If I didn't exercise yesterday, I'll do two.
 
-It helps a lot that I have a gym accessible from my office, so that I can work out as a work break, in my taut-blocks.
+It helps a lot that I have a gym accessible from my office, so that I can work out as a work break in my taut-blocks.
 
 See my strength training procedure. 
 
 ###HRV training
 
-I currently do 40 minutes of Resonance Frequency Breathing a day, broken into segments of 10 to 20 minutes.
+I currently do 40 minutes of Resonance Frequency Breathing a day, broken into segments of 10 to 20 minutes, usually lying down when I'm taking a break from work.
 
 ###Diet
 
 **Experimental TAP**: I'm tempted to eat bread or rice -> I eat a fruit instead
-
-###Fasting
 
