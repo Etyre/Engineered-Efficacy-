@@ -6,7 +6,7 @@
 
 The key principle is that I want to increase the amplitude of my energy and focus. I either want to be amping up, pushing myself, being fast or focused, or I want to be explicitly and efficiently resting. I want to avoid the middling states where I’m working, but not very intently, or not working, but mostly in a distracted not-enormously restful way. Focused, high intensity period are high value, and high quality rest supports the “on” states, but the middle range is not very effective.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Life got better when I started using caffeine, sleep, and exercise to maximize amplitude rather rather max min. Before if I felt tired I’d have caffeine, now I just sleep and save stimulants and exercise for when I already feel great to bring me to super great <a href="https://t.co/hzYaQrQv4L">pic.twitter.com/hzYaQrQv4L</a></p>&mdash; Nick (@nickcammarata) <a href="https://twitter.com/nickcammarata/status/1389213303331823616?ref_src=twsrc%5Etfw">May 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!--<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Life got better when I started using caffeine, sleep, and exercise to maximize amplitude rather rather max min. Before if I felt tired I’d have caffeine, now I just sleep and save stimulants and exercise for when I already feel great to bring me to super great <a href="https://t.co/hzYaQrQv4L">pic.twitter.com/hzYaQrQv4L</a></p>&mdash; Nick (@nickcammarata) <a href="https://twitter.com/nickcammarata/status/1389213303331823616?ref_src=twsrc%5Etfw">May 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>-->
 
 https://twitter.com/nickcammarata/status/1389213303331823616?
 
@@ -30,11 +30,17 @@ For each work block I'll set a timer (usually between 2 to 4 hours) of alert, en
 
 In support of that, I track my time with toggl, and also frequently explicate my second-to-second thought process in a metacognition log. In particular, whenever I finish a task, or decide to take a break, I'll flip to my metcognition log to take stock and then deliberately decide what to do next.
 
+I'll also make a point to maintain good posture during these periods.
+
+```
+**TAP**: Notice that I'm slumping -> Sit up straight
+```
+
 Generally, I’ll do tasks / meetings / work that is accelerated by a high APM in the morning block, and then do deep work (writing, programming, studying), in the evening block. But those are general trends, and I could schedule any kind of work that I need to for each block.
 
 There’s a smaller structure within these blocks of time, where I’m either pushing myself to go as hard as I can, or explicitly resting by lying down with my eyes closed. Basically, at any given point, if I feel tired or sluggish or out of it, I have a choice: I either amp up, or explicitly cool down and relax.
 
-Motivation comes from momentum. My goal is to build momentum every day.
+Motivation comes from momentum. My goal is to build momentum every day. 
  
 #####Amping up:
 
