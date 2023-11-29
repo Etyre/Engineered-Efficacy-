@@ -71,6 +71,8 @@ In support of that, I track my time with toggl, and also frequently explicate my
 
 For these blocks, I have to be dressed (casual clothes like pajamas, bathrobe, or sweatpants don't count). I also have to sit or stand at a desk, rather than sitting in on my floor chair. These are small nudges towards alertness and intentionality.
 
+I also quit slack before I start an intentionality block. I have good conversations on some of the slacks that I'm a part of—responding there leads to productive thinking and writing. But I want to save that kind of reactive thinking and writing for outside of intentionality blocks.
+
 I'll also make a point to maintain good posture during these periods.
 
 ```
