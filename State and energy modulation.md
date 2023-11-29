@@ -1,4 +1,43 @@
-#State and energy modulation 
+#Energy and Intentionality modulation 
+
+##Emotional Processing
+
+The most important factor for my personal energy and intentionality is being emotionally-energetically unblocked / unstuck.
+
+*Sometimes* my low energy is strictly physiological.
+
+Any time I feel low energy or unmotivated, I first check if I've been exercising recently, if not, I make a point to exercise, and especially to do weighted squats, before anything else.
+
+If I'm feeling low energy in a way related to being sleep deprived, or tired, I'll intentionally raise my arousal for an up period, and then intentionally lower it and take a long nap, as described below.
+
+But aside from that, if I'm feeling low energy or uninterested in work or otherwise unenthusiastic about getting up and making progress, I'll sit down and make space to listen to any parts of me that might be sad or scared or hurting or stuck.
+
+I'll sit down, possibly starting by reducing my arousal with regular breathing techniques, and explicitly dialog with whatever parts of me are needing something, and reaffirm my commitment to serving them, serving all my goals and values, as best I can.
+
+See my [Focusing Moves](https://docs.google.com/document/d/1OXqflthzbr65CjYYK68wTzLlA6Dc96_qazr_KzOCYLg/edit#heading=h.1yj993x90dbb) document, for some of my more specific procedures.
+
+Almost always, if I'm feeling low energy or unmotivated or unfocused, it's because something that I care about is unhandled. (https://musingsandroughdrafts.com/2023/11/05/very-low-energy-states-seem-to-contain-compressed-fear-or-despair/)
+
+In the easy cases, I'll do Focusing, surface the priority of mine I hadn't been tracking consciously, and make a plan that attends to that (now conscious priority). It's a simple handoff of goal-relevant info between a non-conscious part of me to the conscious deliberate planning processes.
+
+In the harder cases, there will be a problem that feels stuck and intractable or a [motivational knot](https://efficacyengineering.wordpress.com/2020/08/14/motivational-knots/), multiple goal-threads in tension, pulling against each other. That double bind is painful and I'm dulling or numbing or distracting myself from it, one consequence of which is my overall feeling of low energy or unmotivation. That might be expressing itself as depression, or as anxiety or agitation that can't focus on much of substance, my attention flitting from distraction to distraction. 
+
+Unsurprisingly, especially to the extent that the problem or tension seems intractable, I'm apt to develop a strong aversions / [ugh field](https://www.lesswrong.com/posts/EFQ3F6kmt4WHXRqik/ugh-fields) around engaging with it. I don't have a solution to this except recommitting to serving all my values, having faith in my own problem-solving ability, and starting at the top of the stack, by dialoging with the avoidant part and building lines of retreat as I go. I wish I had a much more robust solution, it seems like that would be transformative for me.
+
+[Maybe the thing that I should be doing here is core transformation, to better get to the root, of the things that are in tension? And overtime, I would learn]
+
+Friends, who can gently hold space, having compassion for me and all the parts of me, can make this easier.
+
+
+
+
+
+(Sometimes I'll feel unmotivated about a particular task that I've set for myself, shying away from it or procrastinating on it or bouncing off of it, but otherwise feeling alive and active. This is a notably different phenomenon from generalized low energy.
+
+Usually this is the result of an [ambiguity aversion](https://musingsandroughdrafts.com/2019/03/17/committed-engagement-and-the-critical-importance-of-ambiguity/), and I need to do the GTD practice of clarifying a next action, or stating explicitly what uncertainty I'm bouncing off of. 
+
+Sometimes the task will just doesn't seem worthwhile, in which case I'll IDC, or Goal-Factor, or make a quantitative EV estimate (which I find is often very effective for getting my visceral motivation and my "should"s on the same page), or do [goal-chain inspection](https://www.lesswrong.com/posts/C74TQRgvieB8yNDst/toon-alfrink-s-sketchpad?commentId=pN8yb29xpuHDyyjqx), which technique depending on the flavor of my unmotivation and my sense that the task is worth doing anyway.)
+
 
 ##Energetic Rhythms
 
@@ -29,6 +68,8 @@ Typically, I’ll eat my meal for the day in this block, and then lay down to na
 For each work block I'll set a timer (usually between 2 to 4 hours) of alert, energized "taut" time. For the length of the timer, I don't let my intentionality go lax. I'm maintaining an "executing intensions" mindset, I might switch what I'm doing in this block, but whatever I'm doing, I deliberately choose to switch my intention. 
 
 In support of that, I track my time with toggl, and also frequently explicate my second-to-second thought process in a metacognition log. In particular, whenever I finish a task, or decide to take a break, I'll flip to my metcognition log to take stock and then deliberately decide what to do next.
+
+For these blocks, I have to be dressed (casual clothes like pajamas, bathrobe, or sweatpants don't count). I also have to sit or stand at a desk, rather than sitting in on my floor chair. These are small nudges towards alertness and intentionality.
 
 I'll also make a point to maintain good posture during these periods.
 
@@ -120,6 +161,11 @@ I find that when I make space in which I allow myself to do whatever I want, in 
 ###Stimulant usage
 
 See my Stimulant policy.
+
+###Appendix: State modulation TAPs
+
+
+
                 
 ##Resourcing
 

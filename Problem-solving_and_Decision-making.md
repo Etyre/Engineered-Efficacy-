@@ -9,3 +9,4 @@
 * Flag when you're pursuing an avenue that isn't cruxy
 * Notice when you're thinking the same thought again, and ask what feels unsettled such that you are thinking this again.
 * Notice when you have circular dependencies or cycles in your chain of thought, and draw them out.
+* When I have a plan, but I notice myself hesitating, or procrastinating on pulling the trigger, ask myself what is holding me back.

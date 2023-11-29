@@ -58,6 +58,10 @@ Examples:
 - **Touch typing** - In learning touch typing at speed, I learned to [notice when I was rushing](https://efficacyengineering.wordpress.com/2020/07/26/my-current-phenomenological-model-of-my-typing-skill/), and slow down to focus on precision, and to notice when things felt smooth, so that [I could push more oomph into it](`https://efficacyengineering.wordpress.com/2020/07/26/my-current-phenomenological-model-of-my-typing-skill/`). Combined, these created a kind of control system of keeping the "intensity" in line with my structure, without getting ahead of myself, or rushing. [note that that isn't exactly what the first link describes, though it does match my memory]
 - **Juggling** - Noticing the balls deviating somewhat from that pattern, and focusing on making "adjustments" that to bring the pattern back in line. 
 
+###Do ten times as much
+
+See [this](https://betonit.substack.com/p/do-ten-times-as-much) post.
+
 ###Rapid alteration
 
 Epistemic status:
