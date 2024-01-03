@@ -1,4 +1,4 @@
-#Math procedures and heuristics
+# Math procedures and heuristics
 
 ##Getting a handle on concepts and new mathematical objects
 
