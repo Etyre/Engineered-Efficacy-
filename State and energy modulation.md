@@ -1,6 +1,6 @@
-#Energy and Intentionality modulation 
+# Energy and Intentionality modulation 
 
-##Emotional Processing
+## Emotional Processing
 
 The most important factor for my personal energy and intentionality is being emotionally-energetically unblocked / unstuck.
 
@@ -39,9 +39,9 @@ Usually this is the result of an [ambiguity aversion](https://musingsandroughdra
 Sometimes the task will just doesn't seem worthwhile, in which case I'll IDC, or Goal-Factor, or make a quantitative EV estimate (which I find is often very effective for getting my visceral motivation and my "should"s on the same page), or do [goal-chain inspection](https://www.lesswrong.com/posts/C74TQRgvieB8yNDst/toon-alfrink-s-sketchpad?commentId=pN8yb29xpuHDyyjqx), which technique depending on the flavor of my unmotivation and my sense that the task is worth doing anyway.)
 
 
-##Energetic Rhythms
+## Energetic Rhythms
 
-###Core principle: Increase amplitude 
+### Core principle: Increase amplitude 
 
 The key principle is that I want to increase the amplitude of my energy and focus. I either want to be amping up, pushing myself, being fast or focused, or I want to be explicitly and efficiently resting. I want to avoid the middling states where I’m working, but not very intently, or not working, but mostly in a distracted not-enormously restful way. Focused, high intensity period are high value, and high quality rest supports the “on” states, but the middle range is not very effective.
 
@@ -49,11 +49,11 @@ The key principle is that I want to increase the amplitude of my energy and focu
 
 https://twitter.com/nickcammarata/status/1389213303331823616?
 
-###Day level structure: Up time and Down time
+### Day level structure: Up time and Down time
 
 The biggest structural detail that supports increasing amplitude is that I live on a biphasic schedule. I have two focused, “up time” work blocks, one in the morning and the evening, separated by a scheduled period in the middle, that is blocked out (so that people can’t make meetings with me) to slow down and rest.
 
-####Down time / rest blocks
+#### Down time / rest blocks
 
 The downtime block is 2 or 3 hours long, from 3:00 PM to about 5:30 PM, on my late schedule, or from 11:00 AM to about 1:30 PM, when I’m on an extra early schedule.
 
@@ -63,7 +63,7 @@ See my napping protocol, for the process that I go through.
 
 Typically, I’ll eat my meal for the day in this block, and then lay down to nap immediately afterwards, while my body is transitioning into parasympathetic activation. (And depending on what I just ate, my blood sugar spikes, crashing my subjective energy).
 
-####Up time / go blocks
+#### Up time / go blocks
 
 For each work block I'll set a timer (usually between 2 to 4 hours) of alert, energized "taut" time. For the length of the timer, I don't let my intentionality go lax. I'm maintaining an "executing intensions" mindset, I might switch what I'm doing in this block, but whatever I'm doing, I deliberately choose to switch my intention. 
 
@@ -85,7 +85,7 @@ There’s a smaller structure within these blocks of time, where I’m either pu
 
 Motivation comes from momentum. My goal is to build momentum every day. 
  
-#####Amping up:
+##### Amping up:
 
 At the start of a taut block, or if at any point I my energy is flagging, I’ll use one of a few techniques to raise my energy, and more importantly, my tempo. Low energy can be compensated for by heightened arousal or momentum.
 
@@ -101,7 +101,7 @@ Namely...
 
 Relatedly, I've trained myself to wakeup from sleep and naps instantly, and then immediately move into momentum.
 
-#####Intentional rest: “Breaks are not for stimulation”
+##### Intentional rest: “Breaks are not for stimulation”
 
 It is tempting, when I’m attention is flagging and my brain is tried, to watch some snippets of TV, or to read web comics. These are stimulating, or interesting.
 
@@ -116,13 +116,13 @@ I do need to rest my mind in between bouts of intense work, I’m aiming to *res
 
 So if I feel like I need to take a break, I'll lie down with my eyes closed, and do Resonance Frequency Breathing.
 
-#####Food
+##### Food
 
 I don't eat at all during up times, with the exception of a liquid meal / protein shake following a workout. Eating drops my blood sugar and lowers my energy.
 
 If I'm hungry or have a generic, non-hunger, interest in eating, I'll drink a container of water or a cup of tea, instead.
 
-#####Physical Speed
+##### Physical Speed
 
 In uptime, I make a point to physically move fast. If I need go somewhere that is more than a 15 minute walk away, I'll take an uber. If the location is closer than that, I'll run there, never walk.
 
@@ -152,7 +152,7 @@ But I chose that cadence so that there’s always a free-choice block coming up 
 
 The idea is that I am more willing to push myself to keep my intentionality high, knowing that I’m not asking myself to deny myself those things. I’m just asking myself to wait until (for instance) Thursday.-->
 
-###Week-level macro structure: 
+### Week-level macro structure: 
 
 I currently take rest and free choice time twice a week: all day on Sunday, and in the second half of the day on Wednesday. This is time that I've cleared for myself to do whatever seems appealing, from masturbating (ideally with my full attention to making the experience good, instead of as a furtive diversions), to reading, to study, to strength training.
 
@@ -160,20 +160,20 @@ The point is for this to be frequent enough that I always have an upcoming free-
 
 I find that when I make space in which I allow myself to do whatever I want, in contrast to thinking that I "should" be doing something, but procrastinating, I'll often do do pretty rewarding stuff. 
 
-###Stimulant usage
+### Stimulant usage
 
 See my Stimulant policy.
 
-###Appendix: State modulation TAPs
+### Appendix: State modulation TAPs
 
 
 
                 
-##Resourcing
+## Resourcing
 
 There are a bunch of basic health and fitness things that support my energy, and I've built systems to make sure that those are well attended to as a matter of course.
 
-###Sleep
+### Sleep
 
 The single most important thing for maintaining my energy and intentionality is systematically getting enough sleep.
 
@@ -181,13 +181,15 @@ I typically sleep 8 to 9 hours a night.
 
 I have a timer that rings at 10:00 PM every night, reminding me to take a melatonin and brush my teeth. Then I go to sleep when I feel tired.
 
-####Napping
+See my sleep policy [to be filled in].
+
+#### Napping
 
 As noted above, I nap most days.
 
 See my nap protocol.
 
-###Hydration
+### Hydration
 
 I keep a box of containers of water next to my desk at home and next to my desk in my office. When I take my supplements first thing in the morning, I'll also drink a full bottle of water.
 
@@ -195,19 +197,17 @@ I keep a box of containers of water next to my desk at home and next to my desk 
 
 **TAP**: See that my pee is dark yellow -> ask, out loud, where's the easiest place to get water.
 
-###Exercise
+### Exercise
 
 I strength train most days. If I exercised yesterday, I'll only do one exercise. If I didn't exercise yesterday, I'll do two.
 
 It helps a lot that I have a gym accessible from my office, so that I can work out as a work break in my taut-blocks.
 
-See my strength training procedure. 
+For more detail see my [exercise policy](https://wild-quit-ebe.notion.site/Exercise-policy-458a9d81c91e46e6b8c7fdcae25b7621). 
 
-###HRV training
 
-I currently do 40 minutes of Resonance Frequency Breathing a day, broken into segments of 10 to 20 minutes, usually lying down when I'm taking a break from work.
-
-###Diet
+### Diet
 
 **Experimental TAP**: I'm tempted to eat bread or rice -> I eat a fruit instead
+
 
