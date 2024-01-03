@@ -89,7 +89,7 @@ Motivation comes from momentum. My goal is to build momentum every day.
 
 At the start of a taut block, or if at any point I my energy is flagging, I’ll use one of a few techniques to raise my energy, and more importantly, my tempo. Low energy can be compensated for by heightened arousal or momentum.
 
-[note: possibly I should just always do RFB instead?]
+[note: possibly I should just always do Resonance Frequency Breathing instead?]
 
 Namely...
 
