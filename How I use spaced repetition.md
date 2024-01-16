@@ -66,9 +66,7 @@ For example. I can memorize the sentence “cos(π/3) = 1/2“ but that sentence
 
 Similarly, the sentence “Xinjaing is a region in the north-west of China”, can require me to parse which direction “north-west” is, where this picture…
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/67fc141f-2974-48ac-9a24-292e71718256/8b548b50-0013-44d4-8476-e714b26c1fa4/Untitled.png)
-
-
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Feli%2FAu7u5DK1p1.png?alt=media&token=c0995cc6-9560-4ab3-9708-67b5aed1116a)
 
 …makes the location info available at a glance. When I think of Xinjaing, I want to have a fast pseudo-visual flash of that map in my mind.
 
