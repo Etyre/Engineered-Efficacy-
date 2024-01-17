@@ -32,16 +32,16 @@ Typically, I’ll eat my meal for the day in this block, and then lay down to na
 
 ##### Intentionality Timers
 
-For each work block I'll set an "intentionality timer".
+For up periods in which I'm doing independent work, instead of taking meetings or doing tasks in rapid i/o with the world, I'll set an "intentionality timer".
 
 I'll set a timer for (usually) a 2 to 4 hour block. For the length of the timer, I don't let my intentionality go lax. I'm maintaining an "executing intensions" mindset, I might switch what I'm doing in this block, but whatever I'm doing, I deliberately choose to switch my intention. 
 
 For the length of this period, I maintaining an alert, high-arousal, "[taut](https://musingsandroughdrafts.com/2020/02/10/modes-not-traits-and-decoupling-cognitive-energy-from-intentionality/)" mode. 
 
-In support of that, I track my time with toggl, and also frequently explicate my second-to-second thought process in a metacognition log. In particular, whenever I finish a task, or decide to take a break, I'll flip to my metcognition log to take stock and then deliberately decide what to do next.
+In support of that, I track my time with toggl, and also frequently explicate my second-to-second thought process in a metacognition log. In particular, whenever I finish a task, or decide to take a break, I'll flip to my metcognition log (via the custom hotkey) to take stock and then deliberately decide what to do next.
 
 ```
-TAP: [Finalization moment] -> 
+TAP: [Task finalization moment] -> 
 	Flip to metacog log
 ```
 If I feel hesitant about committing to an intentionality block, I'll shorten the length of time, instead of reducing the intensity. I want to be practicing alert intenseness. If I don't feel up for a full 4 hours, I'll reduce the length of the block (before I start!) until I feel confident about committing to deliberate intentionality for that period.
@@ -107,6 +107,17 @@ A crucial piece of maintaining energy and tautness is that I don't eat at all du
 
 If I'm hungry or have a generic, non-hunger, interest in eating, I'll drink a container of water or a cup of tea, or I'll chew gum (I prefer the [simply brand](https://www.simplygum.com/collections/gum)) instead.
 
+```
+TAP: Feel a vague pull to eat ->
+	Snap, put my attention mentally on gum-boxes
+```
+
+
+```
+TAP: Finish eating a meal, tempted to eat more ->
+	Put my attention mentally on gum-boxes	
+```
+
 ##### Physical Speed
 
 In uptime, I make a point to physically move fast. If I need go somewhere that is more than a 15 minute walk away, I'll take an uber. If the location is closer than that, I'll run there, never walk.
@@ -136,6 +147,12 @@ This cadence: one half of every third day, is experimental. Maybe I’ll settle 
 But I chose that cadence so that there’s always a free-choice block coming up relatively soon. This is intentionally an outlet policy. If I feel tempted to let go and watch a TV show for instance, I want to be be able to credibly think to myself “I can do that during my next free-choice block”, which is never more than 3 days away.
 
 The idea is that I am more willing to push myself to keep my intentionality high, knowing that I’m not asking myself to deny myself those things. I’m just asking myself to wait until (for instance) Thursday.-->
+
+#### Non-intentionality block up-time
+
+Sometimes I'm doing work where my attention is not directed primarily by my internal executive process, but rather by my environment. This includes when I'm doing operations, when I'm running a workshop, when I'm taking meetings, or working on single projects with urgent environmental deadlines.
+
+For these kinds of work periods, I don't make a point to maintain the tautness of my intention, though I maintain many of the same practices, somewhat less strictly. Mainly I just focus on doing things fast: when I have a next task, I aim to do it immediately. I allow my meeting schedule or the ongoing events in my environment to shape my moment to moment priorities, and when I have an un-directed moment, I refer back to my todo list and make progress on the most urgent task * the task that I have the most [ambiguity aversion](https://musingsandroughdrafts.com/2019/03/17/committed-engagement-and-the-critical-importance-of-ambiguity/) about.
 
 ### Week-level macro structure: 
 
