@@ -354,6 +354,36 @@ Then I'll repeat with a new project.
 
 
 
+# Appendixes
+
+## Books on learning
+
+Books and resources that were at least somewhat helpful 
+
+
+* Your Memory: How It Works and How to Improve It by Kenneth L. Higbee
+* The Art of Learning An Inner Journey to Optimal Performance by Josh Waitzkin
+* How We Learn: The Surprising Truth About When, Where, and Why It Happens by Benedict Carey
+* The First 20 Hours: How to Learn Anything . . . Fast! by Josh Kaufman
+* Tim Ferris's podcast on meta learning (#191)
+
+
+Books and resources that were not worth reading
+
+* Peak: Secrets from the New Science of Expertise by by Anders Ericsson and Robert Pool
+* The Only Skill that Matters: The Proven Methodology to Read Faster, Remember More, and Become a SuperLearner by Jonathan A. Levi
+* A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) by Barbara Oakley PhD
+
+
+
+
+Not yet read
+
+* Ultralearning
+* Pragmatic Thinking and Learning
+* The Five Pillars of Learning Mastery
+* Talent is Overrated
+* The Practicing Mind
 
 
 # Scratch space and collected notes

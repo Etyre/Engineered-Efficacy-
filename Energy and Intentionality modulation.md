@@ -8,8 +8,6 @@ The key principle to my life rhythms is that I want to increase the *amplitude* 
 
 I either want to be amping up, pushing myself, being fast or focused, or I want to be explicitly and efficiently resting. I want to avoid the middling states where I’m working, but not very intently, or not working, but mostly in a distracted not-particularly restful way. Focused, high intensity periods are high value, and high quality rest supports the “on” states, but the middle range is not very effective.
 
-<!--<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Life got better when I started using caffeine, sleep, and exercise to maximize amplitude rather rather max min. Before if I felt tired I’d have caffeine, now I just sleep and save stimulants and exercise for when I already feel great to bring me to super great <a href="https://t.co/hzYaQrQv4L">pic.twitter.com/hzYaQrQv4L</a></p>&mdash; Nick (@nickcammarata) <a href="https://twitter.com/nickcammarata/status/1389213303331823616?ref_src=twsrc%5Etfw">May 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>-->
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Life got better when I started using caffeine, sleep, and exercise to maximize amplitude rather rather max min. Before if I felt tired I’d have caffeine, now I just sleep and save stimulants and exercise for when I already feel great to bring me to super great <a href="https://t.co/hzYaQrQv4L">pic.twitter.com/hzYaQrQv4L</a></p>&mdash; Nick (@nickcammarata) <a href="https://twitter.com/nickcammarata/status/1389213303331823616?ref_src=twsrc%5Etfw">May 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 https://twitter.com/nickcammarata/status/1389213303331823616
@@ -44,7 +42,9 @@ In support of that, I track my time with toggl, and also frequently explicate my
 TAP: [Task finalization moment] -> 
 	Flip to metacog log
 ```
-If I feel hesitant about committing to an intentionality block, I'll shorten the length of time, instead of reducing the intensity. I want to be practicing alert intenseness. If I don't feel up for a full 4 hours, I'll reduce the length of the block (before I start!) until I feel confident about committing to deliberate intentionality for that period.
+If I feel the need to take a break, I'll typically assess what I'm doing next, and load it up a bit in my mind, *first*, to smooth the process of coming back to work.
+
+If I notice that I've gotten distracted from my intention during an intentionality block, I immediately log my distraction in my metacognition log, and then go back to the thing that I was doing.
 
 For these blocks, I need to be fully dressed (casual clothes like pajamas, bathrobe, or sweatpants don't count). It might be correlational, but my impression is that I don't achieve the desired intentness when I'm not dressed yet.
 
@@ -64,6 +64,8 @@ TAP: Notice that I'm slumping ->
 Generally, I’ll do tasks / meetings / work that is accelerated by a high APM in the morning block, and then do deep work (writing, programming, studying), in the evening block. But those are general trends, and I could schedule any kind of work that I need to for each block.
 
 There’s a smaller structure within these blocks of time, where I’m either pushing myself to go as hard as I can, or explicitly resting by lying down with my eyes closed. Basically, at any given point, if I feel tired or sluggish or out of it, I have a choice: I either amp up, or explicitly cool down and relax.
+
+If, before I start an intentionality timer, I feel hesitant about committing to an intentionality block, I'll shorten the length of time, instead of reducing the intensity. I want to be practicing alert intenseness. If I don't feel up for a full 4 hours, I'll reduce the length of the block (before I start!) until I feel confident about committing to deliberate intentionality for that period.
 
 Motivation comes from momentum. My goal is to build momentum every day. 
  
@@ -91,9 +93,7 @@ But just because they’re appealing doesn’t mean that they’re effective res
 
 And more importantly, they’re attentional hooks. Especially when I’m drained, I’m apt to get absorbed in the short term feedback loops of that kind of stimulation and drop my intentionality.
 
-```
-TAP: Flip to a video site -> Flip to my metacognition log and note it.
-```
+(I used to have a TAP that when I would flip to a video site, I would immediately flip to my metacogniton log, and note the distraction, but that's obviated by the fact that I've blocked all the media elements on my main computer. I have to [walk a few blocks](https://wild-quit-ebe.notion.site/Passive-consumption-and-addiction-distraction-policies-e9467e7d3d2b479a8847f2da6c70063d) to my friends' house to watch video content.)
 
 I have a mantra “breaks are not for stimulation.”
 
@@ -117,6 +117,7 @@ TAP: Feel a vague pull to eat ->
 TAP: Finish eating a meal, tempted to eat more ->
 	Put my attention mentally on gum-boxes	
 ```
+Eating causes my energy to dip or crash (though by how much depends on what I eat). So I'm careful to time it. I don't let myself eat casually. **** 
 
 ##### Physical Speed
 
@@ -222,7 +223,7 @@ There are a bunch of basic health and fitness things that support my energy, and
 
 The single most important thing for maintaining my energy and intentionality is systematically getting enough sleep.
 
-See my sleep systems [to be filled in], for more.
+See my [sleep process and policies](https://wild-quit-ebe.notion.site/Sleep-process-and-policies-6f7a204833a34d4b99ad44860258ca7c), for more.
 
 #### Napping
 

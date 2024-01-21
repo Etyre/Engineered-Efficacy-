@@ -22,13 +22,14 @@ One specific danger is learning a bunch of names for things.
 
 For instance, JSON object are composed of “properties”. Does knowing that term make me better at programming in javascript? Not really.
 
-From Fynman’s *The Making of Scientist*:
+From Feynman’s *The Making of a Scientist*:
 
 *The next Monday, when the fathers were all back at work, we kids were playing in a field. One kid says to me, "See that bird? What kind of bird is that?" I said, "I haven't the slightest idea what kind of a bird it is." He says, "It's a brown-throated thrush. Your father doesn't teach you anything!"* 
 
 *But it was the opposite. He had already taught me: "See that bird?" he says. "It's a Spencer's warbler." (I knew he didn't know the real name.) "Well, in Italian, it's a Chutto Lapittida. In Portuguese, it's a Bom da Peida. In Chinese, it's a Chung-long-tah, and in Japanese, it's a Katano Tekeda. You can know the name of that bird in all the languages of the world, but when you're finished, you'll know absolutely nothing whatever about the bird. You'll only know about humans in different places, and what they call the bird. So let's look at the bird and see what it's doing-that's what counts." (I learned very early the difference between knowing the name of something and knowing something.)*
 
 Sometimes it is helpful to have memorized a bunch of technical terms, if it allows me to read a literature. But most cards that are about what something is *called* are a waste of my time.
+
 When a card comes up that is only about something’s name, and not relating some meaningful information to some other meaningful information, I suspend it on the spot.
 
 #### 8 syllables or less
@@ -47,8 +48,11 @@ This means I’ll sometimes make the same card, expect with the order reversed, 
 
 eg
 
+```
 - Strong national identity competes with strong {tribal / family} identity. #ankify
 - Strong tribal / family identity competes with strong {national} identity. #ankify
+
+```
 
 #### Make it visual
 
@@ -126,6 +130,24 @@ When that happens, I’ll just set the due date of the second card for 10-30 day
 When I get a flashard *mostly* right, but I miss one part of it, I’ll give that card a pass and also make a new flashcard that focuses specifically on the part that missed.
 
 For instance… https://roamresearch.com/#/app/eli/page/8N-JhDWaW
+
+If I misremember / mis-guess the M in ASML as "Manufacture" instead of "Materials", I'll make a card with a cloze specifically for that word.
+
+```
+- ASML: #ankify
+    - Advanced Semiconductor Materials Lithography 
+- Advanced Semiconductor {Materials} Lithography #ankify
+```
+
+Or if I remember that a modem interfaces between a network and another network, but not that it interfaces with the phone system in particular, I make a cloze card for that.
+
+```
+- What is a modem? #ankify
+    - A device that interfaces between a computer network and the phone system.
+- A modem interfaces between a computer network and {the phone system}. #ankify
+```
+
+
 
 #### Modifying the cards
 

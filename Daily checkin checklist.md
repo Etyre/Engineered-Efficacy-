@@ -23,3 +23,4 @@ Prepare for tomorrow
 
 * Plan my stimulant usage. What stimulant, if any, am I scheduled for tomorrow? When do I want to take it?
 * Start doing that work right now, for a timeboxed 5 minutes.
+ 
