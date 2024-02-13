@@ -256,3 +256,8 @@ For more detail see my [exercise policy](https://wild-quit-ebe.notion.site/Exerc
 **Experimental TAP**: I'm tempted to eat bread or rice -> I eat a fruit instead
 
 
+### Sex
+
+
+
+
