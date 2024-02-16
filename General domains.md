@@ -1,16 +1,19 @@
-# General domains - Table of contents
+# General domains
 
 ## State and energy modulation
 
-Documents:
+**Documents:**
 
-* [Energy and Intentionality modulation](Energy-and-Intentionality-Modulation.md)
+* [Energy and Intentionality modulation](Energy and Intentionality Modulation.md) <p></p>
 * [Sleep process and policies](https://wild-quit-ebe.notion.site/Sleep-process-and-policies-6f7a204833a34d4b99ad44860258ca7c)
-* [Exercise policy](https://www.notion.so/Exercise-policy-458a9d81c91e46e6b8c7fdcae25b7621)
-* [Stimulant and supplement policy](https://wild-quit-ebe.notion.site/Stimulant-and-supplement-policy-ceaa8d7318fa4cea858c2998ade63127)
 * [Napping protocol](https://docs.google.com/document/d/1ctnO9pwF7Ti7AjyYGoSiiTzAHidUZn-mZ4EvwHqPl9M/edit#heading=h.i24l245gvr44)
+* Sleep deficit compensation procedures
+<p></p>
+* [Exercise policy](https://www.notion.so/Exercise-policy-458a9d81c91e46e6b8c7fdcae25b7621)
+<p></p>
+* [Stimulant and supplement policy](https://wild-quit-ebe.notion.site/Stimulant-and-supplement-policy-ceaa8d7318fa4cea858c2998ade63127)
 
-Checklists:
+**Checklists:**
 
 * Rest day checklist
 * State debugging flowchart
@@ -44,27 +47,15 @@ Checklists:
         - Writing something as soon as I have the ideaWriting something as soon as I have the idea
         - Working in sprints with one goal-->
 
-## Input/output speed
-
-###Input 
-
-Reading speed
-
-###Storage
-
-###Output
-
-Typing speed
-
 
 ## Attention/salience management
-Documents:
+**Documents:**
 
 * My GTD system
 * Notes on setting up a GTD system
 * [Passive consumption and addiction/distraction policies](https://wild-quit-ebe.notion.site/Passive-consumption-and-addiction-distraction-policies-e9467e7d3d2b479a8847f2da6c70063d)
 
-Checklists:
+**Checklists:**
 
 * Weekly review checklist
 
@@ -78,14 +69,13 @@ Checklists:
 - Pushing to get versions done and shipped with a short a delay as possible.
 - Packing up everything else and putting it aside for a sprint
 - Checklists-->
-- 
+
+
 ## Competence / agency
 
 
-- Documents: [Competence subskills](https://docs.google.com/document/d/1yTZXX3w75eghRKiBZ-tCRBN4iUFCI5Ym5G3XU5XuIis/edit)
+**Document:** [Competence subskills](https://docs.google.com/document/d/1yTZXX3w75eghRKiBZ-tCRBN4iUFCI5Ym5G3XU5XuIis/edit)
 
-
-Checklists:
 
    <!-- - Commitment to making it happen - Not allowing yourself to be blocked
     - Speed of execution
@@ -98,43 +88,51 @@ Checklists:
 - [[Getting Things Done™]]
 -->
 
+## Input/output speed
+
+###Input 
+
+Reading speed
+
+###Storage
+
+###Output
+
+Typing speed
+
 
 ## Learning and skill building
 
-Documents: 
+**Documents: **
 
-* [How I learn](https://github.com/Etyre/Methodology-documents/blob/main/Learning%20Methodology.md)
-* How I use spaced repetition
+* [How I learn](Learning Methodology.md)
+* [How I use spaced repetition](How I use spaced repetition.md)
 
-
-Checklists:
+**Checklists:**
 
 * Deliberate practice checklist
 
-
-
-
-
 <!--- Core concepts
     - Active learning
-    - Spaced repetition
     - Zooming down to the right size chunk
--->
+    - Spaced repetition
+    -->
     
     
 ## Epistemics: building accurate models, figuring out what's true
 
-Documents:
+**Documents:**
 
 * Epistemic habits
 
 
-### Rapid orienting and getting a high level view
+<!--### Rapid orienting and getting a high level view-->
 
 
 ### Quantitative epistemology
 
-* Notes on quantitative reasoning
+
+**Document** Notes on quantitative reasoning
 
 <!--  
   
@@ -151,7 +149,7 @@ Documents:
         
    --> 
         
-### Articulating motivating beliefs and models, in full, in writing
+### Articulating motivating beliefs and models in writing, to uncover assumptions and clarify for coherence
 
 
 <!--    - Flagging assumptions to test
@@ -162,7 +160,7 @@ Documents:
 
 
  
-Resources:
+**Resources:**
 
 * How to Measure Anything
 * The Lean Startup
@@ -190,27 +188,29 @@ Document: [How to do scholarship](https://docs.google.com/document/d/1cS6d_J-cKo
 
 - Expert assessment
     - -->
-## Planning, decision making, and prioritization
+## Planning, decision making, prioritization
 
-Heuristics:
+**Heuristics:**
  
 - Identifying the crux and aggressively getting the info
 
 
-### Planning and Project Selection 
+**Techniques**
 
-    
-Techniques: 
-
-* Plan explication->Assumption articulation loop
-* EV fermi estimates
 * Goal Factoring
 * Murphyjitu
 
+### Macro-planning and Project Selection 
+
+**Techniques**: 
+
+* Plan explication->Assumption articulation loop
+* EV fermi estimates
+* [For products with users] PRFAQs
     
 ## Problem-solving
 
-Documents:
+**Documents:**
 
 * Problem solving heuristics / Moves to try when I get stuck
 * Notes on brainstorming
@@ -246,13 +246,15 @@ Document: Behavior Change Methods
 Techniques:
 
 * Five Whys
-* * [Key Decision Analysis - a fundamental rationality technique](https://www.lesswrong.com/posts/y54fv6BasFtucpF7D/key-decision-analysis-a-fundamental-rationality-technique)
+* [Key Decision Analysis - a fundamental rationality technique](https://www.lesswrong.com/posts/y54fv6BasFtucpF7D/key-decision-analysis-a-fundamental-rationality-technique) [LessWrong post]
 
 
 Checklists:
 
 * Problem-solving debrief and reflection checklist
 * Weekly review checklist
+
+## Financial Resources
 
 ## Programming
 
@@ -287,20 +289,20 @@ Resources:
 
 ## Communication
 
-
 - Writing
 - Public speaking
 
 
 ## Social skills
 
+Charisma
+Humor
+
 Networking - good conversations at parties
 
+Resources:
 
-
-## Joy and spiritual connection
-
-Gratitude practice.
+* The Charisma Myth
 
 
 ## Psych work and psychological integration
@@ -323,6 +325,12 @@ Resources:
 * The Power of Focusing
 * Core Transformation
 * Self Therapy
+
+## Joy and spiritual connection
+
+Techniques: 
+
+* Gratitude practice
 
     
 <!--## Developing concepts
