@@ -24,13 +24,29 @@ For instance, JSON object are composed of “properties”. Does knowing that te
 
 From Feynman’s *The Making of a Scientist*:
 
-*The next Monday, when the fathers were all back at work, we kids were playing in a field. One kid says to me, "See that bird? What kind of bird is that?" I said, "I haven't the slightest idea what kind of a bird it is." He says, "It's a brown-throated thrush. Your father doesn't teach you anything!"* 
+> *The next Monday, when the fathers were all back at work, we kids were playing in a field. One kid says to me, "See that bird? What kind of bird is that?" I said, "I haven't the slightest idea what kind of a bird it is." He says, "It's a brown-throated thrush. Your father doesn't teach you anything!"* 
 
-*But it was the opposite. He had already taught me: "See that bird?" he says. "It's a Spencer's warbler." (I knew he didn't know the real name.) "Well, in Italian, it's a Chutto Lapittida. In Portuguese, it's a Bom da Peida. In Chinese, it's a Chung-long-tah, and in Japanese, it's a Katano Tekeda. You can know the name of that bird in all the languages of the world, but when you're finished, you'll know absolutely nothing whatever about the bird. You'll only know about humans in different places, and what they call the bird. So let's look at the bird and see what it's doing-that's what counts." (I learned very early the difference between knowing the name of something and knowing something.)*
+> *But it was the opposite. He had already taught me: "See that bird?" he says. "It's a Spencer's warbler." (I knew he didn't know the real name.) "Well, in Italian, it's a Chutto Lapittida. In Portuguese, it's a Bom da Peida. In Chinese, it's a Chung-long-tah, and in Japanese, it's a Katano Tekeda. You can know the name of that bird in all the languages of the world, but when you're finished, you'll know absolutely nothing whatever about the bird. You'll only know about humans in different places, and what they call the bird. So let's look at the bird and see what it's doing-that's what counts." (I learned very early the difference between knowing the name of something and knowing something.)*
 
 Sometimes it is helpful to have memorized a bunch of technical terms, if it allows me to read a literature. But most cards that are about what something is *called* are a waste of my time.
 
 When a card comes up that is only about something’s name, and not relating some meaningful information to some other meaningful information, I suspend it on the spot.
+
+#### Only make cards for information/material that you're actually going to use (within the next year)
+
+My experience is that anki can support my learning and maintain my knowledge, but it can't replace actually using the material in the learning process.
+
+It doesn't help me to memorize the syntax of a programming language if I'm not going to use it any time soon. Aside from the straightforward way in which this is a waste of time, it also doesn't work very well: the cards will be asking questions using concepts that I'm not familiar with, and insofar as I'm able to memorize the correct answers, I'm memorizing a network of relationships between terms that don't have any relationship to my actual experience.
+
+I can memorize that variables declared with "const" can't be redeclared or re-assigned, but variables declared with "let" can be both redeclared and re-assigned, and I can memorize what it means to declare and assign a variable in javascript, but all of this lacks felt meaning for me, unless I'm actually using javascript and I get to see directly what assigning and declaring mean. 
+
+In general, spaced repetition review is like a diffuse nimbus that strengthens my learning, but it has to be built around a solid core of actually using the material for real.
+
+That might entail applying a model in my decision making, or recalling an idea when I'm thinking through a problem or question, or actually using the programming language to build something, or using the conversion to reason about something, etc.
+
+In some cases that will just mean more thinking and reading on the same topic. It's  useful to put history facts into anki if I'm going to be reading more history, and those facts will be present to me (because of the spaced repetition) allowing me to contextualize my future reading.
+
+As a rule of thumb, if the only time I think about some information is when it comes up in my anki review, I'm wasting my time by maintaining it.
 
 #### 8 syllables or less
 
@@ -39,20 +55,6 @@ In general, I try to compress the core idea or question of a card down to 8 syll
 However, sometimes the idea that I’m wanting to capture is nuanced, and I don’t want to compress it to something that leaves out the nuance, in which case I’ll allow myself a long sentence. 
 
 For instance, most cards are about facts about the world, but some of them are about claims that papers or authors have made, and I don’t want to compress those down to claims about the world, instead of claims about people’s beliefs.
-
-#### Cloze cards
-
-For cloze deletion cards, I typically want the cloze to be near the end of the sentence, to make the card faster to parse.
-
-This means I’ll sometimes make the same card, expect with the order reversed, so that the cloze is at the end.
-
-eg
-
-```
-- Strong national identity competes with strong {tribal / family} identity. #ankify
-- Strong tribal / family identity competes with strong {national} identity. #ankify
-
-```
 
 #### Make it visual
 
@@ -118,6 +120,8 @@ eg
 #### Spelling / typing practice
 
 #### Hotkeys
+
+#### Image occlusion cards
 
 ### When reviewing
 

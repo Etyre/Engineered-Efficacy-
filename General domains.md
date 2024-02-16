@@ -4,7 +4,12 @@
 
 Documents:
 
+* 
+
+
 Checklists:
+
+* Rest day checklist
 
 
 - Processing stuckness
@@ -94,7 +99,7 @@ Checklists:
     - Making predictions
         - Calibration
     - Dealing with magnitudes
-        - Noticing need for quanitities
+        - Noticing need for quantities
         - Fermi estimates
 - ### Writing down full stories / theories
     - Flagging assumptions to test
@@ -153,7 +158,7 @@ Checklists:
 - Mentorship skills
 - Double Crux
 - NVC
-- Extration
+- Extraction
 - Convergent Facilitation
 ## Communication
 - Writing
@@ -163,8 +168,11 @@ Checklists:
 ## Joy and spiritual connection
 - Gratitude practice.
 ## Psychological integration
-- Document: [Focusing/ psych debugging  moves](https://docs.google.com/document/d/1OXqflthzbr65CjYYK68wTzLlA6Dc96_qazr_KzOCYLg/edit#heading=h.jcw6bic35bl8)
-- Techniques
+Document: 
+
+- [Focusing/ psych debugging  moves](https://docs.google.com/document/d/1OXqflthzbr65CjYYK68wTzLlA6Dc96_qazr_KzOCYLg/edit#heading=h.jcw6bic35bl8)
+
+Techniques
     - Focusing 
     - Core Transformation
     - CT
