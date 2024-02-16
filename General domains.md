@@ -4,7 +4,7 @@
 
 Documents:
 
-* [Energy and Intentionality modulation](Energy-and-Intentionality-modulation.md")
+* [Energy and Intentionality modulation](Energy-and-Intentionality-Modulation.md)
 * [Sleep process and policies](https://wild-quit-ebe.notion.site/Sleep-process-and-policies-6f7a204833a34d4b99ad44860258ca7c)
 * [Exercise policy](https://www.notion.so/Exercise-policy-458a9d81c91e46e6b8c7fdcae25b7621)
 * [Stimulant and supplement policy](https://wild-quit-ebe.notion.site/Stimulant-and-supplement-policy-ceaa8d7318fa4cea858c2998ade63127)
