@@ -1,0 +1,9 @@
+- [[rest day]] checklist #SmartBlock
+    - [[rest day]] checklist
+        - {{[[TODO]]}} Focusmate session
+        - {{[[TODO]]}} Strength train
+        - {{[[TODO]]}} Clean up my room
+        - {{[[TODO]]}} Anki review
+        - {{[[TODO]]}} Journal for 5 minutes about what I might want.
+        - --
+        - {{[[TODO]]}} Pack up my rest-day priorities, and prepare for tomorrow

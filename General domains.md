@@ -4,18 +4,17 @@
 
 **Documents:**
 
-* [Energy and Intentionality modulation](Energy and Intentionality Modulation.md) <p>
+* [Energy and Intentionality modulation](Energy and Intentionality Modulation.md)
 * [Sleep process and policies](https://wild-quit-ebe.notion.site/Sleep-process-and-policies-6f7a204833a34d4b99ad44860258ca7c)
 * [Napping protocol](https://docs.google.com/document/d/1ctnO9pwF7Ti7AjyYGoSiiTzAHidUZn-mZ4EvwHqPl9M/edit#heading=h.i24l245gvr44)
-* [Sleep deficit compensation procedures](https://wild-quit-ebe.notion.site/Sleep-deficit-compensation-procedures-5ecebd076d7446fd99e2d2f62961ae5b?pvs=25) <p>
-* [Exercise policy](https://www.notion.so/Exercise-policy-458a9d81c91e46e6b8c7fdcae25b7621) <p>
-
-
+* [Sleep deficit compensation procedures](https://wild-quit-ebe.notion.site/Sleep-deficit-compensation-procedures-5ecebd076d7446fd99e2d2f62961ae5b?pvs=25)
+* [Exercise policy](https://www.notion.so/Exercise-policy-458a9d81c91e46e6b8c7fdcae25b7621) 
+* Notes on rest days 
 * [Stimulant and supplement policy](https://wild-quit-ebe.notion.site/Stimulant-and-supplement-policy-ceaa8d7318fa4cea858c2998ade63127)
 
 **Checklists:**
 
-* Rest day checklist
+* [Rest day checklist](checklists/rest day checklist.md)
 * State debugging flowchart
 
 
@@ -77,17 +76,12 @@
 - Checklists-->
 
 
-## Metacognition / intentional cognition
+## 🔲Metacognition / intentional cognition
 
 (This section should fully overlap with other section?)
 
-* Habits for inducing thought
-	* Hot-key to metacognition log.
-	* Metacognition triggers
-		* State triggers
-		* The feeling of weighing or making a decision.
-		* Always write something when I'm reading
-		* Including taking audio notes. 	
+* [Habits for inducing thought](https://wild-quit-ebe.notion.site/Habits-for-inducing-thought-c486294078d044259bbb19adb9804ed1?pvs=4)
+
 
 ## 🔲 Competence / agency
 
