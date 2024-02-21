@@ -1,16 +1,16 @@
 # General domains
 
-## State and energy modulation
+##  State and energy modulation
 
 **Documents:**
 
-* [Energy and Intentionality modulation](Energy and Intentionality Modulation.md) <p></p>
+* [Energy and Intentionality modulation](Energy and Intentionality Modulation.md) <p>
 * [Sleep process and policies](https://wild-quit-ebe.notion.site/Sleep-process-and-policies-6f7a204833a34d4b99ad44860258ca7c)
 * [Napping protocol](https://docs.google.com/document/d/1ctnO9pwF7Ti7AjyYGoSiiTzAHidUZn-mZ4EvwHqPl9M/edit#heading=h.i24l245gvr44)
-* Sleep deficit compensation procedures
-<p></p>
-* [Exercise policy](https://www.notion.so/Exercise-policy-458a9d81c91e46e6b8c7fdcae25b7621)
-<p></p>
+* [Sleep deficit compensation procedures](https://wild-quit-ebe.notion.site/Sleep-deficit-compensation-procedures-5ecebd076d7446fd99e2d2f62961ae5b?pvs=25) <p>
+* [Exercise policy](https://www.notion.so/Exercise-policy-458a9d81c91e46e6b8c7fdcae25b7621) <p>
+
+
 * [Stimulant and supplement policy](https://wild-quit-ebe.notion.site/Stimulant-and-supplement-policy-ceaa8d7318fa4cea858c2998ade63127)
 
 **Checklists:**
@@ -48,16 +48,22 @@
         - Working in sprints with one goal-->
 
 
-## Attention/salience management
+## 🔲 Attention/salience management
+
 **Documents:**
 
-* My GTD system
+* My personal GTD system
 * Notes on setting up a GTD system
 * [Passive consumption and addiction/distraction policies](https://wild-quit-ebe.notion.site/Passive-consumption-and-addiction-distraction-policies-e9467e7d3d2b479a8847f2da6c70063d)
 
 **Checklists:**
 
 * Weekly review checklist
+
+**Resources:**
+
+* Getting Things Done: The Art of Stress Free Productivity
+
 
 
 
@@ -71,7 +77,19 @@
 - Checklists-->
 
 
-## Competence / agency
+## Metacognition / intentional cognition
+
+(This section should fully overlap with other section?)
+
+* Habits for inducing thought
+	* Hot-key to metacognition log.
+	* Metacognition triggers
+		* State triggers
+		* The feeling of weighing or making a decision.
+		* Always write something when I'm reading
+		* Including taking audio notes. 	
+
+## 🔲 Competence / agency
 
 
 **Document:** [Competence subskills](https://docs.google.com/document/d/1yTZXX3w75eghRKiBZ-tCRBN4iUFCI5Ym5G3XU5XuIis/edit)
@@ -88,20 +106,54 @@
 - [[Getting Things Done™]]
 -->
 
-## Input/output speed
+## 🔲 Input/output, working memory
 
-###Input 
+* Augmenting Working Memory
 
-Reading speed
+### Using paper
 
-###Storage
+`TAP: List more than three things -> Write them down `
 
-###Output
+`TAP: Start to feel overflow -> Start writing `
 
-Typing speed
+Types of paper:
+
+* Physical paper
+* Big paper
+* Whiteboards
+* Google docs, etc.
+* Roam/workflowy/etc.
+* Spreadsheets
+* Yed graphs
+
+### External monitors
+
+### Socratic ducks
+
+### Talking out loud
+
+* Improving input speed
+* Improving output speed 
 
 
-## Learning and skill building
+
+###Input speed
+
+##### Reading speed
+
+##### Listening speed
+
+###Output speed
+
+##### Typing speed
+
+
+
+
+
+
+
+## 🔲 Learning and skill building
 
 **Documents: **
 
@@ -119,7 +171,7 @@ Typing speed
     -->
     
     
-## Epistemics: building accurate models, figuring out what's true
+## 🔲 Epistemics: building accurate models, figuring out what's true
 
 **Documents:**
 
@@ -129,10 +181,19 @@ Typing speed
 <!--### Rapid orienting and getting a high level view-->
 
 
-### Quantitative epistemology
+### 🔲Quantitative epistemology
 
 
-**Document** Notes on quantitative reasoning
+**Document:** 
+
+Notes on quantitative reasoning
+
+
+#### Forecasting
+
+**Documents:**
+
+
 
 <!--  
   
@@ -149,14 +210,14 @@ Typing speed
         
    --> 
         
-### Articulating motivating beliefs and models in writing, to uncover assumptions and clarify for coherence
+### 🔲 Articulating motivating beliefs and models in writing, to uncover assumptions and clarify for coherence
 
 
 <!--    - Flagging assumptions to test
     - Critiquing story / theory-->
 
  
-### Practical empiricism
+### 🔲 Practical empiricism
 
 
  
@@ -164,12 +225,17 @@ Typing speed
 
 * How to Measure Anything
 * The Lean Startup
-* Tom Chi's videos on Rapid Protyping
+* Tom Chi's videos on Rapid Prototyping
 
 
-### Scholarship
+### 🔲 Scholarship
 
-Document: [How to do scholarship](https://docs.google.com/document/d/1cS6d_J-cKobof1EjylpNZaRpHbH_wFEqSj6S-L2xu1k/edit)
+**Document:** [How to do scholarship](https://docs.google.com/document/d/1cS6d_J-cKobof1EjylpNZaRpHbH_wFEqSj6S-L2xu1k/edit)
+
+
+### 🔲 Original seeing (somehow)
+
+Specifically the skill of [seeing past labels](https://www.lesswrong.com/posts/ZXuqNhMDcs6mYtb6i/the-american-system-and-misleading-labels) to the actual underlying reality
     
 <!--- ### Unmorring / virtue of lightness
     - Beliefs that you want to be true
@@ -188,7 +254,7 @@ Document: [How to do scholarship](https://docs.google.com/document/d/1cS6d_J-cKo
 
 - Expert assessment
     - -->
-## Planning, decision making, prioritization
+## 🔲 Planning, decision making, prioritization
 
 **Heuristics:**
  
@@ -200,7 +266,7 @@ Document: [How to do scholarship](https://docs.google.com/document/d/1cS6d_J-cKo
 * Goal Factoring
 * Murphyjitu
 
-### Macro-planning and Project Selection 
+### 🔲 Macro-planning and Project Selection 
 
 **Techniques**: 
 
@@ -208,7 +274,7 @@ Document: [How to do scholarship](https://docs.google.com/document/d/1cS6d_J-cKo
 * EV fermi estimates
 * [For products with users] PRFAQs
     
-## Problem-solving
+## 🔲 Problem-solving
 
 **Documents:**
 
@@ -225,9 +291,9 @@ Document: [How to do scholarship](https://docs.google.com/document/d/1cS6d_J-cKo
 
     
     
-## Behavioral change
+## 🔲 Personal Behavioral change
 
-Document: Behavior Change Methods
+**Document:** Behavior Change Methods
 
 <!--- TAPs and TAP systems
 - Prop urges
@@ -238,35 +304,43 @@ Document: Behavior Change Methods
         - Removing variable intermit 
     - Aversion Factoring-->
 
-
     
-    
-## Reflection and Learning from experience
+## 🔲 Reflection and Learning from experience
 
-Techniques:
+**Techniques:**
 
 * Five Whys
 * [Key Decision Analysis - a fundamental rationality technique](https://www.lesswrong.com/posts/y54fv6BasFtucpF7D/key-decision-analysis-a-fundamental-rationality-technique) [LessWrong post]
 
 
-Checklists:
-
+**Checklists:**
 * Problem-solving debrief and reflection checklist
 * Weekly review checklist
 
-## Financial Resources
+## 🔲 Financial Resources
 
-## Programming
+Level 0: Can pay rent
+Level 1: 10k to 30k personal development fund
+Level 2: 30k to 100k personal development fund
+Level 3: Fuck you money [~ 1 million]
+Level 4: Disposable millions
+Level 5: Disposable tens of millions
 
-Documents:
+
+## 🔲 Programming
+
+**Documents**:
 
 * Notes on Programming
 
-## Interpersonal and relationalist skills
+## 🔲 Politics, integrity, trustworthiness
 
 
-Skills:
+## 🔲 Interpersonal, cooperation, and relationalist skills
 
+
+**Skills:
+**
 - Management
 - Mentorship skills
 - Convergent Facilitation
@@ -274,44 +348,46 @@ Skills:
 - NVC
 - Extraction
 
-Documents:
+**Documents:**
 
 * Notes on management and delegation
-* Notes on CFAR style mentorship skills
 * ITT-passing and Convergence stack
+* Notes on CFAR style mentorship skills
 
-Resources:
+**Resources**:
 
 * NonViolent Communication: A Language for Life
 * CF training
 * Circling Handbook
 
 
-## Communication
+## 🔲 Communication of ideas
 
 - Writing
 - Public speaking
 
 
-## Social skills
+## 🔲 Social skills
 
-Charisma
-Humor
+**Skills: 
+**
+- Charisma
+- Humor
+- Networking 
 
-Networking - good conversations at parties
-
-Resources:
+**Resources: 
+**
 
 * The Charisma Myth
 
 
-## Psych work and psychological integration
+## 🔲 Psych work and psychological integration
 
 Document: 
 
 - [Focusing/ psych debugging  moves](https://docs.google.com/document/d/1OXqflthzbr65CjYYK68wTzLlA6Dc96_qazr_KzOCYLg/edit#heading=h.jcw6bic35bl8)
 
-Techniques:
+**Techniques:**
 
 - Focusing 
 - Core Transformation
@@ -319,18 +395,26 @@ Techniques:
 - IDC
 - CoZE
 
-Resources:
+**Resources:**
 
-* Focusing
-* The Power of Focusing
-* Core Transformation
-* Self Therapy
+* Focusing by Eugene Gendlin
+* The Power of Focusing: A Practical Guide to Emotional Self-Healing Ann Weiser Cornell
+* Core Transformation: Reaching the Wellspring Within by by Connirae Andreas and Tamara Andreas
+* Self-Therapy : A Step-by-Step Guide to Creating Wholeness Using IFS, A Cutting-Edge Psychotherapy by Jay Earley
 
-## Joy and spiritual connection
 
-Techniques: 
+
+## 🔲 Joy and spiritual connection
+
+**Techniques:**
 
 * Gratitude practice
+
+## 🔲 Math
+
+**Documents**
+
+* [Math procedures and heuristics](Math procedures and heuristics.md)
 
     
 <!--## Developing concepts
