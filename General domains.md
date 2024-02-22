@@ -6,10 +6,11 @@
 
 * [Energy and Intentionality modulation](Energy and Intentionality Modulation.md)
 * [Sleep process and policies](https://wild-quit-ebe.notion.site/Sleep-process-and-policies-6f7a204833a34d4b99ad44860258ca7c)
+* [My wakeup and morning routine](https://wild-quit-ebe.notion.site/My-wake-up-and-morning-routine-ebd2c74a3f414f8ba3f2c5b8274b33fa?pvs=4)
 * [Napping protocol](https://docs.google.com/document/d/1ctnO9pwF7Ti7AjyYGoSiiTzAHidUZn-mZ4EvwHqPl9M/edit#heading=h.i24l245gvr44)
 * [Sleep deficit compensation procedures](https://wild-quit-ebe.notion.site/Sleep-deficit-compensation-procedures-5ecebd076d7446fd99e2d2f62961ae5b?pvs=25)
 * [Exercise policy](https://www.notion.so/Exercise-policy-458a9d81c91e46e6b8c7fdcae25b7621) 
-* Notes on rest days 
+* [Notes on rest days](https://wild-quit-ebe.notion.site/Notes-on-rest-days-0415bdc2c6d748f190ba21481acc2a3c?pvs=25) 
 * [Stimulant and supplement policy](https://wild-quit-ebe.notion.site/Stimulant-and-supplement-policy-ceaa8d7318fa4cea858c2998ade63127)
 
 **Checklists:**
@@ -51,8 +52,8 @@
 
 **Documents:**
 
-* My personal GTD system
-* Notes on setting up a GTD system
+* [My personal GTD system](https://wild-quit-ebe.notion.site/My-GTD-system-22ee6822d26545c0820c8c6becf17f00?pvs=25)
+* Notes on GTD 
 * [Passive consumption and addiction/distraction policies](https://wild-quit-ebe.notion.site/Passive-consumption-and-addiction-distraction-policies-e9467e7d3d2b479a8847f2da6c70063d)
 
 **Checklists:**
@@ -76,7 +77,7 @@
 - Checklists-->
 
 
-## 🔲Metacognition / intentional cognition
+## 🔲 Intentional cognition / metacognition
 
 (This section should fully overlap with other section?)
 

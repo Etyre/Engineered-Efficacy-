@@ -250,6 +250,12 @@ It helps a lot that I have a gym accessible from my office, so that I can work o
 
 For more detail see my [exercise policy](https://wild-quit-ebe.notion.site/Exercise-policy-458a9d81c91e46e6b8c7fdcae25b7621). 
 
+### Rest days
+
+I take a rest day once a week, and a half rest day once a week.
+
+See my [notes on rest days](https://wild-quit-ebe.notion.site/Notes-on-rest-days-0415bdc2c6d748f190ba21481acc2a3c?pvs=25).
+
 
 ### Diet
 
