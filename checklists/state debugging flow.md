@@ -1,0 +1,248 @@
+
+This was process I tried for a while to make transitioning out of less effective states easier, by reducing the cognitive overhead. I would basically answer a series of questions to navigate a tree of possible states, and then the app would tell me directly what to do next, instead of my needing to diagnose what was up with me free-form, and then figure out how to respond to that, all of which was unaffordable when I was in a low efficacy state.
+
+- State modulation process
+    - Start: #[[state modulation notes]]
+        - Is this a high activation state or a low activation state?
+        - {{[[TODO]]}} {{[[High activation]]}} 
+            - Am I currently compulsive / stimulation hungry / reactive / urgey?
+            - {{[[TODO]]}} {{[[yes]]}} 
+                - {{[[TODO]]}} Generate a random number between 0 and 2
+                - {{[[TODO]]}} {{[[Untitled]]}} 
+                    - {{[[TODO]]}} 0
+                        - [Hypothesized approach]
+                        - {{[[TODO]]}} **Do 3 minutes of cardio to clear cache. **
+                        - {{[[TODO]]}} {{[[Untitled]]}} 
+                            - {{[[TODO]]}} **Take some breaths to clear space and then check in with what's present for me. **
+                    - {{[[TODO]]}} 1
+                        - [Hypothesized approach]
+                        - {{[[TODO]]}} **Meditate into the sensation for 4 minutes**
+                    - {{[[TODO]]}} 2
+                        - [Hypothesized approach]
+                        - {{[[TODO]]}} **Alternating warm-cold shower**
+            - {{[[TODO]]}} {{[[no]]}} 
+                - Activated - What is the flavor of the activation?
+                - {{[[TODO]]}} {{[[Overwhelm / bursting with threads]]}} 
+                    - **Write out all my threads on note-cards. **
+                - {{[[TODO]]}} {{[["Left over activation"]]}} 
+                    - One of:
+                        - {{[[TODO]]}} **Just sit with the sensation, observing it, and feeling the space around it.**
+                            - 
+                        - {{[[TODO]]}} **Just focus on my breath.**
+                            - 
+                        - {{[[TODO]]}} **Intentionally lower my arousal with biofeedback**
+                            - 
+                - {{[[TODO]]}} {{[["Psychological"]]}} 
+                    - **Do Focusing**
+                    - {{[[Focusing checklist]]}}
+                        - 
+                - {{[[TODO]]}} {{[[I'm not sure]]}} 
+                    - **Meditate, alternating with Journaling**
+                    - Set a 5 minute timer
+                    - [[journal]]
+                        - 
+        - {{[[TODO]]}} {{[[Low activation]]}} 
+            - Am I...?
+            - {{[[TODO]]}} {{[[Sleep deprived]]}} 
+                - -
+                    - Does it feel like if I tried to nap that I would fall asleep?
+                    - {{[[TODO]]}} {{[[yes]]}} 
+                        - Do I have at least 2 hours before my next commitment?
+                        - {{[[TODO]]}} {{[[yes]]}} 
+                            - **Do yoga nidra:**
+                            - {{[[nap checklist]]}}
+                                1. Put my phone on silent
+                                2. Generate a random number between 0 and 3
+                                    - 0 - nothing
+                                    - 1 - Turn on pink noise
+                                    - 2 - Turn on binaural beats in the alpha range
+                                3. Take a moment to feel the appeal of getting cozy and going to sleep 
+                                4. Turn on the air conditioner
+                                5. Start a randomized yoga nidra audio
+                        - {{[[TODO]]}} {{[[no]]}} 
+                            - **Do a 20 minute yoga-nidra, then amp up with bellows breathing**
+                    - {{[[TODO]]}} {{[[no]]}} 
+                        - Have I exercised already today?
+                        - {{[[TODO]]}} {{[[yes]]}} 
+                            - Can I easily play beatsaber, and do I feel like it? 
+                            - {{[[TODO]]}} {{[[yes]]}} 
+                                - **go play beatsaber**
+                            - {{[[TODO]]}} {{[[no]]}} 
+                                - **Do a 20 minute yoga nidra**
+                                - [note that I need to make a separate playlist for these]
+                        - {{[[TODO]]}} {{[[no]]}} 
+                            - **Go exercise**:
+                            - What is smallest next step for going to exercise?
+                                - .
+            - {{[[TODO]]}} {{[[Cognitively drained]]}} 
+                - Does it feel like if I tried to nap that I would fall asleep?
+                - {{[[TODO]]}} {{[[yes]]}} 
+                    - Do I have at least 2 hours before my next commitment?
+                    - {{[[TODO]]}} {{[[yes]]}} 
+                        - **Lie down for a 40 minute yoga-nidra**
+                        - {{[[nap checklist]]}}
+                            1. Put my phone on silent
+                            2. Generate a random number between 0 and 3
+                                - 0 - nothing
+                                - 1 - Turn on pink noise
+                                - 2 - Turn on binaural beats in the alpha range
+                            3. Take a moment to feel the appeal of getting cozy and going to sleep 
+                            4. Turn on the air conditioner
+                            5. Start a randomized yoga nidra audio
+                    - {{[[TODO]]}} {{[[no]]}} 
+                        - **Do a 20 minute yoga-nidra, then amp up with bellows breathing**
+                - {{[[TODO]]}} {{[[no]]}} 
+                    - Have I exercised already today?
+                    - {{[[TODO]]}} {{[[yes]]}} 
+                        - Can I easily play beatsaber, and do I feel like it? 
+                        - {{[[TODO]]}} {{[[yes]]}} 
+                            - **go play beatsaber**
+                        - {{[[TODO]]}} {{[[no]]}} 
+                            - **Do a 20 minute yoga nidra**
+                            - [note that I need to make a separate playlist for these]
+                    - {{[[TODO]]}} {{[[no]]}} 
+                        - **Go exercise**:
+                        - What is smallest next step for going to exercise?
+                            - .
+            - {{[[TODO]]}} {{[[Physically exhausted]]}} 
+                - [duno]
+            - {{[[TODO]]}} {{[[Slugish]]}} 
+                - Am I slugish from just having eaten?
+                - {{[[TODO]]}} Yes, I just ate
+                    - Have I done my anki review for the day?
+                        - {{[[TODO]]}} Yes
+                            - **Go read saved articles**
+                            - And if I bounce off of that, go lie down with my eyes closed.
+                        - {{[[TODO]]}} No
+                            - **Do an anki review**
+                            - If I bounce off, lie down with my eyes closed.
+                - {{[[TODO]]}} No, that's not the cause
+                    - Drink a glass of water
+                    - {{[[TODO]]}} {{[[Untitled]]}}
+                        - Do I want to just lie down with my eyes closed?
+                            - {{[[TODO]]}} Yeah, that sounds good
+                                - Lay down with my eyes closed.
+                            - {{[[TODO]]}} No, not really
+                                - **Go exercise,__ even if I already have for the day__.**
+                                - What's the first, smallest step for going to exercise?
+                                    - 
+            - {{[[TODO]]}} {{[[Fuzzy]]}} 
+                - {{[[TODO]]}} Drink a tall glass of water
+                - {{[[TODO]]}} {{[[Untitled]]}} 
+                    - **Go exercise,__ even if I already have for the day__.**
+                    - What's the first, smallest step for going to exercise?
+                        - 
+            - {{[[TODO]]}} {{[[Feeling stuck or cloged or weighed down]]}} 
+                - **Do Focusing**
+                - {{[[Focusing checklist]]}} 
+            - {{[[TODO]]}} {{[[in a slow-mode]]}} 
+                - Do I want to be in a slow mode?
+                - {{[[TODO]]}} {{[[yes]]}} 
+                    - Great!
+                - {{[[TODO]]}} {{[[no]]}} 
+                    - Shift state:
+                    - Start by imagining yourself from the outside, and imagining yourself in a different state, and feeling the the appeal of that different state.
+            - {{[[TODO]]}} {{[[urgy, stimulation hungry]]}} 
+                - Hypothesized approach:
+                - Do 3 minutes of cardio to clear cache.
+                - {{[[Untitled]]}}
+                    - Orient on what's next.
+            - {{[[TODO]]}} {{[[Unmotivated]]}} 
+                - Am I dressed?
+                - {{[[TODO]]}} {{[[yes]]}} 
+                    - Feel into my chest. Is there a feeling of "stuckness"?
+                    - {{[[TODO]]}} {{[[yes]]}} 
+                        - Do focusing.
+                        - [Focusing checklist]
+                            - 1. Clear a space
+                                - 
+                            - 2. Delineate all of the parts that I can feel
+                                - 
+                            - 3. Ask what most wants my attention
+                                - 
+                        - {{[[TODO]]}} {{[[Untitled]]}} 
+                            - Did it work?
+                            - {{[[yes]]}}
+                                - Yay!
+                            - {{[[TODO]]}} {{[[no]]}} 
+                                - **Lie down with my eyes closed**
+                    - {{[[TODO]]}} {{[[no]]}} 
+                        - -
+                            - Am I averse to a specific task or just generally uninterested?
+                            - {{[[TODO]]}} {{[[Averse to a specific task]]}} 
+                                - Is it an ambiguity aversion, a "ugh" aversion, or active opposition?)
+                                - {{[[TODO]]}} {{[[ambiguity aversion]]}} 
+                                    - What is the absolute minimum next step?
+                                        - .
+                                    - {{[[TODO]]}} {{[next]}} 
+                                        - **Simulate that next step.**
+                                - {{[[TODO]]}} {{[["ugh" aversion, it feels like a slog]]}} 
+                                    - Did I precommit to do this as one of my main goals for the day?
+                                    - {{[[TODO]]}} {{[[yes]]}}
+                                        - {{[[TODO]]}} Take one deep breath. 
+                                        - {{[[TODO]]}} Start a Focusmate session. 
+                                    - {{[[TODO]]}} {{[[no]]}} 
+                                        - Dialog with my motivation
+                                        - Any of:
+                                            - {{[[TODO]]}} **Goal factor**
+                                                - 
+                                            - {{[[TODO]]}}** Iterate up the motivation chain** 
+
+                                                - [[Goal-chain inspection]]
+                                            - {{[[TODO]]}} **Fermi estimate of it it seems worth it to do**
+                                                - 
+                                - {{[[TODO]]}} {{[[active opposition]]}}
+                                    - {{[[TODO]]}} **Do Focusing**
+                                    - {{[[Pull up Focusing checklist]]}}
+                            - {{[[TODO]]}} {{[[generally uninterested]]}}
+                                - OR: 
+                                    - {{[[TODO]]}} Journal: What do I want?
+                                        - 
+                                    - {{[[TODO]]}} **Lie down with my eyes closed until something seems worth getting up for.**
+                - {{[[TODO]]}} {{[[no]]}}
+                    - {{[[TODO]]}} **get dressed**.
+                    - {{[[TODO]]}} {{[[Untitled]]}}
+                        - Am I averse to a specific task or just generally uninterested?
+                        - {{[[TODO]]}} {{[[Averse to a specific task]]}} 
+                            - Is it an ambiguity aversion, a "ugh" aversion, or active opposition?)
+                            - {{[[TODO]]}} {{[[ambiguity aversion]]}} 
+                                - What is the absolute minimum next step?
+                                    - .
+                                - {{[[TODO]]}} {{[next]}} 
+                                    - **Simulate that next step.**
+                            - {{[[TODO]]}} {{[["ugh" aversion, it feels like a slog]]}} 
+                                - Did I precommit to do this as one of my main goals for the day?
+                                - {{[[TODO]]}} {{[[yes]]}}
+                                    - {{[[TODO]]}} Take one deep breath. 
+                                    - {{[[TODO]]}} **Start a Focusmate session**. 
+                                - {{[[TODO]]}} {{[[no]]}} 
+                                    - Dialog with my motivation
+                                    - Any of:
+                                        - {{[[TODO]]}} **Goal factor**
+                                        - {{[[TODO]]}}** Iterate up the motivation chain** 
+
+                                            - [[Goal-chain inspection]]
+                                        - {{[[TODO]]}} **Fermi estimate of it it seems worth it to do**
+                            - {{[[TODO]]}} {{[[active opposition]]}}
+                                - {{[[TODO]]}} **Do Focusing**
+                                - {{[[Pull up Focusing checklist]]}}
+                                    - 
+                        - {{[[TODO]]}} {{[[generally uninterested]]}}
+                            - OR: 
+                                - {{[[TODO]]}} Journal: What do I want?
+                                    - 
+                                - {{[[TODO]]}} **Lie down with my eyes closed until something seems worth getting up for.**
+            - {{[[TODO]]}} {{[[otherwise low energy]]}} 
+                - Am I dressed?
+                - {{[[TODO]]}} {{[[yes]]}}
+                    - **Check in with myself, to see if there's something that I need.**
+                        - 
+                - {{[[TODO]]}} {{[[no]]}}
+                    - {{[[TODO]]}} **Get dressed**.
+                    - {{[[Untitled]]}}
+                        - Am I feelingbetter?
+                            - {{[[yes]]}}
+                                - Great!
+                            - {{[[no]]}}
+                                - **Check in with myself, to see if there's something that I need.**
+                                    - 

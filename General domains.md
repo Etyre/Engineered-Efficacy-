@@ -1,12 +1,13 @@
 # General domains
 
-##  State and energy modulation
+## ☑️ State and energy modulation
 
 **Documents:**
 
 * [Energy and Intentionality modulation](Energy and Intentionality Modulation.md)
+* [State Modulation TAPs](https://wild-quit-ebe.notion.site/State-modulation-TAPs-1c59cb1d6667460e9a041d899d3a15da?pvs=74) 
+	* [I might want to compare this one to my old documents / pages on the same topic]
 * [Sleep process and policies](https://wild-quit-ebe.notion.site/Sleep-process-and-policies-6f7a204833a34d4b99ad44860258ca7c)
-* [My wakeup and morning routine](https://wild-quit-ebe.notion.site/My-wake-up-and-morning-routine-ebd2c74a3f414f8ba3f2c5b8274b33fa?pvs=4)
 * [Napping protocol](https://docs.google.com/document/d/1ctnO9pwF7Ti7AjyYGoSiiTzAHidUZn-mZ4EvwHqPl9M/edit#heading=h.i24l245gvr44)
 * [Sleep deficit compensation procedures](https://wild-quit-ebe.notion.site/Sleep-deficit-compensation-procedures-5ecebd076d7446fd99e2d2f62961ae5b?pvs=25)
 * [Exercise policy](https://www.notion.so/Exercise-policy-458a9d81c91e46e6b8c7fdcae25b7621) 
@@ -16,7 +17,7 @@
 **Checklists:**
 
 * [Rest day checklist](checklists/rest day checklist.md)
-* State debugging flowchart
+* [State debugging flowchart](checklists/state debugging flow.md) [deprecated]
 
 
 <!--- Processing stuckness
