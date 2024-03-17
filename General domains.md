@@ -19,6 +19,10 @@
 * [Rest day checklist](checklists/rest day checklist.md)
 * [State debugging flowchart](checklists/state debugging flow.md) [deprecated]
 
+Resources:
+
+* [Optimal Exercise](https://www.lesswrong.com/posts/bZ2w99pEAeAbKnKqo/optimal-exercise)
+
 
 <!--- Processing stuckness
     - Slowing down, clearing a space, and doing focusing
@@ -85,6 +89,8 @@
 * [Habits for inducing thought](https://wild-quit-ebe.notion.site/Habits-for-inducing-thought-c486294078d044259bbb19adb9804ed1?pvs=4)
 
 
+
+
 ## 🔲 Competence / agency
 
 
@@ -104,7 +110,9 @@
 
 ## 🔲 Input/output, working memory
 
-* Augmenting Working Memory
+* Methods for augmenting working memory
+* [Audio-notes workflow](https://wild-quit-ebe.notion.site/Audio-notes-workflow-911a6e950b054d9cb5685f7408c6adcf)
+* 
 
 ### Using paper
 
@@ -133,13 +141,13 @@ Types of paper:
 
 
 
-###Input speed
+### Input speed
 
 ##### Reading speed
 
 ##### Listening speed
 
-###Output speed
+### Output speed
 
 ##### Typing speed
 
@@ -154,11 +162,22 @@ Types of paper:
 **Documents: **
 
 * [How I learn](Learning Methodology.md)
+* Notes on assessing /selecting tutors
+  * The 
+
 * [How I use spaced repetition](How I use spaced repetition.md)
 
 **Checklists:**
 
 * Deliberate practice checklist
+
+
+Resources
+
+* [Lessons I've learned from self-teaching](https://www.lesswrong.com/posts/cumc876woKaZLmQs5/lessons-i-ve-learned-from-self-teaching) 
+* [On Learning Difficult Things](https://www.lesswrong.com/posts/w5F4w8tNZc6LcBKRP/on-learning-difficult-things) 
+
+
 
 <!--- Core concepts
     - Active learning
@@ -172,6 +191,16 @@ Types of paper:
 **Documents:**
 
 * Epistemic habits
+
+
+
+epistemic TAPs:
+
+* Looking up numbers 
+	- triggers
+- Making predictions 
+	- 	 This post has some good triggers: https://www.lesswrong.com/posts/x4GmqcwjFTnWeRiud/16-types-of-useful-predictions
+
 
 
 <!--### Rapid orienting and getting a high level view-->
@@ -192,7 +221,7 @@ Notes on quantitative reasoning
 
 
 <!--  
-  
+
   - Mental Arithmetic
     - Bayes 
         - Generating hypotheses
@@ -204,6 +233,7 @@ Notes on quantitative reasoning
         - Noticing need for quantities
         - Fermi estimates
         
+
    --> 
         
 ### 🔲 Articulating motivating beliefs and models in writing, to uncover assumptions and clarify for coherence
@@ -212,11 +242,11 @@ Notes on quantitative reasoning
 <!--    - Flagging assumptions to test
     - Critiquing story / theory-->
 
- 
+
 ### 🔲 Practical empiricism
 
+* Something about my personal KPIs
 
- 
 **Resources:**
 
 * How to Measure Anything
@@ -228,6 +258,14 @@ Notes on quantitative reasoning
 
 **Document:** [How to do scholarship](https://docs.google.com/document/d/1cS6d_J-cKobof1EjylpNZaRpHbH_wFEqSj6S-L2xu1k/edit)
 
+
+
+"Here's my suggestion. Every time you're tempted to tackle a serious  question in a subject on which you're not already an expert, ask  yourself: "Whose giant shoulders can I stand on, here?"
+
+
+Resources:
+
+* https://www.lesswrong.com/posts/Sdx6A6yLByRRs8iLY/fact-posts-how-and-why
 
 ### 🔲 Original seeing (somehow)
 
@@ -252,8 +290,11 @@ Specifically the skill of [seeing past labels](https://www.lesswrong.com/posts/Z
     - -->
 ## 🔲 Planning, decision making, prioritization
 
+
+
+
 **Heuristics:**
- 
+
 - Identifying the crux and aggressively getting the info
 
 
@@ -269,7 +310,7 @@ Specifically the skill of [seeing past labels](https://www.lesswrong.com/posts/Z
 * Plan explication->Assumption articulation loop
 * EV fermi estimates
 * [For products with users] PRFAQs
-    
+  
 ## 🔲 Problem-solving
 
 **Documents:**
@@ -365,6 +406,13 @@ Level 5: Disposable tens of millions
 
 ## 🔲 Social skills
 
+
+When in need of a conversation topic, ask a question about the other person's life. Anything about their life. (If I can't think of something else, I ask about weekend plans.) Listen for what part of their answer they're most interested in. Ask followup questions about that thing. Repeat as necessary.
+
+People like to talk about themselves. This cuts awkward silences down to nothing and makes people like you. I've also learned all sorts of fascinating things about my acquaintances.
+
+From [here](https://www.lesswrong.com/posts/HEn2qiMxk5BggN83J/boring-advice-repository?commentId=Qq7RPuhpTeDSnYDAp)
+
 **Skills: 
 **
 - Charisma
@@ -406,6 +454,15 @@ Document:
 
 * Gratitude practice
 
+
+
+- Find a satisfying to me romantic partnership somehow.
+- Grattiude practice
+- Sing more
+- Have sex with someone that I like and love.
+- Explicitly enjoy my meals
+- Practice the Jahanas
+
 ## 🔲 Math
 
 **Documents**
@@ -413,6 +470,7 @@ Document:
 * [Math procedures and heuristics](Math procedures and heuristics.md)
 
     
+
 <!--## Developing concepts
 - Naturalism
 - Thinking at the Edge

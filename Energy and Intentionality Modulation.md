@@ -68,7 +68,7 @@ There’s a smaller structure within these blocks of time, where I’m either pu
 If, before I start an intentionality timer, I feel hesitant about committing to an intentionality block, I'll shorten the length of time, instead of reducing the intensity. I want to be practicing alert intenseness. If I don't feel up for a full 4 hours, I'll reduce the length of the block (before I start!) until I feel confident about committing to deliberate intentionality for that period.
 
 Motivation comes from momentum. My goal is to build momentum every day. 
- 
+
 ##### Amping up:
 
 At the start of a taut block, or if at any point I my energy is flagging, I’ll use one of a few techniques to raise my energy, and more importantly, my tempo. Low energy can be compensated for by heightened arousal or momentum.
@@ -105,7 +105,9 @@ So if I feel like I need to take a break, I'll lie down with my eyes closed, lis
 
 A crucial piece of maintaining energy and tautness is that I don't eat at all during intentionality blocks, with the exception of a liquid meal / protein shake following a workout. Eating spikes-and-crashes my blood sugar and lowers my energy.
 
-If I'm hungry or have a generic, non-hunger, interest in eating, I'll drink a container of water or a cup of tea, or I'll chew gum (I prefer the [simply brand](https://www.simplygum.com/collections/gum)) instead.
+I typically eat one meal a day, right before my nap, to synergize my rest and lowered energy. I don't eat at all in the second part of my day after I wake up from my nap (with the exception of a protien drink following a workout if I exercise in the second half of the day).
+
+If I'm hungry or have a generic, non-hunger, interest in eating, I'll drink a container of water or a cup of tea, or I'll chew gum (I prefer the [simply brand](https://www.simplygum.com/collections/gum)) instead. 
 
 ```
 TAP: Feel a vague pull to eat ->
@@ -117,7 +119,7 @@ TAP: Feel a vague pull to eat ->
 TAP: Finish eating a meal, tempted to eat more ->
 	Put my attention mentally on gum-boxes	
 ```
-Eating causes my energy to dip or crash (though by how much depends on what I eat). So I'm careful to time it. I don't let myself eat casually. **** 
+Eating causes my energy to dip or crash (though by how much depends on what I eat). So I'm careful to time it. I don't let myself eat casually. 
 
 ##### Physical Speed
 
@@ -263,7 +265,6 @@ See my [notes on rest days](https://wild-quit-ebe.notion.site/Notes-on-rest-days
 
 
 ### Sex
-
 
 
 
