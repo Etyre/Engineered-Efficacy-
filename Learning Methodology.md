@@ -1,4 +1,4 @@
-# Learning Methods / How I learn / Notes on learning
+# Skill Learning Methods / How I learn / Notes on skill learning
 
 Procedural note in putting together this document: don't worry to much about the order or organization. That can come latter. Just collect strategies and heuristics, as independent units
 
@@ -9,7 +9,9 @@ Procedural note in putting together this document: don't worry to much about the
 * Active Learning 
 * 1-on-1 instruction
 * Spaced repetition
-* Targetting the domain of proximal competence and right-sizing chunks.
+* Targeting the domain of proximal competence and right-sizing chunks.
+* Chunking and consolidation
+* Goal-relevance
 
 ### Principles of deliberate practice
 
@@ -18,6 +20,10 @@ Procedural note in putting together this document: don't worry to much about the
 - Find the limits of your ability
 - Fix your errors
 - Feedback
+
+### Philosophy
+
+Declarative knowledge is degenerate procedural knowledge. 
 
 ## Heuristics and techniques
 
@@ -260,6 +266,69 @@ An idea from Winifred (h/t Rafe):
 ### Generalizing 
 
 ### Layering
+
+
+
+## Divided by steps
+
+### Learning program design
+
+#### Write out your first pass training plan
+
+
+
+
+
+#### Inverting
+
+From the First 20 Hours
+
+When deconstructing a skill, teasing out all the necessary sub-skills, list all the way that things could go wrong. What if everything went wrong with what I’m trying to learn? What are all the ways I could fail? what would that look like?
+
+Each failure mode is a pointer to a necessary sub skill
+
+Quote the book
+
+
+
+#### DiSSS
+
+From Tim Ferris's podcast on meta learning (#191)
+
+**Deconsturction**
+
+- "What are the minium learnable units, the lego blocks, I should start with?"
+
+**Selection**
+
+- "Which 20% of the blocks should I focus on for 80% or more of the outcomes I want?"
+
+**Sequencing**
+
+- "In what order should I learn the blocks?"
+
+**Stakes**
+
+- "How do I set up stakes and real consequences to guaranty that I follow the program?"
+
+#### CaFE
+
+From Tim Ferris's podcast on meta learning (#191)
+
+**Compression**
+
+- "Can I encapsulate the most important 20% into an easily graspable 1-pager?"
+
+**Frequency**
+
+- "How frequently should I practice? Can I cram? What should my schedule look like? What growing pains can I predict? What is the minum effective dose per volume?
+
+**Encoding**
+
+- "How do I anchor the new material to things I already know for rapid recall?"
+- Acronyms
+
+
 
 
 

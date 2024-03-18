@@ -181,11 +181,12 @@ Resources
 
 <!--- Core concepts
     - Active learning
-    - Zooming down to the right size chunk
-    - Spaced repetition
-    -->
-    
-    
+        - Zooming down to the right size chunk
+        - Spaced repetition
+        -->
+
+​    
+
 ## 🔲 Epistemics: building accurate models, figuring out what's true
 
 **Documents:**
@@ -203,7 +204,19 @@ epistemic TAPs:
 
 
 
-<!--### Rapid orienting and getting a high level view-->
+### 🔲 Building understanding 
+
+ Rapid orienting and getting a high level view
+
+??Start by breaking down very basic fundamental questions??
+
+"And you’ll have a semantic mental ‘framework’ in your brain on which to  then hang all the great things you learn from your reading, which makes  it more likely that you’ll retain that stuff as well. I read somewhere  that Bill Gates structures his famous “reading weeks” around an outline  of important questions he’s thought about and broken down into pieces.  e.g. he’ll think about “water scarcity” and then break it down into  questions like “how much water is there in the world?”, “where does  existing drinking water come from?”, “how do you turn ocean water into  drinking water”, etc., and only *then* will he pick reading to address those questions. "
+
+
+
+Resources:
+
+* [How To Understand Things](https://nabeelqu.co/understanding)
 
 
 ### 🔲Quantitative epistemology
@@ -238,9 +251,12 @@ Notes on quantitative reasoning
         
 ### 🔲 Articulating motivating beliefs and models in writing, to uncover assumptions and clarify for coherence
 
+- Flagging assumptions to test
+      - Critiquing story / theory
 
-<!--    - Flagging assumptions to test
-    - Critiquing story / theory-->
+Resources
+
+[Learning By Writing](https://www.cold-takes.com/learning-by-writing/)
 
 
 ### 🔲 Practical empiricism
@@ -262,10 +278,10 @@ Notes on quantitative reasoning
 
 "Here's my suggestion. Every time you're tempted to tackle a serious  question in a subject on which you're not already an expert, ask  yourself: "Whose giant shoulders can I stand on, here?"
 
-
 Resources:
 
-* https://www.lesswrong.com/posts/Sdx6A6yLByRRs8iLY/fact-posts-how-and-why
+* [Fact Posts: How and Why](https://www.lesswrong.com/posts/Sdx6A6yLByRRs8iLY/fact-posts-how-and-why)
+* [Scholarship: How to Do It Efficiently](https://www.lesswrong.com/posts/37sHjeisS9uJufi4u/scholarship-how-to-do-it-efficiently)
 
 ### 🔲 Original seeing (somehow)
 
@@ -403,8 +419,13 @@ Level 5: Disposable tens of millions
 - Writing
 - Public speaking
 
-
 ## 🔲 Social skills
+
+### Sales
+
+https://nabeelqu.co/post-selling
+
+
 
 
 When in need of a conversation topic, ask a question about the other person's life. Anything about their life. (If I can't think of something else, I ask about weekend plans.) Listen for what part of their answer they're most interested in. Ask followup questions about that thing. Repeat as necessary.
